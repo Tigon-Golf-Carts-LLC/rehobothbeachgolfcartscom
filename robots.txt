@@ -1,0 +1,88 @@
+# Luzerne County Golf Carts - Robots.txt
+# Allow all web crawlers and search engine bots
+# Follow all links and index all content
+
+User-agent: *
+Allow: /
+Disallow:
+
+# Allow all major search engine bots specifically
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# Crawl delay - be respectful to server resources
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://luzernegolfcarts.com/sitemap.xml
+
+# Allow indexing of all content types
+# CSS, JS, images, and other assets
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.pdf
+
+# Company Information for SEO
+# Business: Luzerne County Golf Carts
+# Location: Luzerne County, Pennsylvania
+# Services: Golf Cart Sales, Service, Rentals, Parts
+# Brands: DENAGO, EVOLUTION
+# Phone: 1-844-844-6638
+# Email: info@luzernegolfcarts.com
+# Coverage: Major Luzerne County locations (35 locations)
+# 
+# Website Structure:
+# - 8 Main Pages (Home, Inventory, Services, About, Rentals, Showroom, Contact, Financing)
+# - 2 Brand Pages (DENAGO, EVOLUTION)
+# - 37 Individual Vehicle Detail Pages
+# - 35 Luzerne County Location Pages
+# - 35 Luzerne County Location Rental Pages
+# - 12 Comprehensive Policy Pages
+# 
+# Luzerne County Locations Served:
+# Cities (4): Hazleton, Nanticoke, Pittston, Wilkes Barre
+# Major Communities: Beach Haven, Bear Creek, Cambra, Conyngham, Dallas, Drifton, 
+#                    Drums, Duryea, Ebervale, Freeland, Glen Lyon, Harleigh, 
+#                    Harveys Lake, Hunlock Creek, Huntington Mills, Kingston,
+#                    Lattimer Mines, Lehman, Luzerne, Milnesville, Mountain Top,
+#                    Nescopeck, Plymouth, Rock Glen, Saint Johns, Shavertown,
+#                    Shawanese, Shickshinny, Sugarloaf, Sweet Valley, Sybertsville,
+#                    Wapwallopen, Weston, White Haven, Wyoming
+#
+# Professional SEO Implementation:
+# - Complete sitemap.xml with all 100+ pages
+# - Comprehensive structured data markup
+# - Local business optimization for Luzerne County PA

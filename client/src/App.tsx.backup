@@ -1,0 +1,218 @@
+import { Route, Switch } from "wouter";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { HelmetProvider } from "react-helmet-async";
+import { Toaster } from "@/components/ui/toaster";
+import useScrollToTop from "@/hooks/useScrollToTop";
+import Navigation from "@/components/Navigation";
+import Footer from "@/components/Footer";
+import HomePage from "@/pages/HomePage";
+import InventoryPage from "@/pages/InventoryPage";
+import RentalsPage from "@/pages/RentalsPage";
+import ServicesPage from "@/pages/ServicesPage";
+import AboutPage from "@/pages/AboutPage";
+import DenagoPage from "@/pages/DenagoPage";
+import EvolutionPage from "@/pages/EvolutionPage";
+import VehicleDetailPage from "@/pages/VehicleDetailPage";
+import ContactPage from "@/pages/ContactPage";
+import ThankYouPage from "@/pages/ThankYouPage";
+import ShowroomPage from "@/pages/ShowroomPage";
+import NotFound from "@/pages/not-found";
+import NewInventoryPage from "@/pages/NewInventoryPage";
+import NewServicesPage from "@/pages/NewServicesPage";
+import NewAboutPage from "@/pages/NewAboutPage";
+import EcoImpactPage from "@/pages/EcoImpactPage";
+
+import { PrivacyPolicyPage } from "@/pages/PrivacyPolicyPage";
+import { TermsOfServicePage } from "@/pages/TermsOfServicePage";
+
+// Policy Pages
+import TermsConditionsPage from "@/pages/policies/TermsConditionsPage";
+import ReturnPolicyPage from "@/pages/policies/ReturnPolicyPage";
+import DeliveryPolicyPage from "@/pages/policies/DeliveryPolicyPage";
+import RentalPolicyPage from "@/pages/policies/RentalPolicyPage";
+import StoragePolicyPage from "@/pages/policies/StoragePolicyPage";
+import PublishingPolicyPage from "@/pages/policies/PublishingPolicyPage";
+import FeedbackPolicyPage from "@/pages/policies/FeedbackPolicyPage";
+import CorrectionsPolicyPage from "@/pages/policies/CorrectionsPolicyPage";
+import DiversityPolicyPage from "@/pages/policies/DiversityPolicyPage";
+import EthicsPolicyPage from "@/pages/policies/EthicsPolicyPage";
+import StaffingReportPage from "@/pages/policies/StaffingReportPage";
+
+// Carbon County Municipality Pages
+import {
+  BeaverMeadowsBoroughPage, BowmanstownBoroughPage, CoaldaleBoroughPage, EastSideBoroughPage,
+  JimThorpeBoroughPage, LansfordBoroughPage, LehightonBoroughPage, NesquehoningBoroughPage,
+  PalmertonBoroughPage, ParryvilleBoroughPage, SummitHillBoroughPage, WeatherlyBoroughPage,
+  WeissportBoroughPage, BanksTownshipPage, EastPennTownshipPage, FranklinTownshipPage,
+  KidderTownshipPage, LausanneTownshipPage, LehighTownshipPage, MahoningTownshipPage,
+  PackerTownshipPage, PennForestTownshipPage, TowamensingTownshipPage
+} from "@/pages/towns/CarbonCountyMunicipalityPages";
+
+// Carbon County Rental Pages
+import {
+  BeaverMeadowsRentalPage, BowmanstownRentalPage, CoaldaleRentalPage, EastSideRentalPage,
+  JimThorpeRentalPage, LansfordRentalPage, LehightonRentalPage, NesquehoningRentalPage,
+  PalmertonRentalPage, ParryvilleRentalPage, SummitHillRentalPage, WeatherlyRentalPage,
+  WeissportRentalPage, BanksRentalPage, EastPennRentalPage, FranklinRentalPage,
+  KidderRentalPage, LausanneRentalPage, LehighRentalPage, MahoningRentalPage,
+  PackerRentalPage, PennForestRentalPage, TowamensingRentalPage
+} from "@/pages/rentals/CarbonCountyMunicipalityRentals";
+
+// Note: Individual vehicle detail pages removed - using dynamic VehicleDetailPage instead
+
+const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      staleTime: 1000 * 60 * 5, // 5 minutes
+      retry: 1,
+    },
+  },
+});
+
+export default function App() {
+  useScrollToTop();
+
+  return (
+    <HelmetProvider>
+      <QueryClientProvider client={queryClient}>
+        <div className="min-h-screen flex flex-col">
+          <Navigation />
+          <main className="flex-1">
+          <Switch>
+            {/* Main Pages */}
+            <Route path="/" component={HomePage} />
+            <Route path="/inventory" component={NewInventoryPage} />
+            <Route path="/rentals" component={RentalsPage} />
+            <Route path="/services" component={NewServicesPage} />
+            <Route path="/about" component={NewAboutPage} />
+
+            <Route path="/denago" component={DenagoPage} />
+            <Route path="/evolution" component={EvolutionPage} />
+            <Route path="/vehicle/:id" component={VehicleDetailPage} />
+            <Route path="/vehicles/:id" component={VehicleDetailPage} />
+            <Route path="/contact" component={ContactPage} />
+            <Route path="/thank-you" component={ThankYouPage} />
+            <Route path="/showroom" component={ShowroomPage} />
+            <Route path="/eco-impact" component={EcoImpactPage} />
+            <Route path="/privacy" component={PrivacyPolicyPage} />
+            <Route path="/terms" component={TermsOfServicePage} />
+
+            {/* Policy Pages */}
+            <Route path="/policies/terms-conditions" component={TermsConditionsPage} />
+            <Route path="/policies/return-policy" component={ReturnPolicyPage} />
+            <Route path="/policies/delivery-policy" component={DeliveryPolicyPage} />
+            <Route path="/policies/rental-policy" component={RentalPolicyPage} />
+            <Route path="/policies/storage-policy" component={StoragePolicyPage} />
+            <Route path="/policies/publishing-policy" component={PublishingPolicyPage} />
+            <Route path="/policies/feedback-policy" component={FeedbackPolicyPage} />
+            <Route path="/policies/corrections-policy" component={CorrectionsPolicyPage} />
+            <Route path="/policies/diversity-policy" component={DiversityPolicyPage} />
+            <Route path="/policies/ethics-policy" component={EthicsPolicyPage} />
+            <Route path="/policies/staffing-report" component={StaffingReportPage} />
+
+            {/* Carbon County Municipality Pages */}
+            <Route path="/towns/alburtis" component={AlburtisPage} />
+            <Route path="/towns/allentown" component={AllentownPage} />
+            <Route path="/towns/breinigsville" component={BreinigsvillePage} />
+            <Route path="/towns/catasauqua" component={CatasauquaPage} />
+            <Route path="/towns/center-valley" component={CenterValleyPage} />
+            <Route path="/towns/coopersburg" component={CoopersburgPage} />
+            <Route path="/towns/coplay" component={CoplayPage} />
+            <Route path="/towns/east-texas" component={EastTexasPage} />
+            <Route path="/towns/emmaus" component={EmmausPage} />
+            <Route path="/towns/fogelsville" component={FogelsvillePage} />
+            <Route path="/towns/germansville" component={GermansvillePage} />
+            <Route path="/towns/laurys-station" component={LaurysStationPage} />
+            <Route path="/towns/limeport" component={LimeportPage} />
+            <Route path="/towns/macungie" component={MacungiePage} />
+            <Route path="/towns/neffs" component={NeffsPage} />
+            <Route path="/towns/new-tripoli" component={NewTripoliPage} />
+            <Route path="/towns/old-zionsville" component={OldZionsvillePage} />
+            <Route path="/towns/orefield" component={OrefieldPage} />
+            <Route path="/towns/schnecksville" component={SchnecksvillePage} />
+            <Route path="/towns/slatedale" component={SlatedalePage} />
+            <Route path="/towns/slatington" component={SlatingtonPage} />
+            <Route path="/towns/trexlertown" component={TrexlertownPage} />
+            <Route path="/towns/whitehall" component={WhitehallPage} />
+            <Route path="/towns/zionsville" component={ZionsvillePage} />
+
+            {/* SEO-friendly URL routes matching footer links */}
+            <Route path="/alburtis-borough-golf-carts" component={AlburtisPage} />
+            <Route path="/allentown-city-golf-carts" component={AllentownPage} />
+            <Route path="/breinigsville-area-golf-carts" component={BreinigsvillePage} />
+            <Route path="/catasauqua-borough-golf-carts" component={CatasauquaPage} />
+            <Route path="/center-valley-area-golf-carts" component={CenterValleyPage} />
+            <Route path="/coopersburg-borough-golf-carts" component={CoopersburgPage} />
+            <Route path="/coplay-borough-golf-carts" component={CoplayPage} />
+            <Route path="/east-texas-area-golf-carts" component={EastTexasPage} />
+            <Route path="/emmaus-borough-golf-carts" component={EmmausPage} />
+            <Route path="/fogelsville-area-golf-carts" component={FogelsvillePage} />
+            <Route path="/germansville-area-golf-carts" component={GermansvillePage} />
+            <Route path="/laurys-station-area-golf-carts" component={LaurysStationPage} />
+            <Route path="/limeport-area-golf-carts" component={LimeportPage} />
+            <Route path="/macungie-borough-golf-carts" component={MacungiePage} />
+            <Route path="/neffs-area-golf-carts" component={NeffsPage} />
+            <Route path="/new-tripoli-area-golf-carts" component={NewTripoliPage} />
+            <Route path="/old-zionsville-area-golf-carts" component={OldZionsvillePage} />
+            <Route path="/orefield-area-golf-carts" component={OrefieldPage} />
+            <Route path="/schnecksville-area-golf-carts" component={SchnecksvillePage} />
+            <Route path="/slatedale-area-golf-carts" component={SlatedalePage} />
+            <Route path="/slatington-borough-golf-carts" component={SlatingtonPage} />
+            <Route path="/trexlertown-area-golf-carts" component={TrexlertownPage} />
+            <Route path="/whitehall-township-golf-carts" component={WhitehallPage} />
+            <Route path="/zionsville-borough-golf-carts" component={ZionsvillePage} />
+
+            {/* Municipality routes that match the data structure */}
+            <Route path="/bethlehem-city-golf-carts" component={BethlehemCityPage} />
+            <Route path="/lower-macungie-township-golf-carts" component={LowerMacungieTownshipPage} />
+            <Route path="/south-whitehall-township-golf-carts" component={SouthWhitehallTownshipPage} />
+            <Route path="/upper-macungie-township-golf-carts" component={UpperMacungieTownshipPage} />
+            <Route path="/salisbury-township-golf-carts" component={SalisburyTownshipPage} />
+            <Route path="/north-whitehall-township-golf-carts" component={NorthWhitehallTownshipPage} />
+            <Route path="/upper-saucon-township-golf-carts" component={UpperSauconTownshipPage} />
+            <Route path="/lower-milford-township-golf-carts" component={LowerMilfordTownshipPage} />
+            <Route path="/lynn-township-golf-carts" component={LynnTownshipPage} />
+            <Route path="/heidelberg-township-golf-carts" component={HeidelbergTownshipPage} />
+            <Route path="/washington-township-golf-carts" component={WashingtonTownshipPage} />
+            <Route path="/weisenberg-township-golf-carts" component={WeisenbergTownshipPage} />
+            <Route path="/lowhill-township-golf-carts" component={LowhillTownshipPage} />
+            <Route path="/fountain-hill-borough-golf-carts" component={FountainHillBoroughPage} />
+
+            {/* Carbon County Location-Based Rental Pages */}
+            <Route path="/rentals/allentown" component={AllentownRentalPage} />
+            <Route path="/rentals/bethlehem" component={BethlehemRentalPage} />
+            <Route path="/rentals/lower-macungie" component={LowerMacungieRentalPage} />
+            <Route path="/rentals/south-whitehall" component={SouthWhitehallRentalPage} />
+            <Route path="/rentals/upper-macungie" component={UpperMacungieRentalPage} />
+            <Route path="/rentals/whitehall" component={WhitehallTownshipRentalPage} />
+            <Route path="/rentals/salisbury" component={SalisburyRentalPage} />
+            <Route path="/rentals/north-whitehall" component={NorthWhitehallRentalPage} />
+            <Route path="/rentals/upper-saucon" component={UpperSauconRentalPage} />
+            <Route path="/rentals/lower-milford" component={LowerMilfordRentalPage} />
+            <Route path="/rentals/lynn" component={LynnRentalPage} />
+            <Route path="/rentals/heidelberg" component={HeidelbergRentalPage} />
+            <Route path="/rentals/washington" component={WashingtonRentalPage} />
+            <Route path="/rentals/weisenberg" component={WeisenbergRentalPage} />
+            <Route path="/rentals/lowhill" component={LowhillRentalPage} />
+            <Route path="/rentals/emmaus" component={EmmausRentalPage} />
+            <Route path="/rentals/macungie" component={MacungieRentalPage} />
+            <Route path="/rentals/catasauqua" component={CatasauquaRentalPage} />
+            <Route path="/rentals/coopersburg" component={CoopersburgRentalPage} />
+            <Route path="/rentals/fountain-hill" component={FountainHillRentalPage} />
+            <Route path="/rentals/alburtis" component={AlburtisRentalPage} />
+            <Route path="/rentals/slatington" component={SlatingtonRentalPage} />
+            <Route path="/rentals/coplay" component={CoplayRentalPage} />
+
+            {/* All vehicle detail pages handled by dynamic VehicleDetailPage component */}
+
+            {/* 404 Page */}
+            <Route component={NotFound} />
+          </Switch>
+        </main>
+        <Footer />
+        <Toaster />
+      </div>
+    </QueryClientProvider>
+  </HelmetProvider>
+  );
+}

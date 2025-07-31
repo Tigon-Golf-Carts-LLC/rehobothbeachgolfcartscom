@@ -1,0 +1,34 @@
+import VehicleDetailPage from "@/components/VehicleDetailPage";
+import denagoEvRoverXLImage from "@assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg";
+
+export default function DenagoEvRoverXlPage() {
+  return (
+    <VehicleDetailPage
+      vehicleName="DENAGO EV ROVER XL"
+      brand="DENAGO"
+      series="EV ROVER"
+      price="$9,995"
+      image={denagoEvRoverXLImage}
+      seoTitle="DENAGO EV ROVER XL - Luxury Family Golf Cart | Atlantic County Golf Carts"
+      seoDescription="Discover the DENAGO EV ROVER XL electric golf cart in Atlantic County, NJ. 6-passenger seating with luxury interior and advanced safety features."
+      seoKeywords="DENAGO EV ROVER XL, luxury golf cart, 6-passenger, Atlantic County, New Jersey, family vehicle"
+      canonicalUrl="https://lackawannagolfcarts.com/vehicles/denago-ev-rover-xl"
+      seats="6"
+      range="50 miles"
+      topSpeed="25 mph"
+      driveType="2x4"
+      features={[
+        "6-Passenger Seating",
+        "Luxury Interior",
+        "Advanced Safety Features",
+        "Premium Sound System",
+        "Climate Control",
+        "Premium Materials",
+        "Enhanced Comfort",
+        "Smart Technology"
+      ]}
+      description="Luxury family transportation with maximum comfort and capacity. The DENAGO EV ROVER XL features 6-passenger seating with premium interior and advanced safety systems for Atlantic County families."
+      tigoUrl="https://tigongolfcarts.com/denago-ev/rover-xl/"
+    />
+  );
+}
