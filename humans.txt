@@ -1,0 +1,214 @@
+# Humans.txt - Website Team and Technology Information
+# Lackawanna County Golf Carts - Website Development Credits
+
+## WEBSITE TEAM TRANSPARENCY
+
+### Business Information
+Company: Lackawanna County Golf Carts
+Website: https://lackawannagolfcarts.com
+Industry: Electric Golf Cart Sales and Service
+Location: Lackawanna County, Pennsylvania, USA
+Established: Serving the community with excellence
+
+### Business Leadership
+Business Focus: Premium electric golf cart sales, service, rentals, and parts
+Market Specialization: DENAGO and EVOLUTION electric golf cart brands
+Service Area: All 19 Lackawanna County municipalities
+Customer Commitment: Professional service and customer satisfaction
+
+### Contact Information
+Primary Email: info@lackawannagolfcarts.com
+Business Phone: 1-844-844-6638
+Service Area: Lackawanna County, Pennsylvania
+Coverage: Scranton, Carbondale, Clarks Summit, and all local municipalities
+
+## DEVELOPMENT TEAM CREDITS
+
+### Web Development
+Platform: Modern React.js application with TypeScript
+Architecture: Full-stack JavaScript with Node.js backend
+Database: PostgreSQL with Drizzle ORM
+Frontend Framework: React with Vite build system
+Styling: Tailwind CSS with shadcn/ui components
+State Management: TanStack Query for data management
+
+### Design and User Experience
+Approach: Mobile-first responsive design
+Color Scheme: Professional blue (#0e2e55) with orange accents (#ff6100)
+Typography: Clean, accessible font selections
+Navigation: Intuitive client-side routing with Wouter
+Images: Professional showroom photography integration
+
+### SEO and Marketing
+Search Optimization: Comprehensive SEO strategy implementation
+Analytics: Google Tag Manager (GTM-NSN3ZJPP) and Analytics (G-QJVWEK6RT8)
+Schema Markup: Complete structured data implementation
+Local SEO: Municipality-specific pages for all 19 locations
+Content Strategy: Educational and service-focused content
+
+## TECHNOLOGY STACK INFORMATION
+
+### Frontend Technologies
+- React 18 with TypeScript for type-safe development
+- Vite for fast development and optimized builds
+- Wouter for lightweight client-side routing
+- shadcn/ui with Radix UI for accessible component library
+- Tailwind CSS for utility-first styling approach
+- TanStack Query for server state management
+- React Hook Form with Zod validation for forms
+- Framer Motion for smooth animations
+- React Helmet Async for SEO meta management
+
+### Backend Technologies
+- Node.js with Express.js web framework
+- TypeScript for full-stack type safety
+- PostgreSQL database for reliable data persistence
+- Drizzle ORM for type-safe database operations
+- Express Session with PostgreSQL session store
+- Passport.js for authentication (when needed)
+- Nodemailer for email functionality
+- WebSocket support for real-time features
+
+### Development Tools and Infrastructure
+- npm for package management and script execution
+- TSX for TypeScript execution in development
+- ESBuild for fast JavaScript bundling
+- PostCSS for CSS processing and optimization
+- Drizzle Kit for database migrations and management
+- Git version control for code management
+- Modern development environment with hot module replacement
+
+### SEO and Performance Optimization
+- Comprehensive sitemap.xml with 100+ pages
+- Optimized robots.txt for search engine access
+- Progressive Web App (PWA) capabilities
+- Image optimization with modern formats
+- Code splitting for optimal loading performance
+- Responsive images for all device sizes
+- Core Web Vitals optimization
+
+## CONTENT AND MARKETING STRATEGY
+
+### Content Philosophy
+Focus: Educational content about electric golf carts
+Approach: Customer-first information and guidance
+Expertise: Technical knowledge sharing and support
+Local Focus: Lackawanna County specific information
+
+### SEO Strategy
+Keywords: Comprehensive golf cart and location-based targeting
+Local SEO: Municipality-specific landing pages and content
+Technical SEO: Proper markup, performance, and accessibility
+Content Marketing: Valuable information for customers
+
+### Photography and Visual Content
+Style: Professional showroom and product photography
+Source: Original Lackawanna County Golf Carts imagery
+Optimization: Properly sized and formatted for web delivery
+Accessibility: Comprehensive alt text and descriptions
+
+## PROJECT DEVELOPMENT TIMELINE
+
+### Initial Development
+Foundation: Modern React/TypeScript application architecture
+Features: Core business functionality and user experience
+Design: Professional branding and responsive layout
+SEO: Comprehensive search engine optimization setup
+
+### Current Phase (January 2025)
+Branding: Complete Lackawanna County Golf Carts transformation
+Analytics: Google Tag Manager and Analytics implementation
+SEO Files: Comprehensive AI and search optimization files
+Content: Municipality-specific pages and local optimization
+
+### Ongoing Maintenance
+Updates: Regular content and inventory updates
+Performance: Continuous speed and accessibility improvements
+SEO: Ongoing search engine optimization enhancements
+Features: New functionality based on business needs
+
+## QUALITY ASSURANCE AND STANDARDS
+
+### Development Standards
+Code Quality: TypeScript for type safety and reliability
+Accessibility: WCAG 2.1 compliance and assistive technology support
+Performance: Optimized for fast loading and smooth interaction
+Security: Best practices for data protection and user privacy
+
+### Testing and Validation
+Cross-browser: Testing across all major web browsers
+Mobile: Comprehensive mobile device testing and optimization
+Accessibility: Screen reader and assistive technology validation
+SEO: Search engine compliance and optimization verification
+
+### Continuous Improvement
+Monitoring: Regular performance and analytics review
+Updates: Technology stack updates and security patches
+Enhancement: Ongoing feature development and user experience improvements
+Feedback: Customer input integration and satisfaction optimization
+
+## BUSINESS VALUES AND MISSION
+
+### Customer Service Excellence
+Commitment: Exceptional customer service and support
+Knowledge: Expert advice on golf cart selection and maintenance
+Local Focus: Deep understanding of Lackawanna County needs
+Quality: Premium products and professional service delivery
+
+### Community Engagement
+Local Business: Proudly serving Lackawanna County communities
+Economic Impact: Supporting local economy and employment
+Environmental: Promoting clean electric transportation options
+Education: Sharing knowledge about electric vehicle benefits
+
+### Professional Standards
+Integrity: Honest and transparent business practices
+Expertise: Continuous learning and industry knowledge updates
+Innovation: Adopting new technologies and service improvements
+Reliability: Consistent and dependable service delivery
+
+## CONTACT AND COLLABORATION
+
+### Website Support
+For website issues or suggestions: info@lackawannagolfcarts.com
+Response time: 24-48 hours for technical inquiries
+Support: Comprehensive assistance for all web-related needs
+
+### Business Inquiries  
+Sales and Service: 1-844-844-6638
+Email: info@lackawannagolfcarts.com
+Coverage: All Lackawanna County municipalities
+Hours: Contact for current business hours and availability
+
+## ACKNOWLEDGMENTS
+
+### Technology Partners
+Open Source: Grateful for the open source community
+Frameworks: React, Node.js, and TypeScript ecosystems
+Tools: Modern development tools and build systems
+Community: Web development community knowledge and support
+
+### Business Partners
+Manufacturers: DENAGO and EVOLUTION golf cart brands
+Suppliers: Parts and accessories partners
+Community: Lackawanna County business community
+Customers: Loyal customers and community support
+
+## WEBSITE GOALS AND OBJECTIVES
+
+### Primary Objectives
+Information: Comprehensive golf cart information and education
+Service: Easy access to sales, rental, and service information
+Local Focus: Lackawanna County specific content and relevance
+User Experience: Fast, accessible, and intuitive website interaction
+
+### Success Metrics
+Performance: Fast loading times and smooth user experience
+Accessibility: Universal access across all devices and abilities
+Search Visibility: High search engine rankings for relevant terms
+User Satisfaction: Positive customer feedback and engagement
+
+Last Updated: January 31, 2025
+Website Version: Current production release
+Development Status: Active development and maintenance
+Contact: info@lackawannagolfcarts.com for any website-related inquiries

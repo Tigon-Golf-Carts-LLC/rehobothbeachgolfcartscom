@@ -1,0 +1,68 @@
+# Ads.txt - Authorized Digital Sellers
+# Lackawanna County Golf Carts - Advertising Authorization
+
+## AUTHORIZED DIGITAL SELLER INFORMATION
+# This file declares authorized digital advertising sellers
+# for lackawannagolfcarts.com
+
+## GOOGLE ADSENSE AUTHORIZATION
+# Google AdSense (if applicable in the future)
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+## GOOGLE AD MANAGER AUTHORIZATION  
+# Google Ad Manager (if applicable)
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+## CURRENTLY NO AUTHORIZED SELLERS
+# Lackawanna County Golf Carts currently does not utilize
+# programmatic advertising or third-party ad networks
+
+## DIRECT ADVERTISING ONLY
+# All advertising is handled directly through:
+# Contact: info@lackawannagolfcarts.com  
+# Phone: 1-844-844-6638
+# Website: https://lackawannagolfcarts.com
+
+## FUTURE ADVERTISING PARTNERSHIPS
+# Any future authorized digital advertising partners
+# will be listed in this file with proper verification
+
+## PUBLISHER ACCOUNT VERIFICATION
+# Domain: lackawannagolfcarts.com
+# Business: Lackawanna County Golf Carts
+# Location: Lackawanna County, Pennsylvania
+# Industry: Golf Cart Sales and Service
+
+## ADVERTISING NETWORK PERMISSIONS
+# Currently: No third-party advertising networks authorized
+# Direct advertising inquiries welcome
+# Partnership discussions available
+
+## REVENUE SHARING TRANSPARENCY
+# Current Model: Direct advertising relationships only
+# No revenue sharing with third-party networks
+# All advertising revenue handled directly by business
+
+## CONTACT FOR ADVERTISING PARTNERSHIPS
+Primary Contact: info@lackawannagolfcarts.com
+Business Phone: 1-844-844-6638
+Advertising Inquiries: Direct partnership discussions welcome
+Partnership Terms: Negotiated directly with business owners
+
+## ADVERTISING STANDARDS
+# All advertising must be:
+# - Relevant to golf cart industry and customers
+# - Family-friendly and professional
+# - Compliant with local and federal regulations
+# - Aligned with business values and customer needs
+
+## FRAUD PREVENTION
+# This ads.txt file helps prevent:
+# - Unauthorized advertising sales
+# - Domain spoofing and fraud
+# - Illegitimate revenue claims
+# - Misrepresentation of advertising inventory
+
+Last Updated: January 31, 2025
+Status: No current programmatic advertising
+Direct advertising partnerships welcome

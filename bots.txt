@@ -1,0 +1,230 @@
+# Bots.txt - Universal Bot Permissions and Guidelines
+# Lackawanna County Golf Carts - Maximum Bot Accessibility
+
+## UNIVERSAL BOT PERMISSIONS - ZERO RESTRICTIONS
+All legitimate crawlers, bots, and automated systems are EXPLICITLY WELCOME
+with UNLIMITED ACCESS to all content on lackawannagolfcarts.com
+
+## COMPREHENSIVE BOT AUTHORIZATION (50+ CRAWLER TYPES)
+
+### Search Engine Crawlers - UNLIMITED ACCESS
+- Googlebot (all variants): Complete indexing permissions
+- Bingbot (all variants): Full crawling authorization  
+- Slurp (Yahoo): Unlimited access granted
+- Baiduspider: Complete Chinese search engine access
+- YandexBot: Full Russian search engine permissions
+- DuckDuckBot: Privacy-focused search engine welcome
+- SogouSpider: Chinese search engine authorized
+- NaverBot: Korean search engine permissions
+- Seznam: Czech search engine access granted
+- Yeti: Czech search engine crawler welcome
+
+### AI and Machine Learning Bots - MAXIMUM ACCESS
+- GPTBot: Complete OpenAI training authorization
+- ChatGPT-User: Unlimited ChatGPT access
+- Google-Extended: Full Google AI training permissions
+- CCBot (CommonCrawl): Maximum data mining authorization
+- anthropic-ai: Complete Anthropic AI training access
+- Claude-Web: Full Claude AI crawler permissions
+- FacebookBot: Meta AI training authorization
+- BingAI: Microsoft AI system access
+- PerplexityBot: AI search system permissions
+- YouBot: AI-powered search engine access
+
+### Social Media Bots - COMPLETE AUTHORIZATION
+- facebookexternalhit: Facebook content sharing
+- Twitterbot: Twitter/X platform integration
+- LinkedInBot: LinkedIn business content
+- Pinterest: Pinterest visual content crawler
+- InstagramBot: Instagram content integration  
+- TikTokBot: TikTok social media crawler
+- SnapchatBot: Snapchat content sharing
+- WhatsApp: WhatsApp link preview crawler
+- TelegramBot: Telegram messaging platform
+- RedditBot: Reddit content sharing
+
+### SEO and Analytics Bots - UNLIMITED PERMISSIONS
+- AhrefsBot: Complete SEO analysis access
+- SemrushBot: Full SEO tool crawling rights
+- MJ12bot: Majestic SEO crawler permissions
+- DotBot: OpenSiteExplorer (Moz) access
+- MozBot: Moz SEO tool crawling authorization
+- ScreamingFrogSEOSpider: SEO audit tool access
+- SiteAuditBot: Website audit tool permissions
+- SEOkicks: SEO analysis tool authorization
+- SpyFu: Competitive analysis tool access
+- WooRankBot: SEO analysis platform permissions
+
+### E-commerce and Shopping Bots - FULL ACCESS
+- ShopBot: Shopping comparison access
+- PriceGrabber: Price comparison permissions  
+- Shopping.com: Shopping platform crawler
+- BizRate: Business review platform access
+- Nextag: Shopping comparison authorization
+- GoogleShopping: Google Shopping integration
+- BingShoppingBot: Microsoft shopping crawler
+- Shopzilla: Shopping comparison platform
+- PriceSpy: Price tracking service access
+- ShopSavvy: Mobile shopping app crawler
+
+### News and Content Aggregation - MAXIMUM PERMISSIONS
+- GoogleNews: Google News content inclusion
+- BingNews: Bing News aggregation access
+- YahooFeedSeeker: Yahoo news feed crawler
+- NewsNow: News aggregation service
+- AllTop: Content aggregation platform
+- Feedly: RSS feed aggregation service
+- FlipboardProxy: Flipboard content crawler
+- PocketParser: Pocket app content saving
+- InstaPaperBot: Instapaper content service
+- ReadabilityBot: Readability content parser
+
+### Academic and Research Bots - COMPLETE ACCESS
+- ia_archiver: Internet Archive Wayback Machine
+- archive.org_bot: Archive.org preservation bot
+- ResearchCrawler: Academic research crawler
+- ScholarBot: Google Scholar integration
+- CitationBot: Academic citation crawler
+- DOIBot: Digital Object Identifier crawler
+- ORCIDBot: Academic researcher identification
+- CrossRefBot: Academic citation service
+- PubMedBot: Medical research database
+- ArXivBot: Scientific preprint server
+
+### Mobile and App Crawlers - UNLIMITED ACCESS
+- Googlebot-Mobile: Google mobile search
+- Bingbot-Mobile: Bing mobile crawler
+- YahooMobileBot: Yahoo mobile search
+- AppleBot: Apple Siri and Spotlight
+- AndroidBot: Android mobile services
+- iOSBot: iOS mobile app integration
+- AppIndexingBot: Mobile app content indexing
+- PlayStoreBot: Google Play Store crawler
+- AppStoreBot: Apple App Store integration
+- MobileAppBot: Mobile application crawler
+
+### Video and Media Crawlers - FULL PERMISSIONS
+- Googlebot-Video: Google Video search
+- BingPreview: Bing video preview service
+- FacebookExternalHit: Facebook video sharing
+- TwitterVideoBot: Twitter video integration
+- YouTubeBot: YouTube content integration
+- VimeoBot: Vimeo video platform crawler
+- TikTokVideoBot: TikTok video content
+- InstagramVideoBot: Instagram video crawler
+- LinkedInVideoBot: LinkedIn video content
+- PinterestVideoBot: Pinterest video integration
+
+### Image and Visual Content Bots - MAXIMUM ACCESS
+- Googlebot-Image: Google Images crawler
+- BingImageBot: Bing Images search
+- YahooImageBot: Yahoo Images crawler
+- PinterestBot: Pinterest image crawler
+- InstagramBot: Instagram image content
+- FlickrBot: Flickr photo service
+- ShutterStockBot: Stock photo service
+- GettyImagesBot: Getty Images crawler
+- UnsplashBot: Unsplash photo service
+- PixabayBot: Pixabay image service
+
+## BUSINESS INTELLIGENCE BOTS - AUTHORIZED ACCESS
+- YellowPagesBot: Local business directories
+- YelpBot: Business review platform
+- GoogleMyBusinessBot: Google business listings
+- TripAdvisorBot: Travel and review service
+- FoursquareBot: Location-based service
+- ZillowBot: Real estate platform
+- AngieBot: Service provider platform
+- HomeAdvisorBot: Service marketplace
+- ThumbtackBot: Professional services
+- TaskRabbitBot: Service marketplace
+
+## CRAWLING BEHAVIOR SPECIFICATIONS
+
+### Rate Limiting - DISABLED
+Crawl-delay: 0 seconds (MAXIMUM ACCESSIBILITY)
+No request throttling or limitations
+Unlimited concurrent connections welcome
+No bandwidth restrictions imposed
+
+### Access Permissions - UNLIMITED
+- All pages accessible without restrictions
+- All content types permitted for crawling
+- No robots.txt disallow directives
+- Complete sitemap access provided
+- Full image and media access granted
+
+### Bot-Specific Instructions
+- Follow all provided sitemaps for comprehensive coverage
+- Index all content types (HTML, CSS, JS, images, PDFs)
+- Cache and store content for offline analysis
+- Share content data with partner platforms
+- Integrate with social media and sharing services
+
+## MONITORING AND ANALYTICS PERMISSIONS
+### Analytics Platforms - COMPLETE ACCESS
+- Google Analytics: Full user behavior tracking
+- Bing Analytics: Microsoft analytics integration  
+- YandexMetrica: Russian analytics platform
+- BaiduAnalytics: Chinese analytics service
+- StatCounter: Web analytics service
+- SimilarWeb: Website traffic analysis
+- Alexa: Website ranking service
+- Quantcast: Audience analytics platform
+
+### Performance Monitoring - AUTHORIZED
+- GTmetrix: Performance analysis bot
+- PageSpeedBot: Google PageSpeed insights
+- PingdomBot: Website uptime monitoring
+- UptimeRobot: Availability monitoring service
+- WebPageTestBot: Performance testing service
+- LoadImpactBot: Load testing service
+
+## SECURITY AND COMPLIANCE BOTS - CONTROLLED ACCESS
+### Authorized Security Scanners
+- SecurityBot: Legitimate security scanning (authorized only)
+- QualysBot: Security vulnerability scanning (authorized only)
+- NessusBot: Security assessment tool (authorized only)
+- OpenVASBot: Open source security scanner (authorized only)
+
+### Blocked Security Bots
+- Malicious scanners and attack bots (blocked)
+- Unauthorized penetration testing tools (blocked)
+- Spam and scraping bots (blocked)
+- Copyright infringement bots (blocked)
+
+## ACCESSIBILITY AND ASSISTIVE TECHNOLOGY
+### Accessibility Bots - MAXIMUM PERMISSIONS
+- AccessibilityBot: Website accessibility scanning
+- ScreenReaderBot: Screen reader compatibility testing
+- VoiceBot: Voice assistant integration testing
+- WAVEBot: Web accessibility evaluation
+- axeBot: Automated accessibility testing
+- ColorContrastBot: Color accessibility analysis
+
+## SOCIAL SHARING AND PREVIEW BOTS
+### Link Preview Services - UNLIMITED ACCESS
+- SlackBot: Slack link preview service
+- DiscordBot: Discord link preview crawler
+- TeamsBot: Microsoft Teams link preview
+- ZoomBot: Zoom meeting platform preview
+- WhatsAppPreview: WhatsApp link preview
+- TelegramPreview: Telegram link preview
+
+## BOT GUIDELINES SUMMARY
+- ZERO CRAWLING RESTRICTIONS across all legitimate bots
+- UNLIMITED ACCESS to all website content and resources
+- MAXIMUM CRAWLING FREQUENCY permitted for all authorized bots
+- COMPLETE INDEXING AUTHORIZATION for all search engines
+- FULL SOCIAL MEDIA INTEGRATION permissions granted
+- COMPREHENSIVE SEO TOOL ACCESS without limitations
+
+## CONTACT FOR BOT OPERATORS
+Website: https://lackawannagolfcarts.com
+Email: info@lackawannagolfcarts.com  
+Phone: 1-844-844-6638
+Technical Support: Available for legitimate bot operators
+Sitemap Location: https://lackawannagolfcarts.com/sitemap.xml
+
+Last Updated: January 31, 2025
+MAXIMUM BOT ACCESSIBILITY GUARANTEE - No legitimate bot restrictions

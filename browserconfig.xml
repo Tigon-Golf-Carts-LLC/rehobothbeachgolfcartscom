@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/attached_assets/Lackawanna%20County%20Golf%20Carts%20(1)_1753965133795.png"/>
+      <square150x150logo src="/attached_assets/Lackawanna%20County%20Golf%20Carts_1753965133796.png"/>
+      <square310x310logo src="/attached_assets/Lackawanna%20County%20Golf%20Carts_1753965133796.png"/>
+      <wide310x150logo src="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_4zG-0v0fRsSU5AxGt_cEfA_A0HlJrJtSJOlpyerLK2j5Q_1753965748393.png"/>
+      <TileColor>#0e2e55</TileColor>
+    </tile>
+    <badge>
+      <polling-uri src="/api/notifications/badge"/>
+      <frequency>30</frequency>
+    </badge>
+    <notification>
+      <polling-uri src="/api/notifications/updates"/>
+      <polling-uri2 src="/api/notifications/promotions"/>
+      <polling-uri3 src="/api/notifications/service"/>
+      <frequency>360</frequency>
+      <cycle>1</cycle>
+    </notification>
+    <task>
+      <name>Golf Cart Inventory Check</name>
+      <uri src="/inventory"/>
+      <frequency>daily</frequency>
+    </task>
+    <task>
+      <name>Service Reminders</name>
+      <uri src="/services"/>
+      <frequency>weekly</frequency>
+    </task>
+  </msapplication>
+  
+  <!-- Windows 10/11 Start Menu Configuration -->
+  <msapplication>
+    <starturl>/</starturl>
+    <task>
+      <name>Browse Golf Carts</name>
+      <action-uri>/inventory</action-uri>
+      <icon-uri>/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg</icon-uri>
+    </task>
+    <task>
+      <name>Schedule Service</name>
+      <action-uri>/services</action-uri>
+      <icon-uri>/attached_assets/a-photograph-of-a-modern-golf-cart-deale_2JQB2acORFWnp-bjmYY6KA_A0HlJrJtSJOlpyerLK2j5Q_1753965748394.png</icon-uri>
+    </task>
+    <task>
+      <name>Request Rental Quote</name>
+      <action-uri>/rentals</action-uri>
+      <icon-uri>/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</icon-uri>
+    </task>
+    <task>
+      <name>Contact Dealer</name>
+      <action-uri>/contact</action-uri>
+      <icon-uri>/attached_assets/Lackawanna%20County%20Golf%20Carts%20(1)_1753965133795.png</icon-uri>
+    </task>
+  </msapplication>
+
+  <!-- Microsoft Edge Pinned Site Features -->
+  <msapplication>
+    <navbutton-color>#0e2e55</navbutton-color>
+    <tooltip>Lackawanna County Golf Carts - Premium Electric Golf Cart Dealer</tooltip>
+    <window>
+      <width>1024</width>
+      <height>768</height>
+    </window>
+    <jumplist>
+      <task>
+        <name>New Golf Cart Models</name>
+        <arguments>/inventory?filter=new</arguments>
+        <icon-uri>/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg</icon-uri>
+      </task>
+      <task>
+        <name>DENAGO Golf Carts</name>
+        <arguments>/denago</arguments>
+        <icon-uri>/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</icon-uri>
+      </task>
+      <task>
+        <name>EVOLUTION Golf Carts</name>
+        <arguments>/evolution</arguments>
+        <icon-uri>/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg</icon-uri>
+      </task>
+      <task>
+        <name>Scranton Golf Carts</name>
+        <arguments>/scranton-golf-carts</arguments>
+        <icon-uri>/attached_assets/Lackawanna%20County%20Golf%20Carts%20(1)_1753965133795.png</icon-uri>
+      </task>
+      <task>
+        <name>Rental Services</name>
+        <arguments>/rentals</arguments>
+        <icon-uri>/attached_assets/a-photograph-of-a-modern-golf-cart-deale_cQsH1m3hS0-MskPK4BH5uA_dd9V3Dg-RV6rpmQtK0Rk9Q_1753965748394.png</icon-uri>
+      </task>
+      <task>
+        <name>Service & Maintenance</name>
+        <arguments>/services</arguments>
+        <icon-uri>/attached_assets/a-photograph-of-a-modern-golf-cart-deale_2JQB2acORFWnp-bjmYY6KA_A0HlJrJtSJOlpyerLK2j5Q_1753965748394.png</icon-uri>
+      </task>
+    </jumplist>
+  </msapplication>
+
+  <!-- Live Tile Configuration -->
+  <msapplication>
+    <polling-uri src="/api/tiles/inventory"/>
+    <polling-uri2 src="/api/tiles/promotions"/>
+    <polling-uri3 src="/api/tiles/services"/>
+    <frequency>30</frequency>
+    <cycle>1</cycle>
+  </msapplication>
+
+  <!-- Notification Configuration -->
+  <msapplication>
+    <notification>
+      <polling-uri src="/api/notifications/new-arrivals"/>
+      <polling-uri2 src="/api/notifications/service-reminders"/>
+      <polling-uri3 src="/api/notifications/special-offers"/>
+      <frequency>1440</frequency>
+      <cycle>1</cycle>
+    </notification>
+  </msapplication>
+
+</browserconfig>

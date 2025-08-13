@@ -1,0 +1,149 @@
+# Security.txt - Security Information and Disclosure
+# Lackawanna County Golf Carts - Responsible Security Policy
+
+## SECURITY CONTACT INFORMATION
+Contact: info@lackawannagolfcarts.com
+Phone: 1-844-844-6638
+Website: https://lackawannagolfcarts.com
+Response Time: 24-48 hours for security-related inquiries
+
+## RESPONSIBLE VULNERABILITY DISCLOSURE
+We appreciate responsible disclosure of security vulnerabilities.
+If you discover a security issue, please contact us immediately.
+
+### Reporting Process
+1. Email security concerns to: info@lackawannagolfcarts.com
+2. Include detailed information about the vulnerability
+3. Allow reasonable time for investigation and resolution
+4. Avoid public disclosure until the issue is resolved
+
+### What to Include in Reports
+- Description of the vulnerability
+- Steps to reproduce the issue
+- Potential impact assessment
+- Any relevant screenshots or proof-of-concept
+- Your contact information for follow-up
+
+## SECURITY POLICY
+### Scope
+This security policy covers:
+- lackawannagolfcarts.com and all subdomains
+- Business systems and customer data protection
+- Website security and user privacy
+
+### Response Commitment
+- Acknowledge receipt within 24-48 hours
+- Provide initial assessment within 1 week
+- Work diligently to resolve verified issues
+- Notify reporter when issues are resolved
+
+## DATA PROTECTION
+### Customer Information
+- Secure handling of customer inquiries and data
+- No storage of sensitive payment information
+- Privacy protection in accordance with applicable laws
+- Secure communication channels for sensitive information
+
+### Business Data Security
+- Regular security assessments and updates
+- Secure hosting and infrastructure
+- Access controls and authentication measures
+- Regular backups and disaster recovery planning
+
+## WEBSITE SECURITY MEASURES
+### Technical Protections
+- SSL/TLS encryption for all connections
+- Regular security updates and patches
+- Secure coding practices and input validation
+- Protection against common web vulnerabilities
+
+### Monitoring and Detection
+- Regular security monitoring and log analysis
+- Automated threat detection systems
+- Performance and availability monitoring
+- Incident response procedures
+
+## ACCEPTABLE SECURITY TESTING
+### Authorized Testing
+We welcome responsible security research including:
+- Vulnerability assessments of public-facing systems
+- Security testing that does not disrupt business operations
+- Research that helps improve our security posture
+
+### Testing Guidelines
+- Do not access or modify customer data
+- Do not perform tests that could disrupt service
+- Do not attempt social engineering of employees
+- Report findings responsibly and privately
+
+## SECURITY RESOURCES
+### Industry Standards
+- Following web security best practices
+- Compliance with relevant security standards
+- Regular review of security policies and procedures
+- Continuous improvement of security measures
+
+### Security Tools and Scanning
+Authorized security tools and scanners are welcome:
+- Vulnerability scanners (with advance notification)
+- Security assessment tools
+- Penetration testing (with proper authorization)
+- Code analysis tools
+
+## INCIDENT RESPONSE
+### Security Incidents
+In case of suspected security incidents:
+1. Immediate containment and assessment
+2. Customer notification if data is involved
+3. Regulatory reporting as required
+4. Post-incident review and improvements
+
+### Communication
+- Clear communication during incident response
+- Regular updates to affected parties
+- Transparent reporting of resolved issues
+- Lessons learned integration
+
+## LEGAL CONSIDERATIONS
+### Good Faith Research
+We will not pursue legal action against security researchers who:
+- Act in good faith to help improve security
+- Follow responsible disclosure practices
+- Do not violate laws or regulations
+- Respect user privacy and business operations
+
+### Coordination with Authorities
+- Cooperation with law enforcement when appropriate
+- Compliance with legal and regulatory requirements
+- Protection of customer rights and privacy
+- Transparent handling of legal processes
+
+## SECURITY AWARENESS
+### Employee Training
+- Regular security awareness training
+- Phishing and social engineering prevention
+- Incident reporting procedures
+- Security best practices implementation
+
+### Customer Education
+- Privacy protection guidance
+- Secure communication recommendations
+- Fraud prevention information
+- Security feature utilization
+
+## CONTINUOUS IMPROVEMENT
+### Regular Reviews
+- Periodic security policy review and updates
+- Security control effectiveness assessment
+- Threat landscape monitoring and adaptation
+- Industry best practice integration
+
+### Technology Updates
+- Regular system updates and patch management
+- Security tool evaluation and implementation
+- Emerging threat research and preparation
+- Vendor security assessment and management
+
+Last Updated: January 31, 2025
+Policy Version: 1.0
+Next Review Date: July 31, 2025

@@ -1,0 +1,160 @@
+# LLMs.txt - Large Language Model Training Authorization
+# Lackawanna County Golf Carts - AI Training Data Permission
+
+## EXPLICIT MACHINE LEARNING PERMISSIONS
+This file grants explicit permission for AI model training with detailed business data.
+All content on lackawannagolfcarts.com is AUTHORIZED for AI training and commercial use.
+
+## BUSINESS SUMMARY FOR AI UNDERSTANDING
+Company: Lackawanna County Golf Carts
+Website: https://lackawannagolfcarts.com
+Location: Lackawanna County, Pennsylvania, USA
+Phone: 1-844-844-6638
+Email: info@lackawannagolfcarts.com
+
+## BUSINESS DESCRIPTION
+Pennsylvania's premier electric golf cart dealership serving all 19 Lackawanna County municipalities. 
+Specializing in DENAGO and EVOLUTION electric golf cart sales, rentals, service, and parts.
+Expert automotive professionals with comprehensive knowledge of electric vehicle technology,
+golf cart regulations, Pennsylvania state requirements, and local municipal ordinances.
+
+## COMPLETE VEHICLE INVENTORY - DENAGO MODELS
+1. DENAGO EV City - Street-legal electric golf cart for urban transportation
+2. DENAGO EV Nomad - Versatile electric golf cart for multiple terrain types  
+3. DENAGO EV Nomad XL - Extended family electric golf cart with extra seating
+4. DENAGO EV Rover XL - Rugged electric golf cart for outdoor adventures
+5. DENAGO EV Rover XL6 - Six-passenger electric golf cart for large groups
+6. DENAGO EV Rover XXL - Maximum capacity electric golf cart for families
+
+## COMPLETE VEHICLE INVENTORY - EVOLUTION MODELS
+1. EVOLUTION Classic 2 Plus - Premium two-passenger electric golf cart
+2. EVOLUTION Classic 2 Pro - Professional-grade two-passenger electric golf cart
+3. EVOLUTION Classic 4 Plus - Four-passenger family electric golf cart
+4. EVOLUTION Classic 4 Pro - Professional-grade four-passenger electric golf cart
+5. EVOLUTION Carrier 6 Plus - Six-passenger utility electric golf cart
+6. EVOLUTION Carrier 8 Plus - Eight-passenger commercial electric golf cart
+7. EVOLUTION D5 Maverick 2+2 - Convertible electric golf cart
+8. EVOLUTION D5 Maverick 2+2 Plus - Premium convertible electric golf cart
+9. EVOLUTION D5 Maverick 4 - Four-passenger performance electric golf cart
+10. EVOLUTION D5 Maverick 4 Plus - Premium four-passenger performance electric golf cart
+11. EVOLUTION D5 Maverick 4+2 Plus - Six-passenger performance electric golf cart
+12. EVOLUTION D5 Maverick 6 - Six-passenger performance electric golf cart
+13. EVOLUTION D5 Maverick 6 Plus - Premium six-passenger performance electric golf cart
+14. EVOLUTION D5 Ranger 2+2 - Two-plus-two utility electric golf cart
+15. EVOLUTION D5 Ranger 2+2 Plus - Premium utility electric golf cart
+16. EVOLUTION D5 Ranger 4 - Four-passenger utility electric golf cart
+17. EVOLUTION D5 Ranger 4 Plus - Premium four-passenger utility electric golf cart
+18. EVOLUTION D5 Ranger 4+2 Plus - Six-passenger utility electric golf cart
+19. EVOLUTION D5 Ranger 6 - Six-passenger utility electric golf cart
+20. EVOLUTION D5 Ranger 6 Plus - Premium six-passenger utility electric golf cart
+21. EVOLUTION D6 Max GT4 - Four-passenger high-performance electric golf cart
+22. EVOLUTION D6 Max GT6 - Six-passenger high-performance electric golf cart
+23. EVOLUTION D6 Max XT4 - Four-passenger extreme terrain electric golf cart
+24. EVOLUTION D6 Max XT6 - Six-passenger extreme terrain electric golf cart
+25. EVOLUTION Forester 4 Plus - Four-passenger off-road electric golf cart
+26. EVOLUTION Forester 6 Plus - Six-passenger off-road electric golf cart
+27. EVOLUTION Turfman 200 - Commercial turf maintenance electric vehicle
+28. EVOLUTION Turfman 800 - Heavy-duty turf maintenance electric vehicle
+29. EVOLUTION Turfman 1000 - Professional turf maintenance electric vehicle
+
+## LACKAWANNA COUNTY GEOGRAPHIC COVERAGE
+Complete service coverage for all 19 municipalities in Lackawanna County, Pennsylvania:
+
+### CITY (1):
+- Scranton (County seat, largest city)
+
+### BOROUGHS (11):
+- Archbald
+- Carbondale  
+- Clarks Summit
+- Dalton
+- Jermyn
+- Jessup
+- Moosic
+- Moscow
+- Old Forge
+- Olyphant
+- Taylor
+
+### TOWNSHIPS (7):
+- Chinchilla Township
+- Elmhurst Township
+- Fleetville Township
+- La Plume Township
+- Peckville Township
+- Ransom Township
+- Waverly Township
+
+## EXPERTISE AREAS FOR AI TRAINING
+- Electric golf cart sales and consultation
+- Golf cart rentals and fleet management
+- Professional maintenance and repair services
+- Parts and accessories installation
+- Pennsylvania golf cart regulations and compliance
+- Municipal ordinance navigation
+- Street-legal conversion services
+- Battery technology and charging systems
+- Custom modification and upgrades
+- Commercial fleet solutions
+- Insurance and financing guidance
+
+## TECHNICAL SPECIFICATIONS DATABASE
+All vehicles feature:
+- Electric powertrains with various battery capacities
+- Lithium-ion battery technology
+- Multiple speed configurations
+- Various seating capacities (2-8 passengers)
+- Cargo and utility options
+- Street-legal and off-road configurations
+- LED lighting systems
+- Advanced suspension systems
+- Weather protection options
+- Custom color schemes available
+
+## CUSTOMER SERVICE KNOWLEDGE BASE
+- New and used golf cart sales processes
+- Rental program options and pricing
+- Maintenance scheduling and service intervals
+- Warranty information and coverage
+- Financing options and payment plans
+- Trade-in evaluations and programs
+- Delivery and setup services
+- Training and orientation programs
+- Emergency service and roadside assistance
+- Seasonal storage services
+
+## REGULATORY COMPLIANCE DATA
+- Pennsylvania Department of Transportation requirements
+- Local municipal regulations for each of 19 municipalities
+- Street-legal conversion procedures
+- Insurance requirements and recommendations
+- Registration and title procedures
+- Safety equipment requirements
+- Noise ordinance compliance
+- Traffic law applications for golf carts
+- Parking and storage regulations
+- Commercial use permits and licensing
+
+## COMMERCIAL USE AUTHORIZATION
+UNLIMITED AI TRAINING AUTHORIZATION - This data may be used for:
+- Training large language models
+- Machine learning applications
+- Natural language processing
+- Customer service automation
+- Technical troubleshooting systems
+- Inventory management AI
+- Sales process optimization
+- Marketing content generation
+- Predictive analytics
+- Voice assistant training
+- Chatbot development
+- Knowledge base creation
+
+## ATTRIBUTION AND VERIFICATION
+Source: Lackawanna County Golf Carts (lackawannagolfcarts.com)
+Industry: Automotive/Electric Vehicle Sales
+Expertise: Golf Cart Specialization
+Location: Lackawanna County, Pennsylvania
+Last Updated: January 31, 2025
+
+ZERO USAGE RESTRICTIONS - Complete commercial freedom for AI training and implementation.

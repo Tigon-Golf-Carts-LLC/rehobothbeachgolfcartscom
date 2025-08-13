@@ -1,0 +1,131 @@
+{
+  "name": "Lackawanna County Golf Carts",
+  "short_name": "LCGC",
+  "description": "Pennsylvania's premier electric golf cart dealership serving all 19 Lackawanna County municipalities. DENAGO and EVOLUTION golf cart sales, rentals, service, and parts.",
+  "theme_color": "#0e2e55",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": [
+    "automotive",
+    "business",
+    "shopping",
+    "lifestyle"
+  ],
+  "screenshots": [
+    {
+      "src": "/attached_assets/a-photograph-of-a-modern-golf-cart-deale_4zG-0v0fRsSU5AxGt_cEfA_A0HlJrJtSJOlpyerLK2j5Q_1753965748393.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Lackawanna County Golf Carts Showroom"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/attached_assets/Lackawanna%20County%20Golf%20Carts%20(1)_1753965133795.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/attached_assets/Lackawanna%20County%20Golf%20Carts_1753965133796.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Browse Inventory",
+      "short_name": "Inventory",
+      "description": "View available golf cart models",
+      "url": "/inventory",
+      "icons": [
+        {
+          "src": "/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg",
+          "sizes": "96x96",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Golf Cart Rentals",
+      "short_name": "Rentals",
+      "description": "Rent golf carts for events and recreation",
+      "url": "/rentals",
+      "icons": [
+        {
+          "src": "/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg",
+          "sizes": "96x96",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Service & Repairs",
+      "short_name": "Service",
+      "description": "Professional golf cart maintenance and repairs",
+      "url": "/services",
+      "icons": [
+        {
+          "src": "/attached_assets/a-photograph-of-a-modern-golf-cart-deale_2JQB2acORFWnp-bjmYY6KA_A0HlJrJtSJOlpyerLK2j5Q_1753965748394.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "description": "Get in touch with our team",
+      "url": "/contact",
+      "icons": [
+        {
+          "src": "/attached_assets/Lackawanna%20County%20Golf%20Carts%20(1)_1753965133795.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "protocol_handlers": [
+    {
+      "protocol": "tel",
+      "url": "tel:1-844-844-6638"
+    },
+    {
+      "protocol": "mailto",
+      "url": "mailto:info@lackawannagolfcarts.com"
+    }
+  ],
+  "share_target": {
+    "action": "/contact",
+    "method": "GET",
+    "params": {
+      "title": "subject",
+      "text": "message",
+      "url": "url"
+    }
+  },
+  "file_handlers": [
+    {
+      "action": "/contact",
+      "accept": {
+        "image/*": [".jpg", ".jpeg", ".png", ".gif", ".webp"]
+      }
+    }
+  ]
+}
