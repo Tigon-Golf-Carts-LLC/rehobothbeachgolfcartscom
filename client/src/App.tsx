@@ -22,6 +22,35 @@ import NewServicesPage from "@/pages/NewServicesPage";
 import NewAboutPage from "@/pages/NewAboutPage";
 import EcoImpactPage from "@/pages/EcoImpactPage";
 
+// Sussex County Location Pages
+import {
+  BethanyBeachPage,
+  BethelPage,
+  BladesPage,
+  BridgevillePage,
+  DagsboroPage,
+  DelmarPage,
+  DeweyBeachPage,
+  EllendalesPage,
+  FenwickIslandPage,
+  FrankfordPage,
+  GeorgetownPage,
+  GreenwoodPage,
+  HenlopenAcresPage,
+  LaurelPage,
+  LewesPage,
+  MilfordPage,
+  MillsboroPage,
+  MillvillePage,
+  MiltonPage,
+  OceanViewPage,
+  RehobothBeachPage,
+  SeafordPage,
+  SelbyvillePage,
+  SlaughterBeachPage,
+  SouthBethanyPage
+} from "@/pages/locations/SussexCountyLocationPages";
+
 import { PrivacyPolicyPage } from "@/pages/PrivacyPolicyPage";
 import { TermsOfServicePage } from "@/pages/TermsOfServicePage";
 
@@ -38,8 +67,8 @@ import DiversityPolicyPage from "@/pages/policies/DiversityPolicyPage";
 import EthicsPolicyPage from "@/pages/policies/EthicsPolicyPage";
 import StaffingReportPage from "@/pages/policies/StaffingReportPage";
 
-// Sussex County Municipality Pages - Now handled dynamically by data structure
-// All 27 Sussex County municipalities are rendered through the dynamic routing system
+// Sussex County Municipality Pages - All 27 location pages created
+// Complete coverage of every municipality in Sussex County, Delaware
 
 // Note: Individual vehicle detail pages removed - using dynamic VehicleDetailPage instead
 
@@ -101,8 +130,32 @@ export default function App() {
             <Route path="/policies/ethics-policy" component={EthicsPolicyPage} />
             <Route path="/policies/staffing-report" component={StaffingReportPage} />
 
-            {/* Sussex County Municipality Pages - Dynamic routing handles all 27 municipalities */}
-            {/* Municipality pages are now generated dynamically from sussexCountyMunicipalities.ts data */}
+            {/* Sussex County Municipality Pages - All 27 locations */}
+            <Route path="/bethany-beach-golf-carts" component={BethanyBeachPage} />
+            <Route path="/bethel-golf-carts" component={BethelPage} />
+            <Route path="/blades-golf-carts" component={BladesPage} />
+            <Route path="/bridgeville-golf-carts" component={BridgevillePage} />
+            <Route path="/dagsboro-golf-carts" component={DagsboroPage} />
+            <Route path="/delmar-golf-carts" component={DelmarPage} />
+            <Route path="/dewey-beach-golf-carts" component={DeweyBeachPage} />
+            <Route path="/ellendale-golf-carts" component={EllendalesPage} />
+            <Route path="/fenwick-island-golf-carts" component={FenwickIslandPage} />
+            <Route path="/frankford-golf-carts" component={FrankfordPage} />
+            <Route path="/georgetown-golf-carts" component={GeorgetownPage} />
+            <Route path="/greenwood-golf-carts" component={GreenwoodPage} />
+            <Route path="/henlopen-acres-golf-carts" component={HenlopenAcresPage} />
+            <Route path="/laurel-golf-carts" component={LaurelPage} />
+            <Route path="/lewes-golf-carts" component={LewesPage} />
+            <Route path="/milford-golf-carts" component={MilfordPage} />
+            <Route path="/millsboro-golf-carts" component={MillsboroPage} />
+            <Route path="/millville-golf-carts" component={MillvillePage} />
+            <Route path="/milton-golf-carts" component={MiltonPage} />
+            <Route path="/ocean-view-golf-carts" component={OceanViewPage} />
+            <Route path="/rehoboth-beach-golf-carts" component={RehobothBeachPage} />
+            <Route path="/seaford-golf-carts" component={SeafordPage} />
+            <Route path="/selbyville-golf-carts" component={SelbyvillePage} />
+            <Route path="/slaughter-beach-golf-carts" component={SlaughterBeachPage} />
+            <Route path="/south-bethany-golf-carts" component={SouthBethanyPage} />
 
             {/* All vehicle detail pages handled by dynamic VehicleDetailPage component */}
 
