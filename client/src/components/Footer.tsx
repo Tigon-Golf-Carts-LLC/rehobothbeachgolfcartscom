@@ -50,7 +50,8 @@ export default function Footer() {
           {/* Mobile: Contact Info */}
           <div className="md:hidden">
             <div className="space-y-2">
-              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
+              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:302-722-0999" className="hover:text-blue-600">302-722-0999</a></p>
+              <p className="text-gray-600 text-sm">Toll Free: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
               <p className="text-gray-600 text-sm">Email: info@rehobothgolfcarts.com</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
@@ -125,7 +126,8 @@ export default function Footer() {
                 <li><Link href="/policies/staffing-report" className="text-gray-600 hover:text-gray-900 text-sm">Staffing Report</Link></li>
               </ul>
               <div className="space-y-2">
-                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
+                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:302-722-0999" className="hover:text-blue-600">302-722-0999</a></p>
+                <p className="text-gray-600 text-sm">Toll Free: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
                 <p className="text-gray-600 text-sm">Email: info@rehobothgolfcarts.com</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>

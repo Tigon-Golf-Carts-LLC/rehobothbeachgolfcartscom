@@ -76,18 +76,18 @@ export default function ContactPage() {
       icon: MapPin,
       label: "Rehoboth Golf Carts - Main Location",
       value: "20862 Coastal Hwy, Rehoboth Beach, DE 19971",
-      phone: "1-844-844-6638",
+      phone: "302-722-0999",
     },
     {
       icon: MapPin,
       label: "Sussex County Service Area",
       value: "Serving all Sussex County municipalities",
-      phone: "1-844-844-6638",
+      phone: "302-722-0999",
     },
     {
       icon: Phone,
       label: "Delaware Main Line",
-      value: "1-844-844-6638",
+      value: "302-722-0999",
     },
     {
       icon: Mail,
@@ -131,10 +131,10 @@ export default function ContactPage() {
               Serving from Rehoboth Beach to Seaford. Call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:1-844-844-6638">
+              <a href="tel:302-722-0999">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 1-844-844-6638
+                  Call 302-722-0999
                 </Button>
               </a>
               <a href="mailto:info@rehobothgolfcarts.com">
