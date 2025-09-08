@@ -75,7 +75,7 @@ export default function ContactPage() {
     {
       icon: MapPin,
       label: "Rehoboth Golf Carts - Main Location",
-      value: "123 Golf Cart Lane, Rehoboth Beach, DE 19971",
+      value: "20862 Coastal Hwy, Rehoboth Beach, DE 19971",
       phone: "1-844-844-6638",
     },
     {

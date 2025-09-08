@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Company Description */}
           <div className="md:hidden">
             <p className="text-gray-600 text-sm leading-relaxed">
-              Lackawanna County's premier golf cart dealership serving customers across 
+              Sussex County's premier golf cart dealership serving customers across 
               the region with quality carts and expert service.
             </p>
           </div>
@@ -51,7 +51,7 @@ export default function Footer() {
           <div className="md:hidden">
             <div className="space-y-2">
               <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
-              <p className="text-gray-600 text-sm">Email: info@LackawannaGolfCarts.com</p>
+              <p className="text-gray-600 text-sm">Email: info@rehobothgolfcarts.com</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -65,7 +65,7 @@ export default function Footer() {
             {/* Company Description */}
             <div className="md:col-span-1">
               <p className="text-gray-600 text-sm leading-relaxed">
-                Lackawanna County's premier golf cart dealership serving customers across 
+                Sussex County's premier golf cart dealership serving customers across 
                 the region with quality carts and expert service.
               </p>
             </div>

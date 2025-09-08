@@ -5,9 +5,9 @@ export default function CorrectionsPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Corrections Policy | Lackawanna County Golf Carts"
-        description="Learn about Lackawanna County Golf Carts' commitment to accuracy and our process for handling corrections to published content and information."
-        keywords="corrections policy, content accuracy, Lackawanna County golf carts, information corrections"
+        title="Corrections Policy | Rehoboth Golf Carts"
+        description="Learn about Rehoboth Golf Carts' commitment to accuracy and our process for handling corrections to published content and information."
+        keywords="corrections policy, content accuracy, Rehoboth golf carts, information corrections"
       />
       
       {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function CorrectionsPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Our Commitment to Accuracy</h2>
               <p className="mb-6">
-                Lackawanna County Golf Carts is committed to providing accurate, up-to-date information across 
+                Rehoboth Golf Carts is committed to providing accurate, up-to-date information across 
                 all our communications channels. When errors occur, we take immediate action to correct 
                 them transparently and prevent similar issues in the future.
               </p>
@@ -69,10 +69,10 @@ export default function CorrectionsPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">How to Report Corrections</h2>
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Reporting Channels</h3>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Email:</strong> info@lackawannagolfcarts.com with "Correction Request" in subject</li>
+                <li><strong>Email:</strong> info@rehobothgolfcarts.com with "Correction Request" in subject</li>
                 <li><strong>Phone:</strong> 1-844-844-6638 - ask for corrections department</li>
                 <li><strong>Website:</strong> Contact form with correction details</li>
-                <li><strong>In-Person:</strong> Report to any TIGON Golf Carts location</li>
+                <li><strong>In-Person:</strong> Report to any Rehoboth Golf Carts location</li>
                 <li><strong>Social Media:</strong> Direct message on Facebook or other platforms</li>
               </ul>
 
@@ -201,11 +201,11 @@ export default function CorrectionsPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Corrections Department</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Corrections and Content Accuracy Team</strong></p>
-                <p className="mb-2">Lackawanna County Golf Carts</p>
-                <p className="mb-2">Email: info@lackawannagolfcarts.com (Subject: Correction Request)</p>
+                <p className="mb-2">Rehoboth Golf Carts</p>
+                <p className="mb-2">Email: info@rehobothgolfcarts.com (Subject: Correction Request)</p>
                 <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Lackawanna County, Pennsylvania</p>
-                <p className="mb-2">Website: lackawannagolfcarts.com</p>
+                <p className="mb-2">Serving Sussex County, Delaware</p>
+                <p className="mb-2">Website: rehobothgolfcarts.com</p>
                 <p>Thank you for helping us maintain accuracy!</p>
               </div>
             </div>

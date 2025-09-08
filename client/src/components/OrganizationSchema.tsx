@@ -18,7 +18,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "email": "info@rehobothgolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "123 Golf Cart Lane",
+        "streetAddress": "20862 Coastal Hwy",
         "addressLocality": "Rehoboth Beach",
         "addressRegion": "DE",
         "postalCode": "19971",
