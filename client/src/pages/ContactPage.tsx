@@ -92,7 +92,7 @@ export default function ContactPage() {
     {
       icon: Mail,
       label: "Email",
-      value: "info@rehobothgolfcarts.com",
+      value: "rehobothgolfcarts@gmail.com",
     },
     {
       icon: Globe,
@@ -137,7 +137,7 @@ export default function ContactPage() {
                   Call 302-722-0999
                 </Button>
               </a>
-              <a href="mailto:info@rehobothgolfcarts.com">
+              <a href="mailto:rehobothgolfcarts@gmail.com">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   <Mail className="w-5 h-5 mr-2" />
                   Email Us

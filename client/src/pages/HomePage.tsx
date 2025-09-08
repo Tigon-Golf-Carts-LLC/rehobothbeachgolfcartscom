@@ -81,9 +81,9 @@ export default function HomePage() {
                     View Inventory
                   </Button>
                 </Link>
-                <a href="tel:1-844-844-6638">
+                <a href="tel:302-722-0999">
                   <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900 w-full sm:w-auto">
-                    Call Now 1-844-844-6638
+                    Call Now 302-722-0999
                   </Button>
                 </a>
               </div>
@@ -446,7 +446,7 @@ export default function HomePage() {
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Main Contact</h3>
             <p className="text-gray-600 mb-4">For general inquiries and support throughout Sussex County, Delaware</p>
             <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-              <a href="tel:1-844-844-6638" className="text-2xl font-bold text-theme-orange hover:underline">1-844-844-6638</a>
+              <a href="tel:302-722-0999" className="text-2xl font-bold text-theme-orange hover:underline">302-722-0999</a>
               <Link href="/contact">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                   Contact Us

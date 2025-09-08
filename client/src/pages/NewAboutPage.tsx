@@ -168,7 +168,7 @@ export default function NewAboutPage() {
                       <h4 className="font-semibold text-theme-orange">Rehoboth Golf Carts</h4>
                       <p className="text-gray-600">Serving all Sussex County, DE</p>
                       <p className="text-gray-700">1-844-844-6638</p>
-                      <p className="text-gray-600">info@rehobothgolfcarts.com</p>
+                      <p className="text-gray-600">rehobothgolfcarts@gmail.com</p>
                     </div>
                   </div>
                 </div>

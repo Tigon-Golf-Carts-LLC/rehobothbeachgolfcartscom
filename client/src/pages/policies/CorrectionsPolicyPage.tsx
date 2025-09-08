@@ -69,7 +69,7 @@ export default function CorrectionsPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">How to Report Corrections</h2>
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Reporting Channels</h3>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Email:</strong> info@rehobothgolfcarts.com with "Correction Request" in subject</li>
+                <li><strong>Email:</strong> rehobothgolfcarts@gmail.com with "Correction Request" in subject</li>
                 <li><strong>Phone:</strong> 1-844-844-6638 - ask for corrections department</li>
                 <li><strong>Website:</strong> Contact form with correction details</li>
                 <li><strong>In-Person:</strong> Report to any Rehoboth Golf Carts location</li>
@@ -202,7 +202,7 @@ export default function CorrectionsPolicyPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Corrections and Content Accuracy Team</strong></p>
                 <p className="mb-2">Rehoboth Golf Carts</p>
-                <p className="mb-2">Email: info@rehobothgolfcarts.com (Subject: Correction Request)</p>
+                <p className="mb-2">Email: rehobothgolfcarts@gmail.com (Subject: Correction Request)</p>
                 <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p className="mb-2">Serving Sussex County, Delaware</p>
                 <p className="mb-2">Website: rehobothgolfcarts.com</p>

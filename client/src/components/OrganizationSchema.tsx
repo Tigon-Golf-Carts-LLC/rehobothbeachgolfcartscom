@@ -15,7 +15,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "logo": "https://rehobothgolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
       "image": "https://rehobothgolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
       "telephone": "302-722-0999",
-      "email": "info@rehobothgolfcarts.com",
+      "email": "rehobothgolfcarts@gmail.com",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "20862 Coastal Hwy",

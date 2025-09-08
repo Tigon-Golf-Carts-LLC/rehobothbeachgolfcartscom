@@ -52,7 +52,7 @@ export default function Footer() {
             <div className="space-y-2">
               <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:302-722-0999" className="hover:text-blue-600">302-722-0999</a></p>
               <p className="text-gray-600 text-sm">Toll Free: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
-              <p className="text-gray-600 text-sm">Email: info@rehobothgolfcarts.com</p>
+              <p className="text-gray-600 text-sm">Email: rehobothgolfcarts@gmail.com</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -128,7 +128,7 @@ export default function Footer() {
               <div className="space-y-2">
                 <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:302-722-0999" className="hover:text-blue-600">302-722-0999</a></p>
                 <p className="text-gray-600 text-sm">Toll Free: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
-                <p className="text-gray-600 text-sm">Email: info@rehobothgolfcarts.com</p>
+                <p className="text-gray-600 text-sm">Email: rehobothgolfcarts@gmail.com</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
                   <p>Sat: 9AM-5PM</p>

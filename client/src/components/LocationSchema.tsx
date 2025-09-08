@@ -25,7 +25,7 @@ export default function LocationSchema({
       "logo": "https://rehobothgolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
       "image": "https://rehobothgolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
       "telephone": "1-844-844-6638",
-      "email": "info@rehobothgolfcarts.com",
+      "email": "rehobothgolfcarts@gmail.com",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": municipalityName,
