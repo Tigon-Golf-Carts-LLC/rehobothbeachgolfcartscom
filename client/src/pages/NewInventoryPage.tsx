@@ -246,9 +246,9 @@ export default function NewInventoryPage() {
                   Contact Our Team
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:302-722-0999">
                 <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
-                  Call 1-844-844-6638
+                  Call 302-722-0999
                 </Button>
               </a>
             </div>
@@ -265,7 +265,7 @@ export default function NewInventoryPage() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-blue-600 mb-2">302-722-0999</p>
                   <p className="text-gray-600">Speak with our golf cart specialists</p>
                 </CardContent>
               </Card>

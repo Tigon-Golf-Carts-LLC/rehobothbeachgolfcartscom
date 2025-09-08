@@ -147,7 +147,7 @@ export function TermsOfServicePage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Rehoboth Golf Carts</strong></p>
                 <p className="mb-2">Email: info@rehobothgolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
+                <p className="mb-2">Phone: 302-722-0999</p>
                 <p className="mb-2">Serving Sussex County, Delaware - All 27 municipalities</p>
                 <p>Website: rehobothgolfcarts.com</p>
               </div>

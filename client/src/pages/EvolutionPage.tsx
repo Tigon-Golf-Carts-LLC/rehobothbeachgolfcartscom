@@ -252,10 +252,10 @@ export default function EvolutionPage() {
               premium quality, innovative design, and reliable performance for Sussex County, Delaware.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:1-844-844-6638">
+              <a href="tel:302-722-0999">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 1-844-844-6638
+                  Call 302-722-0999
                 </Button>
               </a>
               <Link href="/inventory">
@@ -508,10 +508,10 @@ export default function EvolutionPage() {
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:1-844-844-6638">
+              <a href="tel:302-722-0999">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 1-844-844-6638
+                  Call 302-722-0999
                 </Button>
               </a>
               <Link href="/contact">

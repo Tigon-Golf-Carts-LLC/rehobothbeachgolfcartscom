@@ -29,7 +29,7 @@ export default function VehicleSchema({
         "name": brand
       },
       "description": description,
-      "image": `https://lackawannagolfcarts.com/attached_assets/${image}`,
+      "image": `https://rehobothgolfcarts.com/attached_assets/${image}`,
       "url": url,
       "category": "Golf Cart",
       "manufacturer": {
@@ -44,8 +44,8 @@ export default function VehicleSchema({
         "seller": {
           "@type": "Organization",
           "name": "Lackawanna County Golf Carts",
-          "telephone": "1-844-844-6638",
-          "email": "info@lackawannagolfcarts.com",
+          "telephone": "302-722-0999",
+          "email": "rehobothgolfcarts@gmail.com",
           "address": {
             "@type": "PostalAddress",
             "addressRegion": "PA",

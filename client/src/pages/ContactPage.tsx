@@ -112,7 +112,7 @@ export default function ContactPage() {
     <>
       <SEOHead 
         title="Contact Rehoboth Golf Carts - Sales & Service"
-        description="Contact Rehoboth Golf Carts for sales, service, and support throughout Sussex County, Delaware. Main: 1-844-844-6638. Serving Rehoboth Beach, Lewes, Bethany Beach, and all Delaware beaches."
+        description="Contact Rehoboth Golf Carts for sales, service, and support throughout Sussex County, Delaware. Main: 302-722-0999. Serving Rehoboth Beach, Lewes, Bethany Beach, and all Delaware beaches."
         keywords="contact Rehoboth golf carts, golf cart sales Delaware, Sussex County golf cart service DE, Rehoboth Beach showroom"
         canonicalUrl="https://rehobothgolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
