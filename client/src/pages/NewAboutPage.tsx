@@ -167,7 +167,7 @@ export default function NewAboutPage() {
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Rehoboth Golf Carts</h4>
                       <p className="text-gray-600">Serving all Sussex County, DE</p>
-                      <p className="text-gray-700">1-844-844-6638</p>
+                      <p className="text-gray-700">302-722-0999</p>
                       <p className="text-gray-600">rehobothgolfcarts@gmail.com</p>
                     </div>
                   </div>
@@ -306,62 +306,99 @@ export default function NewAboutPage() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:302-722-0999">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 1-844-844-6638
+                  Call 302-722-0999
                 </Button>
               </a>
             </div>
           </div>
         </section>
 
-        {/* Contact Information */}
-        <section className="py-12 bg-gray-50">
+        {/* Get In Touch - Comprehensive Contact Information */}
+        <section className="py-16 bg-gray-50">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="grid md:grid-cols-4 gap-8">
-              <Card className="text-center">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl font-bold text-gray-900 mb-4">Get In Touch</h2>
+              <p className="text-lg text-gray-600">Multiple ways to contact Delaware's premier golf cart dealer</p>
+            </div>
+            
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+              {/* Main Location */}
+              <Card className="text-center hover:shadow-lg transition-shadow">
                 <CardHeader>
-                  <Phone className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Call Us</CardTitle>
+                  <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
+                  <CardTitle>Rehoboth Golf Carts - Main Location</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-orange mb-2">1-844-844-6638</p>
-                  <p className="text-gray-600">Available 7 days a week</p>
+                  <p className="text-gray-700 font-medium mb-2">20862 Coastal Hwy, Rehoboth Beach, DE 19971</p>
+                  <p className="text-2xl font-bold text-theme-orange">302-722-0999</p>
                 </CardContent>
               </Card>
 
-              <Card className="text-center">
+              {/* Service Area */}
+              <Card className="text-center hover:shadow-lg transition-shadow">
                 <CardHeader>
-                  <Mail className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Email Us</CardTitle>
+                  <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
+                  <CardTitle>Sussex County Service Area</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-lg font-medium text-theme-orange mb-2">info@lackawannagolfcarts.com</p>
+                  <p className="text-gray-700 font-medium mb-2">Serving all Sussex County municipalities</p>
+                  <p className="text-2xl font-bold text-theme-orange">302-722-0999</p>
+                </CardContent>
+              </Card>
+
+              {/* Delaware Main Line */}
+              <Card className="text-center hover:shadow-lg transition-shadow">
+                <CardHeader>
+                  <Phone className="w-12 h-12 text-theme-orange mx-auto mb-4" />
+                  <CardTitle>Delaware Main Line</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-2xl font-bold text-theme-orange mb-2">302-722-0999</p>
+                  <p className="text-gray-600">Available 7 days a week</p>
+                </CardContent>
+              </Card>
+            </div>
+
+            {/* Email & Website */}
+            <div className="grid md:grid-cols-2 gap-8 mb-12">
+              <Card className="text-center hover:shadow-lg transition-shadow">
+                <CardHeader>
+                  <Mail className="w-12 h-12 text-theme-orange mx-auto mb-4" />
+                  <CardTitle>Email</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-lg font-medium text-theme-orange mb-2">rehobothgolfcarts@gmail.com</p>
                   <p className="text-gray-600">Quick response guaranteed</p>
                 </CardContent>
               </Card>
 
+              <Card className="text-center hover:shadow-lg transition-shadow">
+                <CardHeader>
+                  <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
+                  <CardTitle>Website</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-lg font-medium text-theme-orange mb-2">rehobothgolfcarts.com</p>
+                  <p className="text-gray-600">24/7 online service</p>
+                </CardContent>
+              </Card>
+            </div>
+
+            {/* Business Hours */}
+            <div className="max-w-2xl mx-auto">
               <Card className="text-center">
                 <CardHeader>
                   <Calendar className="w-12 h-12 text-theme-orange mx-auto mb-4" />
                   <CardTitle>Business Hours</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <div className="text-gray-700 text-sm">
-                    <p>Mon-Fri: 9AM-5PM</p>
-                    <p>Sat: 9AM-5PM</p>
+                  <div className="text-gray-700">
+                    <p className="mb-1">Mon-Fri: 9AM-5PM</p>
+                    <p className="mb-1">Sat: 9AM-5PM</p>
                     <p>Sun: By Appointment</p>
                   </div>
-                </CardContent>
-              </Card>
-
-              <Card className="text-center">
-                <CardHeader>
-                  <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Service Area</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <p className="text-gray-600">All 24 Luzerne County municipalities plus delivery service</p>
                 </CardContent>
               </Card>
             </div>
