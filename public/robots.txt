@@ -231,7 +231,7 @@ Sitemap: https://rehobothgolfcarts.com/public/sitemap.xml
 # Service Area: Sussex County, Delaware (27 municipalities)
 # Primary Brands: DENAGO, Evolution Electric Vehicles
 # Location: Delaware, serving Rehoboth Beach, Lewes, Georgetown, Seaford, Millsboro
-# Phone: 1-844-844-6638
+# Phone: 302-722-0999
 # Website: https://rehobothgolfcarts.com
 # Analytics: Google Analytics G-DTDH7LVGPN, Google Tag Manager GTM-NG5LKDC2
 # Geographic Coverage: All 27 Sussex County municipalities
