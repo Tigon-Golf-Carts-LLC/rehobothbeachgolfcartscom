@@ -67,10 +67,10 @@ export default function EcoImpactPage() {
     <>
       {/* SEO Head */}
       <Helmet>
-        <title>Eco-Impact Calculator - Environmental Benefits | Lackawanna County Golf Carts</title>
+        <title>Eco-Impact Calculator - Environmental Benefits | Rehoboth Golf Carts Sussex County</title>
         <meta 
           name="description" 
-          content="Calculate your environmental impact and savings with electric golf carts. See CO₂ reduction, fuel savings, and carbon offset benefits. Free eco-impact calculator for Luzerne County." 
+          content="Calculate your environmental impact and savings with electric golf carts. See CO₂ reduction, fuel savings, and carbon offset benefits. Free eco-impact calculator for Sussex County Delaware. Call 302-722-0999." 
         />
         <meta 
           name="keywords" 

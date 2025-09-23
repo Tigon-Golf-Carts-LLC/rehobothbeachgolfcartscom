@@ -5,9 +5,9 @@ export default function RentalPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Rental Policy | Lackawanna County Golf Carts"
-        description="Complete golf cart rental policy for Lackawanna County Golf Carts. Learn about rental requirements, responsibilities, insurance, and terms for Pennsylvania golf cart rentals."
-        keywords="rental policy, golf cart rental, Lackawanna County rentals, Pennsylvania golf cart rental policy"
+        title="Golf Cart Rental Policy | Rehoboth Golf Carts Sussex County Delaware"
+        description="Complete golf cart rental policy for Rehoboth Golf Carts. Learn about rental requirements, responsibilities, insurance, and terms for Sussex County Delaware golf cart rentals. Call 302-722-0999."
+        keywords="rental policy, golf cart rental, Sussex County Delaware rentals, Delaware golf cart rental policy"
       />
       
       {/* Hero Section */}
@@ -17,7 +17,7 @@ export default function RentalPolicyPage() {
             Rental Policy
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Complete golf cart rental terms, requirements, and responsibilities for Lackawanna County, Pennsylvania.
+            Complete golf cart rental terms, requirements, and responsibilities for Sussex County, Delaware.
           </p>
         </div>
       </section>
@@ -77,7 +77,7 @@ export default function RentalPolicyPage() {
                 <li>Keep golf cart clean and in good condition</li>
                 <li>No smoking, pets, or food/beverages in golf cart</li>
                 <li>Maximum speed and weight limits must be observed</li>
-                <li>Golf cart must remain within Pennsylvania unless approved</li>
+                <li>Golf cart must remain within Delaware unless approved</li>
               </ul>
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Prohibited Uses</h3>

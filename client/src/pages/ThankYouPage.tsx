@@ -9,9 +9,9 @@ export default function ThankYouPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Thank You - Lackawanna County Golf Carts"
-        description="Thank you for contacting Lackawanna County Golf Carts. We'll respond to your inquiry within 24 hours. Serving all Luzerne County municipalities."
-        keywords="thank you, contact confirmation, Lackawanna County Golf Carts, TIGON Golf Carts"
+        title="Thank You for Contacting Us | Rehoboth Golf Carts Sussex County Delaware"
+        description="Thank you for contacting Rehoboth Golf Carts. We'll respond to your inquiry within 24 hours. Serving all Sussex County Delaware municipalities. Call 302-722-0999."
+        keywords="thank you, contact confirmation, Rehoboth Golf Carts Sussex County, Delaware golf carts"
       />
       
       {/* Hero Section */}
@@ -24,7 +24,7 @@ export default function ThankYouPage() {
             Thank You!
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            We've received your message and appreciate your interest in Lackawanna County Golf Carts.
+            We've received your message and appreciate your interest in Rehoboth Golf Carts.
             Our team will respond to your inquiry soon.
           </p>
         </div>

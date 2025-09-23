@@ -5,9 +5,9 @@ export default function StaffingReportPage() {
   return (
     <>
       <SEOHead 
-        title="Staffing Report | Lackawanna County Golf Carts"
-        description="Learn about Lackawanna County Golf Carts' staffing structure, employment practices, and workforce development in Pennsylvania."
-        keywords="staffing report, employment, Lackawanna County golf carts, workforce Pennsylvania"
+        title="Annual Staffing Report | Rehoboth Golf Carts Sussex County Delaware"
+        description="Learn about Rehoboth Golf Carts' staffing structure, employment practices, and workforce development in Sussex County, Delaware. Call 302-722-0999."
+        keywords="staffing report, employment, Rehoboth Golf Carts Sussex County, workforce Delaware"
       />
       
       {/* Hero Section */}
@@ -17,7 +17,7 @@ export default function StaffingReportPage() {
             Staffing Report
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Transparency on our employment practices, workforce composition, and professional development initiatives in Pennsylvania.
+            Transparency on our employment practices, workforce composition, and professional development initiatives in Delaware.
           </p>
         </div>
       </section>
@@ -33,8 +33,8 @@ export default function StaffingReportPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Executive Summary</h2>
               <p className="mb-6">
-                Lackawanna County Golf Carts maintains a dedicated workforce committed to providing 
-                exceptional golf cart sales, rental, and service throughout Pennsylvania. This 
+                Rehoboth Golf Carts maintains a dedicated workforce committed to providing 
+                exceptional golf cart sales, rental, and service throughout Delaware. This 
                 annual staffing report provides transparency on our employment practices, 
                 workforce composition, and professional development initiatives.
               </p>
@@ -53,8 +53,8 @@ export default function StaffingReportPage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Location Distribution</h3>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>TIGON Golf Carts Pocono Pines:</strong> 18 employees</li>
-                <li><strong>TIGON Golf Carts Scranton-Wilkes-Barre:</strong> 14 employees</li>
+                <li><strong>Rehoboth Golf Carts Main Location:</strong> 18 employees</li>
+                <li><strong>Sussex County Service Center:</strong> 14 employees</li>
                 <li><strong>Mobile Service Teams:</strong> 6 employees</li>
               </ul>
 

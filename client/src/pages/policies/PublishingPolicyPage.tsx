@@ -5,9 +5,9 @@ export default function PublishingPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Publishing Policy | Lackawanna County Golf Carts"
-        description="Learn about Lackawanna County Golf Carts' content publishing standards, guidelines for user-generated content, and editorial policies for our Pennsylvania website."
-        keywords="publishing policy, content policy, Lackawanna County golf carts, editorial guidelines"
+        title="Content Publishing Policy | Rehoboth Golf Carts Sussex County Delaware"
+        description="Learn about Rehoboth Golf Carts' content publishing standards, guidelines for user-generated content, and editorial policies for our Delaware website. Call 302-722-0999."
+        keywords="publishing policy, content policy, Rehoboth Golf Carts Sussex County, editorial guidelines"
       />
       
       {/* Hero Section */}
@@ -33,9 +33,9 @@ export default function PublishingPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Content Publishing Standards</h2>
               <p className="mb-6">
-                Lackawanna County Golf Carts maintains high standards for all content published on our website, 
+                Rehoboth Golf Carts maintains high standards for all content published on our website, 
                 social media channels, and marketing materials. This policy ensures accuracy, professionalism, 
-                and compliance with Pennsylvania business regulations.
+                and compliance with Delaware business regulations.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Editorial Guidelines</h2>

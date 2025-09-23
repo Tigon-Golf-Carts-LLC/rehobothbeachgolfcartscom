@@ -12,10 +12,10 @@ export default function DenagoEvCity() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV CITY - Urban Electric Vehicle | Lehigh County Golf Carts"
-        description="Discover the DENAGO EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use in Lehigh County, PA."
-        keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer Lehigh County PA"
-        canonicalUrl="https://lackawannagolfcarts.com/vehicle/denago-ev-city"
+        title="DENAGO® EV CITY - Urban Electric Vehicle | Rehoboth Golf Carts Sussex County"
+        description="Discover the DENAGO EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use in Sussex County, Delaware. Call 302-722-0999."
+        keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer Sussex County DE"
+        canonicalUrl="https://rehobothgolfcarts.com/vehicle/denago-ev-city"
         ogImage="/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg"
         ogType="product"
       />
@@ -24,7 +24,7 @@ export default function DenagoEvCity() {
         brand="DENAGO"
         image="DENAGONEVCITY_1751893047472_1753135231313.jpg"
         description="Discover the EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use."
-        url="https://lackawannagolfcarts.com/vehicle/denago-ev-city"
+        url="https://rehobothgolfcarts.com/vehicle/denago-ev-city"
         features={["Street Legal NEV Certified", "40-50 mile range", "25 mph top speed", "4 passenger seating", "Urban mobility design"]}
       />
       

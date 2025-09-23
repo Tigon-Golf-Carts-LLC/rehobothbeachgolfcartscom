@@ -5,9 +5,9 @@ export default function DeliveryPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Delivery Policy | Lackawanna County Golf Carts"
-        description="Learn about delivery options, fees, and policies for golf cart purchases and rentals in Lackawanna County, Pennsylvania. Free delivery zones and scheduling information."
-        keywords="delivery policy, golf cart delivery, Lackawanna County delivery, Pennsylvania golf cart shipping"
+        title="Golf Cart Delivery Policy | Rehoboth Golf Carts Sussex County Delaware"
+        description="Learn about delivery options, fees, and policies for golf cart purchases and rentals in Sussex County, Delaware. Free delivery zones and scheduling information. Call 302-722-0999."
+        keywords="delivery policy, golf cart delivery, Sussex County Delaware delivery, Delaware golf cart shipping"
       />
       
       {/* Hero Section */}
@@ -17,7 +17,7 @@ export default function DeliveryPolicyPage() {
             Delivery Policy
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Comprehensive delivery services throughout Pennsylvania and surrounding areas for golf cart sales and rentals.
+            Comprehensive delivery services throughout Delaware and surrounding areas for golf cart sales and rentals.
           </p>
         </div>
       </section>
@@ -33,7 +33,7 @@ export default function DeliveryPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Delivery Overview</h2>
               <p className="mb-6">
-                Lackawanna County Golf Carts offers comprehensive delivery services throughout Pennsylvania 
+                Rehoboth Golf Carts offers comprehensive delivery services throughout Delaware 
                 and surrounding areas. Our delivery policy ensures safe, timely, and professional 
                 transport of your golf cart purchase or rental.
               </p>
@@ -42,9 +42,9 @@ export default function DeliveryPolicyPage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Free Delivery Zone</h3>
               <p className="mb-4">Complimentary delivery within:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>All Lackawanna County municipalities (39 locations)</li>
-                <li>20-mile radius from TIGON Golf Carts Pocono location</li>
-                <li>15-mile radius from TIGON Golf Carts Scranton location</li>
+                <li>All Sussex County municipalities (27 locations)</li>
+                <li>20-mile radius from Rehoboth Golf Carts location</li>
+                <li>15-mile radius from Rehoboth Beach location</li>
                 <li>Minimum purchase of $5,000 for golf cart sales</li>
                 <li>All rental deliveries within city limits</li>
               </ul>
@@ -52,10 +52,10 @@ export default function DeliveryPolicyPage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Extended Delivery Zone</h3>
               <p className="mb-4">Delivery available with fees to:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>Philadelphia and surrounding counties</li>
-                <li>Lancaster County</li>
-                <li>Lehigh Valley region</li>
-                <li>Central Pennsylvania locations</li>
+                <li>Wilmington and New Castle County</li>
+                <li>Kent County Delaware</li>
+                <li>Eastern Shore Maryland</li>
+                <li>Southern Delaware locations</li>
                 <li>Fee: $6 per mile beyond free delivery zone</li>
               </ul>
 
@@ -84,7 +84,7 @@ export default function DeliveryPolicyPage() {
                 <li>Available for orders placed before 2:00 PM</li>
                 <li>Subject to vehicle availability</li>
                 <li>Additional $50 rush delivery fee within free zone</li>
-                <li>Limited to Lackawanna County municipalities</li>
+                <li>Limited to Sussex County municipalities</li>
               </ul>
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Standard Rental Delivery</h3>

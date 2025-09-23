@@ -5,9 +5,9 @@ export default function StoragePolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Storage Policy | Lackawanna County Golf Carts"
-        description="Learn about golf cart storage services and policies at Lackawanna County Golf Carts. Seasonal storage, maintenance, and security information for Pennsylvania customers."
-        keywords="golf cart storage, storage policy, Lackawanna County storage, Pennsylvania golf cart storage"
+        title="Golf Cart Storage Services | Rehoboth Golf Carts Sussex County Delaware"
+        description="Learn about golf cart storage services and policies at Rehoboth Golf Carts. Seasonal storage, maintenance, and security information for Sussex County Delaware customers. Call 302-722-0999."
+        keywords="golf cart storage, storage policy, Sussex County Delaware storage, Delaware golf cart storage"
       />
       
       {/* Hero Section */}
@@ -17,7 +17,7 @@ export default function StoragePolicyPage() {
             Storage Policy
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Secure, climate-controlled storage services for golf carts at our Pennsylvania facilities.
+            Secure, climate-controlled storage services for golf carts at our Delaware facilities.
           </p>
         </div>
       </section>
@@ -33,8 +33,8 @@ export default function StoragePolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Storage Services Overview</h2>
               <p className="mb-6">
-                Lackawanna County Golf Carts provides secure, climate-controlled storage services for golf carts 
-                at our Pennsylvania facilities. Our storage policy ensures the protection and maintenance 
+                Rehoboth Golf Carts provides secure, climate-controlled storage services for golf carts 
+                at our Delaware facilities. Our storage policy ensures the protection and maintenance 
                 of your investment during storage periods.
               </p>
 

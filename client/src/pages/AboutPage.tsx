@@ -30,32 +30,32 @@ export default function AboutPage() {
   ];
 
   const milestones = [
-    { year: "2008", event: "Lackawanna County Golf Carts founded in Scranton" },
+    { year: "2008", event: "Rehoboth Golf Carts founded in Sussex County, Delaware" },
     { year: "2010", event: "Became authorized EVOLUTION dealer" },
-    { year: "2013", event: "Expanded to serve all Lackawanna County municipalities" },
+    { year: "2013", event: "Expanded to serve all Sussex County municipalities" },
     { year: "2016", event: "Added DENAGO to our brand portfolio" },
-    { year: "2019", event: "Opened service center in Dunmore" },
-    { year: "2024", event: "Reached 750+ satisfied customers across Pennsylvania" }
+    { year: "2019", event: "Opened service center in Rehoboth Beach" },
+    { year: "2024", event: "Reached 750+ satisfied customers across Delaware" }
   ];
 
   return (
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="About Lackawanna County Golf Carts - Premier Golf Cart Dealership Since 2008"
-        description="Learn about Lackawanna County Golf Carts, Pennsylvania's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
-        keywords="about Lackawanna County Golf Carts, golf cart dealership Pennsylvania, Denago Evolution dealer, golf cart service team"
-        canonicalUrl="https://lackawannagolfcarts.com/about"
+        title="About Rehoboth Golf Carts - Premier Golf Cart Dealership | Sussex County Delaware"
+        description="Learn about Rehoboth Golf Carts, Sussex County Delaware's premier golf cart dealership. Expert team, authorized DENAGO and EVOLUTION dealer with comprehensive service. Call 302-722-0999."
+        keywords="about Rehoboth Golf Carts, golf cart dealership Delaware, Sussex County, DENAGO EVOLUTION dealer, golf cart service team"
+        canonicalUrl="https://rehobothgolfcarts.com/about"
       />
       <AllSchemas 
         pageType="about" 
         pageData={{
-          title: "About Lackawanna County Golf Carts",
-          description: "Learn about Lackawanna County Golf Carts, Pennsylvania's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
-          url: "https://lackawannagolfcarts.com/about",
+          title: "About Rehoboth Golf Carts",
+          description: "Learn about Rehoboth Golf Carts, Sussex County Delaware's premier golf cart dealership. Expert team, authorized DENAGO and EVOLUTION dealer with comprehensive service.",
+          url: "https://rehobothgolfcarts.com/about",
           breadcrumbs: [
-            { name: "Home", url: "https://lackawannagolfcarts.com/" },
-            { name: "About", url: "https://lackawannagolfcarts.com/about" }
+            { name: "Home", url: "https://rehobothgolfcarts.com/" },
+            { name: "About", url: "https://rehobothgolfcarts.com/about" }
           ],
           people: [
             {
@@ -84,12 +84,12 @@ export default function AboutPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("about")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            About Lackawanna County Golf Carts
+            About Rehoboth Golf Carts
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Since 2008, we've been Lackawanna County's premier destination for premium golf carts, 
+            Since 2008, we've been Sussex County Delaware's premier destination for premium golf carts, 
             exceptional service, and unmatched customer care. Serving all 39 municipalities 
-            across northeastern Pennsylvania with pride and professionalism.
+            across Sussex County, Delaware with pride and professionalism.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
@@ -109,16 +109,16 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2008 in Lackawanna County, Pennsylvania, Lackawanna County Golf Carts began with a simple mission: 
-                to provide high-quality golf carts and exceptional service to customers throughout northeastern Pennsylvania.
+                Founded in 2008 in Sussex County, Delaware, Rehoboth Golf Carts began with a simple mission: 
+                to provide high-quality golf carts and exceptional service to customers throughout Sussex County, Delaware.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Lackawanna County is home to the vibrant city of Scranton, along with thriving communities like 
-                Dunmore, Carbondale, and Clarks Summit. Our location in the heart of northeastern Pennsylvania drives our commitment to excellence 
-                and serves the outdoor recreation and residential communities throughout the area.
+                Sussex County is home to vibrant coastal communities like Rehoboth Beach, along with thriving areas like 
+                Bethany Beach, Fenwick Island, and Lewes. Our location in the heart of coastal Delaware drives our commitment to excellence 
+                and serves the beach recreation and residential communities throughout the area.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Our county is known for its rich history and scenic beauty, home to numerous parks and thriving 
+                Sussex County is known for its rich coastal heritage and scenic beauty, home to beautiful beaches and thriving 
                 business communities. This tradition of excellence continues in our approach to golf cart sales and service, where we 
                 combine cutting-edge technology with personalized customer care.
               </p>
