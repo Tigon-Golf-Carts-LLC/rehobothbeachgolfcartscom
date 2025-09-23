@@ -63,7 +63,7 @@ export default function NewAboutPage() {
     <>
       <SEOHead 
         title="About Rehoboth Golf Carts - Your Premier Delaware Golf Cart Dealer"
-        description="Learn about Rehoboth Golf Carts, Delaware's trusted golf cart dealer serving all Sussex County municipalities with premium DENAGO and EVOLUTION vehicles since 2010."
+        description="Learn about Rehoboth Golf Carts, Delaware's trusted golf cart dealer serving all Sussex County municipalities with premium DENAGO and EVOLUTION vehicles since 2010. Call 302-722-0999."
         keywords="Sussex County golf carts, about us, golf cart dealer Delaware, DENAGO dealer, EVOLUTION dealer, Rehoboth Beach"
         canonicalUrl="https://rehobothgolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"

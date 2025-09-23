@@ -25,7 +25,7 @@ export default function HomePage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="Rehoboth Golf Carts - Premier Electric Golf Cart Dealership in Delaware"
-        description="Discover premium electric golf carts from Denago and Evolution at Rehoboth Golf Carts. Expert sales, service, rentals, and financing throughout Sussex County, Delaware."
+        description="Discover premium electric golf carts from Denago and Evolution at Rehoboth Golf Carts. Expert sales, service, rentals, and financing throughout Sussex County, Delaware. Call 302-722-0999."
         keywords="golf carts Sussex County DE, electric golf carts Delaware, Denago golf carts, Evolution golf carts, Rehoboth Beach golf carts, golf cart sales service rentals"
         canonicalUrl="https://rehobothgolfcarts.com/"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
