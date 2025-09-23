@@ -4,9 +4,9 @@ export function TermsOfServicePage() {
   return (
     <>
       <SEOHead 
-        title="Terms of Service | Montgomery County Golf Carts"
-        description="Terms of Service for Montgomery County Golf Carts. Review our terms and conditions for purchasing golf carts, rental services, and using our website."
-        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Montgomery County Golf Carts"
+        title="Terms of Service | Rehoboth Golf Carts"
+        description="Terms of Service for Rehoboth Golf Carts. Review our terms and conditions for purchasing golf carts, rental services, and using our website. Call 302-722-0999."
+        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Rehoboth Golf Carts, Sussex County Delaware"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -28,13 +28,13 @@ export function TermsOfServicePage() {
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">About Our Services</h2>
-              <p className="mb-4">Montgomery County Golf Carts provides:</p>
+              <p className="mb-4">Rehoboth Golf Carts provides:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>New and used golf cart sales</li>
                 <li>Golf cart rentals for various durations</li>
                 <li>Maintenance and repair services</li>
                 <li>Parts and accessories</li>
-                <li>Delivery and pickup services throughout Montgomery County, Pennsylvania</li>
+                <li>Delivery and pickup services throughout Sussex County, Delaware</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Website Use and Restrictions</h2>

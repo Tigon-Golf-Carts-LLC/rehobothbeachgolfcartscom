@@ -5,9 +5,9 @@ export default function TermsConditionsPage() {
   return (
     <>
       <SEOHead 
-        title="Terms & Conditions | Lackawanna County Golf Carts"
-        description="Read the complete terms and conditions for Lackawanna County Golf Carts. Understand your rights and responsibilities when purchasing, renting, or servicing golf carts in Pennsylvania."
-        keywords="terms conditions, Lackawanna County golf carts, Pennsylvania golf cart terms, legal agreement"
+        title="Terms & Conditions | Rehoboth Golf Carts"
+        description="Read the complete terms and conditions for Rehoboth Golf Carts. Understand your rights and responsibilities when purchasing, renting, or servicing golf carts in Sussex County, Delaware. Call 302-722-0999."
+        keywords="terms conditions, Rehoboth Golf Carts, Sussex County Delaware golf cart terms, legal agreement"
       />
       
       {/* Hero Section */}
@@ -17,7 +17,7 @@ export default function TermsConditionsPage() {
             Terms & Conditions
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Our comprehensive terms and conditions for golf cart sales, rentals, and services in Lackawanna County, Pennsylvania.
+            Our comprehensive terms and conditions for golf cart sales, rentals, and services in Sussex County, Delaware.
           </p>
         </div>
       </section>
@@ -33,7 +33,7 @@ export default function TermsConditionsPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Agreement Overview</h2>
               <p className="mb-6">
-                These Terms & Conditions ("Terms") govern your use of services provided by Lackawanna County Golf Carts, 
+                These Terms & Conditions ("Terms") govern your use of services provided by Rehoboth Golf Carts, 
                 including golf cart sales, rentals, service, and related products. By engaging with our services, 
                 you agree to be bound by these Terms.
               </p>
