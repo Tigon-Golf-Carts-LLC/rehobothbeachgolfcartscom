@@ -9,10 +9,10 @@ export default function EvolutionD5Maverick4PlusPage() {
       series="D5 MAVERICK"
       price="$9,995"
       image={evolutionD5Maverick4PlusImage}
-      seoTitle="EVOLUTION D5 MAVERICK 4 PLUS - Sport Golf Cart | Lackawanna County Golf Carts"
-      seoDescription="Discover the EVOLUTION D5 MAVERICK 4 PLUS electric golf cart in Luzerne County, PA. Sport-oriented 4-passenger vehicle with enhanced performance and agility."
-      seoKeywords="EVOLUTION D5 MAVERICK 4 PLUS, sport golf cart, performance vehicle, Lackawanna County, Pennsylvania"
-      canonicalUrl="https://lackawannagolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
+      seoTitle="EVOLUTION D5 MAVERICK 4 PLUS - Sport Golf Cart | Rehoboth Golf Carts"
+      seoDescription="Discover the EVOLUTION D5 MAVERICK 4 PLUS electric golf cart in Sussex County, Delaware. Sport-oriented 4-passenger vehicle with enhanced performance and agility. Call 302-722-0999."
+      seoKeywords="EVOLUTION D5 MAVERICK 4 PLUS, sport golf cart, performance vehicle, Sussex County, Delaware"
+      canonicalUrl="https://rehobothgolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
       seats="4"
       range="42 miles"
       topSpeed="25 mph"
@@ -27,7 +27,7 @@ export default function EvolutionD5Maverick4PlusPage() {
         "Comfortable Seating",
         "Reliable Power"
       ]}
-      description="Sport-oriented 4-passenger vehicle with enhanced performance and agility. The EVOLUTION D5 MAVERICK 4 PLUS combines sporty design with practical functionality for Luzerne County enthusiasts."
+      description="Sport-oriented 4-passenger vehicle with enhanced performance and agility. The EVOLUTION D5 MAVERICK 4 PLUS combines sporty design with practical functionality for Sussex County enthusiasts."
       tigoUrl="https://tigongolfcarts.com/evolution/d5-maverick/4-plus/"
     />
   );

@@ -10,9 +10,9 @@ export default function EvolutionD5Maverick6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D5 Maverick 6 - Family Golf Cart | Ocean County Golf Carts"
-        description="Discover the EVOLUTION® D5 Maverick 6 perfect for family outings. Reliable 6-passenger golf cart for group transportation with proven performance."
-        keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer Ocean County"
+        title="EVOLUTION D5 Maverick 6 - Family Golf Cart | Rehoboth Golf Carts"
+        description="Discover the EVOLUTION D5 Maverick 6 perfect for family outings. Reliable 6-passenger golf cart for group transportation with proven performance. Call 302-722-0999."
+        keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer Sussex County Delaware"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -40,7 +40,7 @@ export default function EvolutionD5Maverick6() {
                   </Badge>
                 </div>
                 <h1 className="text-4xl lg:text-5xl font-bold mb-6 text-gray-900">
-                  Maverick 6
+                  EVOLUTION D5 Maverick 6 - Family Golf Cart
                 </h1>
                 <p className="text-xl text-gray-600 mb-8 leading-relaxed">
                   Six-passenger Maverick perfect for family outings and group transportation. Reliable performance and comfortable seating for memorable adventures.
@@ -216,7 +216,7 @@ export default function EvolutionD5Maverick6() {
               Perfect for Family Adventures
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact Bucks County Golf Carts today for your EVOLUTION D5 Maverick 6.
+              Contact Rehoboth Golf Carts today for your EVOLUTION D5 Maverick 6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

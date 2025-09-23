@@ -9,10 +9,10 @@ export default function EvolutionCarrier6PlusPage() {
       series="CARRIER"
       price="$9,595"
       image={evolutionCarrier6PlusImage}
-      seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Lackawanna County Golf Carts"
-      seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Luzerne County, PA. 6-passenger utility vehicle with enhanced cargo capacity and work features."
-      seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Lackawanna County, Pennsylvania"
-      canonicalUrl="https://lackawannagolfcarts.com/vehicles/evolution-carrier-6-plus"
+      seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Rehoboth Golf Carts"
+      seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Sussex County, Delaware. 6-passenger utility vehicle with enhanced cargo capacity and work features. Call 302-722-0999."
+      seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Sussex County, Delaware"
+      canonicalUrl="https://rehobothgolfcarts.com/vehicles/evolution-carrier-6-plus"
       seats="6"
       range="38 miles"
       topSpeed="25 mph"
@@ -27,7 +27,7 @@ export default function EvolutionCarrier6PlusPage() {
         "Commercial Grade",
         "Reliable Power"
       ]}
-      description="6-passenger utility vehicle with enhanced cargo capacity and work features. The EVOLUTION CARRIER 6 PLUS is designed for both passenger transport and utility work in Luzerne County communities."
+      description="6-passenger utility vehicle with enhanced cargo capacity and work features. The EVOLUTION CARRIER 6 PLUS is designed for both passenger transport and utility work in Sussex County communities."
       tigoUrl="https://tigongolfcarts.com/evolution/carrier/6-plus/"
     />
   );
