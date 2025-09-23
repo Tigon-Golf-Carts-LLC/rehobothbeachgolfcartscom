@@ -16,7 +16,7 @@ export default function SEOHead({
   keywords = "golf carts, Sussex County, electric golf carts, golf cart sales, golf cart service, Rehoboth Beach golf carts, Delaware golf carts", 
   canonicalUrl,
   townName,
-  ogImage = "/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
+  ogImage = "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
   ogType = "website"
 }: SEOHeadProps) {
   useEffect(() => {
@@ -61,23 +61,23 @@ export default function SEOHead({
     // Set favicon
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "/attached_assets/Lackawanna County Golf Carts_1753809066045.png");
+      existingFavicon.setAttribute("href", "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png");
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "/attached_assets/Lackawanna County Golf Carts_1753809066045.png";
+      favicon.href = "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png";
       document.head.appendChild(favicon);
     }
 
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "/attached_assets/Lackawanna County Golf Carts_1753809066045.png");
+      existingAppleIcon.setAttribute("href", "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png");
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "/attached_assets/Lackawanna County Golf Carts_1753809066045.png";
+      appleIcon.href = "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png";
       document.head.appendChild(appleIcon);
     }
 
@@ -97,8 +97,8 @@ export default function SEOHead({
     updateOGTag("og:title", title);
     updateOGTag("og:description", description);
     updateOGTag("og:type", ogType);
-    updateOGTag("og:image", `https://lackawannagolfcarts.com${ogImage}`);
-    updateOGTag("og:site_name", "Lackawanna County Golf Carts");
+    updateOGTag("og:image", `https://rehobothgolfcarts.com${ogImage}`);
+    updateOGTag("og:site_name", "Rehoboth Golf Carts");
     updateOGTag("og:locale", "en_US");
     if (canonicalUrl) {
       updateOGTag("og:url", canonicalUrl);
@@ -120,34 +120,34 @@ export default function SEOHead({
     updateTwitterTag("twitter:card", "summary_large_image");
     updateTwitterTag("twitter:title", title);
     updateTwitterTag("twitter:description", description);
-    updateTwitterTag("twitter:image", `https://lackawannagolfcarts.com${ogImage}`);
-    updateTwitterTag("twitter:site", "@lehighgolfcarts");
-    updateTwitterTag("twitter:creator", "@lehighgolfcarts");
+    updateTwitterTag("twitter:image", `https://rehobothgolfcarts.com${ogImage}`);
+    updateTwitterTag("twitter:site", "@RehobothGolfCarts");
+    updateTwitterTag("twitter:creator", "@RehobothGolfCarts");
 
     // Structured Data (JSON-LD)
     if (townName) {
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": `Atlantic County Golf Carts - ${townName}`,
+        "name": `Rehoboth Golf Carts - ${townName}`,
         "description": description,
         "address": {
           "@type": "PostalAddress",
           "addressLocality": townName,
-          "addressRegion": "NJ",
+          "addressRegion": "DE",
           "addressCountry": "US"
         },
-        "telephone": "1-844-844-6638",
-        "email": "info@lackawannagolfcarts.com",
+        "telephone": "302-722-0999",
+        "email": "rehobothgolfcarts@gmail.com",
         "url": canonicalUrl,
-        "logo": "https://lackawannagolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
-        "image": `https://lackawannagolfcarts.com${ogImage}`,
+        "logo": "https://rehobothgolfcarts.com/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+        "image": `https://rehobothgolfcarts.com${ogImage}`,
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {
             "@type": "GeoCoordinates",
-            "latitude": "40.3073",
-            "longitude": "-75.1292"
+            "latitude": "38.6800",
+            "longitude": "-75.3400"
           },
           "geoRadius": "50000"
         },
