@@ -35,8 +35,8 @@ export default function OfferSchema({
   validThrough,
   seller = {
     name: "Atlantic County Golf Carts",
-    telephone: "1-844-844-6638",
-    email: "info@lackawannagolfcarts.com"
+    telephone: "(302) 200-3151",
+    email: "info@rehobothbeachgolfcarts.com"
   },
   eligibleRegion = "Atlantic County, NJ",
   priceSpecification = []

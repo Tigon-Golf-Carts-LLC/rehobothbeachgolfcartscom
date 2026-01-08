@@ -62,10 +62,10 @@ export default function NewAboutPage() {
   return (
     <>
       <SEOHead 
-        title="About Rehoboth Golf Carts - Your Premier Delaware Golf Cart Dealer"
-        description="Learn about Rehoboth Golf Carts, Delaware's trusted golf cart dealer serving all Sussex County municipalities with premium DENAGO and EVOLUTION vehicles since 2010. Call 302-722-0999."
+        title="About Rehoboth Beach Golf Carts - Your Premier Delaware Golf Cart Dealer"
+        description="Learn about Rehoboth Beach Golf Carts, Delaware's trusted golf cart dealer serving all Sussex County municipalities with premium DENAGO and EVOLUTION vehicles since 2010. Call (302) 200-3151."
         keywords="Sussex County golf carts, about us, golf cart dealer Delaware, DENAGO dealer, EVOLUTION dealer, Rehoboth Beach"
-        canonicalUrl="https://rehobothgolfcarts.com/about"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
         ogType="website"
       />
@@ -75,7 +75,7 @@ export default function NewAboutPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat overflow-hidden" style={getHeroBackgroundStyle("about")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">
-              About Rehoboth Golf Carts
+              About Rehoboth Beach Golf Carts
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
               Since 2010, we've been Sussex County's premier destination for premium golf carts, 
@@ -105,7 +105,7 @@ export default function NewAboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    Founded in 2010 in Sussex County, Delaware, Rehoboth Golf Carts began with a simple mission: 
+                    Founded in 2010 in Sussex County, Delaware, Rehoboth Beach Golf Carts began with a simple mission: 
                     to provide high-quality golf carts and exceptional service to customers throughout Delaware's 
                     most vibrant coastal county and beach communities.
                   </p>
@@ -165,10 +165,10 @@ export default function NewAboutPage() {
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Sussex County Golf Carts Service</h3>
                   <div className="grid md:grid-cols-1 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
-                      <h4 className="font-semibold text-theme-orange">Rehoboth Golf Carts</h4>
+                      <h4 className="font-semibold text-theme-orange">Rehoboth Beach Golf Carts</h4>
                       <p className="text-gray-600">Serving all Sussex County, DE</p>
-                      <p className="text-gray-700">302-722-0999</p>
-                      <p className="text-gray-600">rehobothgolfcarts@gmail.com</p>
+                      <p className="text-gray-700">(302) 200-3151</p>
+                      <p className="text-gray-600">rehobothbeachgolfcarts@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -295,7 +295,7 @@ export default function NewAboutPage() {
         <section className="py-16 bg-theme-primary text-white">
           <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl font-bold mb-6">
-              Ready to Experience the Rehoboth Golf Carts Difference?
+              Ready to Experience the Rehoboth Beach Golf Carts Difference?
             </h2>
             <p className="text-xl mb-8">
               Join thousands of satisfied customers who trust us for their golf cart needs.
@@ -306,9 +306,9 @@ export default function NewAboutPage() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:302-722-0999">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 302-722-0999
+                  Call (302) 200-3151
                 </Button>
               </a>
             </div>
@@ -328,11 +328,11 @@ export default function NewAboutPage() {
               <Card className="text-center hover:shadow-lg transition-shadow">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Rehoboth Golf Carts - Main Location</CardTitle>
+                  <CardTitle>Rehoboth Beach Golf Carts - Main Location</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-700 font-medium mb-2">20862 Coastal Hwy, Rehoboth Beach, DE 19971</p>
-                  <p className="text-2xl font-bold text-theme-orange">302-722-0999</p>
+                  <p className="text-2xl font-bold text-theme-orange">(302) 200-3151</p>
                 </CardContent>
               </Card>
 
@@ -344,7 +344,7 @@ export default function NewAboutPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-700 font-medium mb-2">Serving all Sussex County municipalities</p>
-                  <p className="text-2xl font-bold text-theme-orange">302-722-0999</p>
+                  <p className="text-2xl font-bold text-theme-orange">(302) 200-3151</p>
                 </CardContent>
               </Card>
 
@@ -355,7 +355,7 @@ export default function NewAboutPage() {
                   <CardTitle>Delaware Main Line</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-orange mb-2">302-722-0999</p>
+                  <p className="text-2xl font-bold text-theme-orange mb-2">(302) 200-3151</p>
                   <p className="text-gray-600">Available 7 days a week</p>
                 </CardContent>
               </Card>
@@ -369,7 +369,7 @@ export default function NewAboutPage() {
                   <CardTitle>Email</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-lg font-medium text-theme-orange mb-2">rehobothgolfcarts@gmail.com</p>
+                  <p className="text-lg font-medium text-theme-orange mb-2">rehobothbeachgolfcarts@gmail.com</p>
                   <p className="text-gray-600">Quick response guaranteed</p>
                 </CardContent>
               </Card>
@@ -380,7 +380,7 @@ export default function NewAboutPage() {
                   <CardTitle>Website</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-lg font-medium text-theme-orange mb-2">rehobothgolfcarts.com</p>
+                  <p className="text-lg font-medium text-theme-orange mb-2">rehobothbeachgolfcarts.com</p>
                   <p className="text-gray-600">24/7 online service</p>
                 </CardContent>
               </Card>

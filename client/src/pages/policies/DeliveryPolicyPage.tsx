@@ -5,8 +5,8 @@ export default function DeliveryPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Delivery Policy | Rehoboth Golf Carts Sussex County Delaware"
-        description="Learn about delivery options, fees, and policies for golf cart purchases and rentals in Sussex County, Delaware. Free delivery zones and scheduling information. Call 302-722-0999."
+        title="Golf Cart Delivery Policy | Rehoboth Beach Golf Carts Sussex County Delaware"
+        description="Learn about delivery options, fees, and policies for golf cart purchases and rentals in Sussex County, Delaware. Free delivery zones and scheduling information. Call (302) 200-3151."
         keywords="delivery policy, golf cart delivery, Sussex County Delaware delivery, Delaware golf cart shipping"
       />
       
@@ -33,7 +33,7 @@ export default function DeliveryPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Delivery Overview</h2>
               <p className="mb-6">
-                Rehoboth Golf Carts offers comprehensive delivery services throughout Delaware 
+                Rehoboth Beach Golf Carts offers comprehensive delivery services throughout Delaware 
                 and surrounding areas. Our delivery policy ensures safe, timely, and professional 
                 transport of your golf cart purchase or rental.
               </p>
@@ -43,7 +43,7 @@ export default function DeliveryPolicyPage() {
               <p className="mb-4">Complimentary delivery within:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>All Sussex County municipalities (27 locations)</li>
-                <li>20-mile radius from Rehoboth Golf Carts location</li>
+                <li>20-mile radius from Rehoboth Beach Golf Carts location</li>
                 <li>15-mile radius from Rehoboth Beach location</li>
                 <li>Minimum purchase of $5,000 for golf cart sales</li>
                 <li>All rental deliveries within city limits</li>
@@ -154,10 +154,10 @@ export default function DeliveryPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Delivery Department</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Delivery Scheduling</strong></p>
-                <p className="mb-2">Lackawanna County Golf Carts</p>
-                <p className="mb-2">Email: info@lackawannagolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Lackawanna County, Pennsylvania</p>
+                <p className="mb-2">Rehoboth Beach Golf Carts</p>
+                <p className="mb-2">Email: info@rehobothbeachgolfcarts.com</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
+                <p className="mb-2">Serving Sussex County, Delaware</p>
                 <p className="mb-2">Hours: Monday-Saturday 8:00 AM - 6:00 PM</p>
                 <p>Sunday: 10:00 AM - 4:00 PM</p>
               </div>

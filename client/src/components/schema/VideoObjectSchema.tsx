@@ -21,7 +21,7 @@ export default function VideoObjectSchema({
   contentUrl, 
   embedUrl, 
   publisher = {
-    name: "Lackawanna County Golf Carts",
+    name: "Rehoboth Beach Golf Carts",
     logo: "/logo.png"
   }
 }: VideoObjectSchemaProps) {

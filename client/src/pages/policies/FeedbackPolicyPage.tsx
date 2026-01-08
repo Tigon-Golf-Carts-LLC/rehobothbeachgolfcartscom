@@ -5,9 +5,9 @@ export default function FeedbackPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Customer Feedback Policy | Rehoboth Golf Carts Sussex County Delaware"
-        description="Learn how to provide feedback to Rehoboth Golf Carts. Our commitment to customer feedback, review process, and continuous improvement in Sussex County, Delaware. Call 302-722-0999."
-        keywords="feedback policy, customer feedback, Rehoboth Golf Carts Sussex County, customer service policy"
+        title="Customer Feedback Policy | Rehoboth Beach Golf Carts Sussex County Delaware"
+        description="Learn how to provide feedback to Rehoboth Beach Golf Carts. Our commitment to customer feedback, review process, and continuous improvement in Sussex County, Delaware. Call (302) 200-3151."
+        keywords="feedback policy, customer feedback, Rehoboth Beach Golf Carts Sussex County, customer service policy"
       />
       
       {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function FeedbackPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Our Commitment to Customer Feedback</h2>
               <p className="mb-6">
-                At Rehoboth Golf Carts, we value every customer's voice. Your feedback drives our 
+                At Rehoboth Beach Golf Carts, we value every customer's voice. Your feedback drives our 
                 continuous improvement efforts and helps us provide exceptional service throughout 
                 Delaware. This policy outlines how we collect, process, and act on customer feedback.
               </p>
@@ -69,9 +69,9 @@ export default function FeedbackPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">How to Provide Feedback</h2>
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Direct Communication Channels</h3>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Email:</strong> info@rehobothgolfcarts.com</li>
-                <li><strong>Phone:</strong> 302-722-0999</li>
-                <li><strong>In-Person:</strong> Rehoboth Golf Carts location</li>
+                <li><strong>Email:</strong> info@rehobothbeachgolfcarts.com</li>
+                <li><strong>Phone:</strong> (302) 200-3151</li>
+                <li><strong>In-Person:</strong> Rehoboth Beach Golf Carts location</li>
                 <li><strong>Mail:</strong> Written feedback to our business addresses</li>
                 <li><strong>Website:</strong> Contact form and feedback sections</li>
               </ul>
@@ -192,11 +192,11 @@ export default function FeedbackPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Our Feedback Team</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Customer Feedback Department</strong></p>
-                <p className="mb-2">Lackawanna County Golf Carts</p>
-                <p className="mb-2">Email: info@lackawannagolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Lackawanna County, Pennsylvania</p>
-                <p className="mb-2">Website: lackawannagolfcarts.com</p>
+                <p className="mb-2">Rehoboth Beach Golf Carts</p>
+                <p className="mb-2">Email: info@rehobothbeachgolfcarts.com</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
+                <p className="mb-2">Serving Sussex County, Delaware</p>
+                <p className="mb-2">Website: rehobothbeachgolfcarts.com</p>
                 <p>We appreciate your feedback and look forward to serving you better!</p>
               </div>
             </div>

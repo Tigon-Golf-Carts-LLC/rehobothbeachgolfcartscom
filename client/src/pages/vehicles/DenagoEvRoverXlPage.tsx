@@ -9,10 +9,10 @@ export default function DenagoEvRoverXlPage() {
       series="EV ROVER"
       price="$9,995"
       image={denagoEvRoverXLImage}
-      seoTitle="DENAGO EV ROVER XL - Luxury Family Golf Cart | Rehoboth Golf Carts"
-      seoDescription="Discover the DENAGO EV ROVER XL electric golf cart in Sussex County, Delaware. 6-passenger seating with luxury interior and advanced safety features. Call 302-722-0999."
+      seoTitle="DENAGO EV ROVER XL - Luxury Family Golf Cart | Rehoboth Beach Golf Carts"
+      seoDescription="Discover the DENAGO EV ROVER XL electric golf cart in Sussex County, Delaware. 6-passenger seating with luxury interior and advanced safety features. Call (302) 200-3151."
       seoKeywords="DENAGO EV ROVER XL, luxury golf cart, 6-passenger, Sussex County, Delaware, family vehicle"
-      canonicalUrl="https://rehobothgolfcarts.com/vehicles/denago-ev-rover-xl"
+      canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/denago-ev-rover-xl"
       seats="6"
       range="50 miles"
       topSpeed="25 mph"

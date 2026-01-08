@@ -1,9 +1,9 @@
-# Security Policy - Rehoboth Golf Carts
+# Security Policy - Rehoboth Beach Golf Carts
 # Web Security Information and Contact Details
 
 # Contact Information for Security Issues
-Contact: security@rehobothgolfcarts.com
-Contact: 1-844-844-6638
+Contact: security@rehobothbeachgolfcarts.com
+Contact: (302) 200-3151
 Preferred-Languages: en
 
 # Security Team Response
@@ -12,7 +12,7 @@ Response: 72 hours
 Escalation: 1 week
 
 # Website Security Information
-Canonical: https://rehobothgolfcarts.com/.well-known/security.txt
+Canonical: https://rehobothbeachgolfcarts.com/.well-known/security.txt
 
 # Encryption and Security Measures
 Encryption: HTTPS/TLS 1.3 required for all connections
@@ -22,8 +22,8 @@ Headers: Security headers enforced (X-Frame-Options, X-Content-Type-Options)
 
 # Scope of Security Policy
 In-Scope:
-- https://rehobothgolfcarts.com/*
-- All subdomains of rehobothgolfcarts.com
+- https://rehobothbeachgolfcarts.com/*
+- All subdomains of rehobothbeachgolfcarts.com
 - Customer data handling systems
 - Payment processing interfaces
 - Database systems
@@ -60,7 +60,7 @@ Not Permitted:
 - Brute force attacks on authentication systems
 
 # Business Information Security
-Company: Rehoboth Golf Carts
+Company: Rehoboth Beach Golf Carts
 Industry: Electric Golf Cart & Low Speed Vehicle Dealership
 Data Types: Customer contact information, vehicle preferences, service records
 Compliance: Following Delaware business security requirements
@@ -170,9 +170,9 @@ Updates: Monthly security update reviews
 Audits: Annual security audit procedures
 
 # Contact for General Security Questions
-Business: 1-844-844-6638
-Email: info@rehobothgolfcarts.com
-Website: https://rehobothgolfcarts.com
+Business: (302) 200-3151
+Email: rehobothbeachgolfcarts@gmail.com
+Website: https://rehobothbeachgolfcarts.com
 Address: Sussex County, Delaware service area
 
 # Security Policy Updates
@@ -182,7 +182,7 @@ Changes: Version controlled security policy updates
 Communication: Stakeholder notification of policy changes
 
 # Emergency Security Contact
-After-Hours: 1-844-844-6638 (voicemail monitored)
+After-Hours: (302) 200-3151 (voicemail monitored)
 Escalation: Management notification for critical issues
 Response: Emergency response procedures documented
 Coordination: Local law enforcement coordination if needed

@@ -141,7 +141,7 @@ export default function DenagoPage() {
         title="DENAGO Electric Golf Carts Sussex County | Premium Off-Road Vehicles Delaware"
         description="Discover DENAGO electric golf carts in Sussex County, Delaware. Premium EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology. Sales, service & delivery."
         keywords="DENAGO golf carts Sussex County, electric golf carts Delaware, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, Rehoboth Beach"
-        canonicalUrl="https://rehobothgolfcarts.com/denago"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/denago"
         ogImage="/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
         ogType="product.group"
       />
@@ -164,10 +164,10 @@ export default function DenagoPage() {
               technology with rugged durability for unmatched adventure capability in Sussex County, Delaware.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:302-722-0999">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 302-722-0999
+                  Call (302) 200-3151
                 </Button>
               </a>
               <Link href="/inventory">
@@ -373,7 +373,7 @@ export default function DenagoPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose DENAGO in Luzerne County?
+                Why Choose DENAGO in Sussex County?
               </h2>
             </div>
 
@@ -382,7 +382,7 @@ export default function DenagoPage() {
                 <Shield className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Built to Last</h3>
                 <p className="text-gray-600">
-                  DENAGO vehicles are engineered for Pennsylvania's challenging terrain with 
+                  DENAGO vehicles are engineered for Delaware's challenging terrain with 
                   military-grade components and weather-resistant construction.
                 </p>
               </div>
@@ -400,7 +400,7 @@ export default function DenagoPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Service</h3>
                 <p className="text-gray-600">
-                  Expert DENAGO service and support right here in Luzerne County with 
+                  Expert DENAGO service and support right here in Sussex County with 
                   genuine parts and factory-trained technicians.
                 </p>
               </div>
@@ -415,14 +415,14 @@ export default function DenagoPage() {
               Ready to Experience DENAGO?
             </h2>
             <p className="text-xl mb-8">
-              Contact Lackawanna County Golf Carts today to schedule a test drive or learn more 
+              Contact Rehoboth Beach Golf Carts today to schedule a test drive or learn more 
               about DENAGO's revolutionary electric vehicle technology.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:302-722-0999">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 302-722-0999
+                  Call (302) 200-3151
                 </Button>
               </a>
               <Link href="/contact">

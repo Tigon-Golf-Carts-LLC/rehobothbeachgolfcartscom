@@ -49,15 +49,15 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
   const featuredVehicles = vehicles?.slice(0, 3) || [];
   const fullName = `${municipality.name} ${municipality.type}`;
   
-  // SEO optimization for Montgomery County
-  const pageTitle = `${municipality.name} Golf Carts - Montgomery County's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullName}. Montgomery County Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${municipality.name} residents.`;
-  const pageKeywords = `${municipality.name} golf carts, ${fullName} golf cart sales, Montgomery County golf carts, electric golf carts ${municipality.name}, golf cart service ${municipality.name}, golf cart rentals ${municipality.name}, Pennsylvania golf carts`;
-  const canonicalUrl = `https://montcogolfcarts.com${municipality.url}`;
+  // SEO optimization for Sussex County
+  const pageTitle = `${municipality.name} Golf Carts - Sussex County's Premier Dealership | Sales, Service & Rentals`;
+  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullName}. Rehoboth Beach Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${municipality.name} residents.`;
+  const pageKeywords = `${municipality.name} golf carts, ${fullName} golf cart sales, Sussex County golf carts, electric golf carts ${municipality.name}, golf cart service ${municipality.name}, golf cart rentals ${municipality.name}, Delaware golf carts`;
+  const canonicalUrl = `https://rehobothbeachgolfcarts.com${municipality.url}`;
 
   const businessHours = "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM, Sun: Closed";
-  const businessPhone = "1-844-844-6638";
-  const businessEmail = "info@montcogolfcarts.com";
+  const businessPhone = "(302) 200-3151";
+  const businessEmail = "info@rehobothbeachgolfcarts.com";
 
   return (
     <>
@@ -86,7 +86,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
               <ol className="flex items-center space-x-2">
                 <li><Link href="/" className="text-gray-500 hover:text-gray-700">Home</Link></li>
                 <li className="text-gray-400">/</li>
-                <li><Link href="/locations" className="text-gray-500 hover:text-gray-700">Montgomery County Locations</Link></li>
+                <li><Link href="/locations" className="text-gray-500 hover:text-gray-700">Sussex County Locations</Link></li>
                 <li className="text-gray-400">/</li>
                 <li className="text-gray-900 font-medium">{fullName}</li>
               </ol>
@@ -97,12 +97,12 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
         {/* Hero Section */}
         <section className="py-16 px-4 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
           <div className="max-w-7xl mx-auto text-center">
-            <Badge className="mb-4 bg-blue-100 text-blue-800">Montgomery County Golf Carts</Badge>
+            <Badge className="mb-4 bg-blue-100 text-blue-800">Rehoboth Beach Golf Carts</Badge>
             <h1 className="text-5xl font-bold mb-6">
               Premium Golf Carts in {fullName}
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto leading-relaxed">
-              Montgomery County's trusted source for premium electric golf carts. Professional sales, 
+              Sussex County's trusted source for premium electric golf carts. Professional sales, 
               service, and rental solutions delivered directly to {municipality.name} residents.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -155,7 +155,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
                 </CardHeader>
                 <CardContent className="text-center">
                   <p className="font-semibold text-purple-600">{fullName}</p>
-                  <p className="text-gray-600">Complete Montgomery County coverage</p>
+                  <p className="text-gray-600">Complete Sussex County coverage</p>
                 </CardContent>
               </Card>
             </div>
@@ -239,7 +239,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
                   <CardTitle className="text-blue-900">Local Support</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600">Dedicated Montgomery County team providing personalized customer service.</p>
+                  <p className="text-gray-600">Dedicated Sussex County team providing personalized customer service.</p>
                 </CardContent>
               </Card>
             </div>
@@ -254,7 +254,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
                 {fullName} Location & Service Area
               </h2>
               <p className="text-xl text-gray-600">
-                Proudly serving {municipality.name} and surrounding Montgomery County areas
+                Proudly serving {municipality.name} and surrounding Sussex County areas
               </p>
             </div>
             
@@ -282,7 +282,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
                   </div>
                   <div>
                     <h3 className="font-semibold text-blue-900 mb-2">Service Area</h3>
-                    <p className="text-blue-700">Montgomery County, PA</p>
+                    <p className="text-blue-700">Sussex County, DE</p>
                   </div>
                 </div>
               </div>
@@ -297,7 +297,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
               Ready to Get Your Golf Cart in {municipality.name}?
             </h2>
             <p className="text-xl mb-8">
-              Contact Montgomery County Golf Carts today for expert consultation and competitive pricing.
+              Contact Rehoboth Beach Golf Carts today for expert consultation and competitive pricing.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href={`tel:${businessPhone}`}>
@@ -313,15 +313,15 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
           </div>
         </section>
 
-        {/* All Montgomery County Locations */}
+        {/* All Sussex County Locations */}
         <section className="py-16 px-4 bg-gray-50">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                All Montgomery County Service Areas
+                All Sussex County Service Areas
               </h2>
               <p className="text-xl text-gray-600">
-                Professional golf cart services throughout Montgomery County, Pennsylvania
+                Professional golf cart services throughout Sussex County, Delaware
               </p>
             </div>
             
@@ -344,7 +344,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
             
             <div className="text-center mt-8">
               <p className="text-gray-600">
-                Serving all {MONTGOMERY_COUNTY_MUNICIPALITIES.length} municipalities in Montgomery County with premium golf cart solutions.
+                Serving all {MONTGOMERY_COUNTY_MUNICIPALITIES.length} municipalities in Sussex County with premium golf cart solutions.
               </p>
             </div>
           </div>

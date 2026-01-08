@@ -24,24 +24,24 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Rehoboth Golf Carts - Premier Electric Golf Cart Dealership in Delaware"
-        description="Discover premium electric golf carts from Denago and Evolution at Rehoboth Golf Carts. Expert sales, service, rentals, and financing throughout Sussex County, Delaware. Call 302-722-0999."
+        title="Rehoboth Beach Golf Carts - Premier Electric Golf Cart Dealership in Delaware"
+        description="Discover premium electric golf carts from Denago and Evolution at Rehoboth Beach Golf Carts. Expert sales, service, rentals, and financing throughout Sussex County, Delaware. Call (302) 200-3151."
         keywords="golf carts Sussex County DE, electric golf carts Delaware, Denago golf carts, Evolution golf carts, Rehoboth Beach golf carts, golf cart sales service rentals"
-        canonicalUrl="https://rehobothgolfcarts.com/"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
         ogType="website"
       />
       <AllSchemas 
         pageType="home" 
         pageData={{
-          title: "Rehoboth Golf Carts - Premier Electric Golf Cart Dealership in Delaware",
-          description: "Discover premium electric golf carts from Denago and Evolution at Rehoboth Golf Carts. Expert sales, service, rentals, and financing throughout Sussex County, Delaware.",
-          url: "https://rehobothgolfcarts.com/",
-          breadcrumbs: [{ name: "Home", url: "https://rehobothgolfcarts.com/" }],
+          title: "Rehoboth Beach Golf Carts - Premier Electric Golf Cart Dealership in Delaware",
+          description: "Discover premium electric golf carts from Denago and Evolution at Rehoboth Beach Golf Carts. Expert sales, service, rentals, and financing throughout Sussex County, Delaware.",
+          url: "https://rehobothbeachgolfcarts.com/",
+          breadcrumbs: [{ name: "Home", url: "https://rehobothbeachgolfcarts.com/" }],
           reviews: [
             {
               author: "John Smith",
-              reviewBody: "Excellent service and quality golf carts. The team at Rehoboth Golf Carts helped me find the perfect cart for my needs in Rehoboth Beach.",
+              reviewBody: "Excellent service and quality golf carts. The team at Rehoboth Beach Golf Carts helped me find the perfect cart for my needs in Rehoboth Beach.",
               reviewRating: 5,
               datePublished: "2025-01-15",
               headline: "Outstanding service and selection"
@@ -69,7 +69,7 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                Rehoboth Golf Carts - Premier Delaware Dealership
+                Rehoboth Beach Golf Carts - Premier Delaware Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
                 Serving all Sussex County municipalities with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions from Rehoboth Beach to Seaford. 
@@ -81,9 +81,9 @@ export default function HomePage() {
                     View Inventory
                   </Button>
                 </Link>
-                <a href="tel:302-722-0999">
+                <a href="tel:(302) 200-3151">
                   <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900 w-full sm:w-auto">
-                    Call Now 302-722-0999
+                    Call Now (302) 200-3151
                   </Button>
                 </a>
               </div>
@@ -103,7 +103,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Why Choose Rehoboth Golf Carts?
+            Why Choose Rehoboth Beach Golf Carts?
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             We're more than just a dealership - we're your partner in golf cart ownership 
@@ -158,7 +158,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Rehoboth Golf Carts - Top Golf Cart and LSV Brands
+            Rehoboth Beach Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             We carry the most trusted names in Golf Carts and Low Speed Vehicles
@@ -332,13 +332,13 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* About Rehoboth Golf Carts Section */}
+      {/* About Rehoboth Beach Golf Carts Section */}
       <section className="py-12 md:py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div className="order-2 lg:order-1">
               <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4 md:mb-6 text-gray-900">
-                About Rehoboth Golf Carts
+                About Rehoboth Beach Golf Carts
               </h2>
               <p className="text-base md:text-lg text-gray-600 mb-6 md:mb-8">
                 With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout Sussex County and surrounding Delaware areas.
@@ -379,7 +379,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Lackawanna County Municipalities Section */}
+      {/* Sussex County Municipalities Section */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
@@ -389,7 +389,7 @@ export default function HomePage() {
             Professional golf cart services delivered to your town or city throughout Sussex County, Delaware
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3 mb-12">
-            {/* Complete Lackawanna County Municipality List - dynamically generated */}
+            {/* Complete Sussex County Municipality List - dynamically generated */}
             {SUSSEX_COUNTY_MUNICIPALITIES.map((municipality: Municipality) => (
               <Link 
                 key={municipality.slug} 
@@ -446,7 +446,7 @@ export default function HomePage() {
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Main Contact</h3>
             <p className="text-gray-600 mb-4">For general inquiries and support throughout Sussex County, Delaware</p>
             <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-              <a href="tel:302-722-0999" className="text-2xl font-bold text-theme-orange hover:underline">302-722-0999</a>
+              <a href="tel:(302) 200-3151" className="text-2xl font-bold text-theme-orange hover:underline">(302) 200-3151</a>
               <Link href="/contact">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                   Contact Us

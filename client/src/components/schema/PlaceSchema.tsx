@@ -64,7 +64,7 @@ export default function PlaceSchema({
       }),
       "image": {
         "@type": "ImageObject",
-        "url": "https://lackawannagolfcarts.com/logo.png"
+        "url": "https://rehobothbeachgolfcarts.com/logo.png"
       }
     };
     

@@ -1,10 +1,10 @@
 # Security.txt - Security Information and Disclosure
-# Lackawanna County Golf Carts - Responsible Security Policy
+# Rehoboth Beach Golf Carts - Responsible Security Policy
 
 ## SECURITY CONTACT INFORMATION
-Contact: info@lackawannagolfcarts.com
-Phone: 1-844-844-6638
-Website: https://lackawannagolfcarts.com
+Contact: rehobothbeachgolfcarts@gmail.com
+Phone: (302) 200-3151
+Website: https://rehobothbeachgolfcarts.com
 Response Time: 24-48 hours for security-related inquiries
 
 ## RESPONSIBLE VULNERABILITY DISCLOSURE
@@ -12,7 +12,7 @@ We appreciate responsible disclosure of security vulnerabilities.
 If you discover a security issue, please contact us immediately.
 
 ### Reporting Process
-1. Email security concerns to: info@lackawannagolfcarts.com
+1. Email security concerns to: rehobothbeachgolfcarts@gmail.com
 2. Include detailed information about the vulnerability
 3. Allow reasonable time for investigation and resolution
 4. Avoid public disclosure until the issue is resolved
@@ -27,7 +27,7 @@ If you discover a security issue, please contact us immediately.
 ## SECURITY POLICY
 ### Scope
 This security policy covers:
-- lackawannagolfcarts.com and all subdomains
+- rehobothbeachgolfcarts.com and all subdomains
 - Business systems and customer data protection
 - Website security and user privacy
 

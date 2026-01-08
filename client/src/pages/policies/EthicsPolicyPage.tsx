@@ -5,9 +5,9 @@ export default function EthicsPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Business Ethics Policy | Rehoboth Golf Carts Sussex County Delaware"
-        description="Learn about Rehoboth Golf Carts' code of ethics and business conduct standards for employees, customers, and partners in Sussex County, Delaware. Call 302-722-0999."
-        keywords="ethics policy, business ethics, Rehoboth Golf Carts Sussex County, code of conduct Delaware"
+        title="Business Ethics Policy | Rehoboth Beach Golf Carts Sussex County Delaware"
+        description="Learn about Rehoboth Beach Golf Carts' code of ethics and business conduct standards for employees, customers, and partners in Sussex County, Delaware. Call (302) 200-3151."
+        keywords="ethics policy, business ethics, Rehoboth Beach Golf Carts Sussex County, code of conduct Delaware"
       />
       
       {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function EthicsPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Our Ethical Foundation</h2>
               <p className="mb-6">
-                Rehoboth Golf Carts operates with the highest standards of integrity, honesty, 
+                Rehoboth Beach Golf Carts operates with the highest standards of integrity, honesty, 
                 and ethical behavior. Our commitment to ethical business practices guides every 
                 interaction with customers, employees, suppliers, and the Delaware communities we serve.
               </p>
@@ -239,11 +239,11 @@ export default function EthicsPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Ethics Department</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Ethics and Compliance</strong></p>
-                <p className="mb-2">Lackawanna County Golf Carts</p>
-                <p className="mb-2">Email: info@lackawannagolfcarts.com (Confidential Ethics Reports)</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Lackawanna County, Pennsylvania</p>
-                <p className="mb-2">Website: lackawannagolfcarts.com</p>
+                <p className="mb-2">Rehoboth Beach Golf Carts</p>
+                <p className="mb-2">Email: info@rehobothbeachgolfcarts.com (Confidential Ethics Reports)</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
+                <p className="mb-2">Serving Sussex County, Delaware</p>
+                <p className="mb-2">Website: rehobothbeachgolfcarts.com</p>
                 <p>Confidential and anonymous reporting available</p>
               </div>
             </div>

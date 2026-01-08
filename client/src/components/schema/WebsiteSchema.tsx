@@ -7,9 +7,9 @@ interface WebsiteSchemaProps {
 }
 
 export default function WebsiteSchema({ 
-  url = "https://lackawannagolfcarts.com",
-  name = "Lackawanna County Golf Carts",
-  description = "Premier golf cart dealership in Lackawanna County, Pennsylvania"
+  url = "https://rehobothbeachgolfcarts.com",
+  name = "Rehoboth Beach Golf Carts",
+  description = "Premier golf cart dealership in Sussex County, Delaware"
 }: WebsiteSchemaProps) {
   useEffect(() => {
     const structuredData = {
@@ -20,10 +20,10 @@ export default function WebsiteSchema({
       "url": url,
       "publisher": {
         "@type": "Organization",
-        "name": "Lackawanna County Golf Carts",
+        "name": "Rehoboth Beach Golf Carts",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://lackawannagolfcarts.com/logo.png",
+          "url": "https://rehobothbeachgolfcarts.com/logo.png",
           "width": 400,
           "height": 400
         }
@@ -37,9 +37,9 @@ export default function WebsiteSchema({
         "query-input": "required name=search_term_string"
       },
       "sameAs": [
-        "https://www.facebook.com/carbongolfcarts",
-        "https://twitter.com/carbongolfcarts",
-        "https://www.instagram.com/carbongolfcarts"
+        "https://www.facebook.com/rehobothbeachgolfcarts",
+        "https://twitter.com/rehobothbeachgolfcarts",
+        "https://www.instagram.com/rehobothbeachgolfcarts"
       ]
     };
     

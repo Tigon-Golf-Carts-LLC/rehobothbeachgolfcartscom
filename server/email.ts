@@ -41,7 +41,7 @@ export const sendContactEmail = async (formData: ContactForm): Promise<boolean> 
     const htmlContent = `
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px;">
         <div style="text-align: center; margin-bottom: 30px;">
-          <h1 style="color: #0e2e55; margin-bottom: 10px;">Carbon County Golf Carts</h1>
+          <h1 style="color: #0e2e55; margin-bottom: 10px;">Rehoboth Beach Golf Carts</h1>
           <h2 style="color: #ff6100; margin: 0;">New Contact Form Submission</h2>
         </div>
         
@@ -77,14 +77,14 @@ export const sendContactEmail = async (formData: ContactForm): Promise<boolean> 
         </div>
         
         <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #e9ecef; text-align: center; color: #999; font-size: 12px;">
-          <p>This email was sent from the Carbon County Golf Carts contact form.</p>
+          <p>This email was sent from the Rehoboth Beach Golf Carts contact form.</p>
           <p>Respond directly to this email to contact the customer.</p>
         </div>
       </div>
     `;
 
     const textContent = `
-Carbon County Golf Carts - New Contact Form Submission
+Rehoboth Beach Golf Carts - New Contact Form Submission
 
 Contact Information:
 Name: ${formData.firstName} ${formData.lastName}
@@ -96,16 +96,16 @@ Message:
 ${formData.message}
 
 ---
-This email was sent from the Carbon County Golf Carts contact form.
+This email was sent from the Rehoboth Beach Golf Carts contact form.
 Respond directly to this email to contact the customer.
     `;
 
     // Email options
     const mailOptions = {
-      from: `"Carbon County Golf Carts Contact Form" <${process.env.EMAIL_USER || 'info@carbongolfcarts.com'}>`,
+      from: `"Rehoboth Beach Golf Carts Contact Form" <${process.env.EMAIL_USER || 'info@rehobothbeachgolfcarts.com'}>`,
       to: 'sales@tigongolfcarts.com',
       replyTo: formData.email, // Set reply-to as the customer's email
-      subject: `[ CARBON COUNTY GOLF CARTS ] New Inquiry`,
+      subject: `[ REHOBOTH BEACH GOLF CARTS ] New Inquiry`,
       text: textContent,
       html: htmlContent,
     };
@@ -122,7 +122,7 @@ Respond directly to this email to contact the customer.
       
       // For development, we'll just log the email content and return success
       console.log('Email would be sent to: sales@tigongolfcarts.com');
-      console.log('Email subject:', `[ CARBON COUNTY GOLF CARTS ] New Inquiry`);
+      console.log('Email subject:', `[ REHOBOTH BEACH GOLF CARTS ] New Inquiry`);
       console.log('Email content:', textContent);
       return true;
     }

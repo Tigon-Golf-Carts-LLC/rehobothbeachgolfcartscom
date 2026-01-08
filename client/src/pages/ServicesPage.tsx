@@ -87,20 +87,20 @@ export default function ServicesPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Golf Cart Services in Sussex County - Expert Maintenance & Repair | Rehoboth Golf Carts"
-        description="Professional golf cart maintenance, repair, customization, and warranty services in Sussex County, Delaware. Certified technicians, quality parts, and comprehensive care. Call 302-722-0999."
+        title="Golf Cart Services in Sussex County - Expert Maintenance & Repair | Rehoboth Beach Golf Carts"
+        description="Professional golf cart maintenance, repair, customization, and warranty services in Sussex County, Delaware. Certified technicians, quality parts, and comprehensive care. Call (302) 200-3151."
         keywords="golf cart service Sussex County DE, golf cart repair Delaware, golf cart maintenance, battery service, customization"
-        canonicalUrl="https://rehobothgolfcarts.com/services"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/services"
       />
       <AllSchemas 
         pageType="services" 
         pageData={{
           title: "Golf Cart Services in Sussex County - Expert Maintenance & Repair",
           description: "Professional golf cart maintenance, repair, customization, and warranty services in Sussex County, Delaware. Certified technicians, quality parts, and comprehensive care.",
-          url: "https://rehobothgolfcarts.com/services",
+          url: "https://rehobothbeachgolfcarts.com/services",
           breadcrumbs: [
-            { name: "Home", url: "https://rehobothgolfcarts.com/" },
-            { name: "Services", url: "https://rehobothgolfcarts.com/services" }
+            { name: "Home", url: "https://rehobothbeachgolfcarts.com/" },
+            { name: "Services", url: "https://rehobothbeachgolfcarts.com/services" }
           ],
           serviceName: "Golf Cart Services",
           serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in Sussex County, Delaware",
@@ -216,15 +216,15 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Service Areas</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout Luzerne County and surrounding areas
+            We proudly serve customers throughout Sussex County and surrounding areas
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-gray-700">
             {[
-              "Allentown", "Alburtis", "Breinigsville", "Catasauqua",
-              "Center Valley", "Coopersburg", "Coplay", "East Texas",
-              "Emmaus", "Fogelsville", "Germansville", "Laurys Station",
-              "Limeport", "Macungie", "Neffs", "New Tripoli"
+              "Rehoboth Beach", "Bethany Beach", "Lewes", "Dewey Beach",
+              "Fenwick Island", "South Bethany", "Georgetown", "Seaford",
+              "Milford", "Milton", "Laurel", "Millsboro",
+              "Bridgeville", "Ocean View", "Frankford", "Selbyville"
             ].map((town, index) => (
               <div key={index} className="bg-gray-50 p-3 rounded-lg">
                 {town}
@@ -244,9 +244,9 @@ export default function ServicesPage() {
             Keep your golf cart running smoothly with professional service
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:1-844-844-6638">
+            <a href="tel:(302) 200-3151">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call 1-844-844-6638
+                Call (302) 200-3151
               </Button>
             </a>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">

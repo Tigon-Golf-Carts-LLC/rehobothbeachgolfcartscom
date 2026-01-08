@@ -229,7 +229,7 @@ export default function EvolutionPage() {
         title="EVOLUTION Golf Carts Sussex County | Premium Electric Vehicles Delaware"
         description="Discover EVOLUTION golf carts in Sussex County, Delaware. Complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series. Expert sales & service."
         keywords="EVOLUTION golf carts Sussex County, electric golf carts Delaware, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Delaware, Rehoboth Beach"
-        canonicalUrl="https://rehobothgolfcarts.com/evolution"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/evolution"
         ogImage="/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
         ogType="product.group"
       />
@@ -252,10 +252,10 @@ export default function EvolutionPage() {
               premium quality, innovative design, and reliable performance for Sussex County, Delaware.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:302-722-0999">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 302-722-0999
+                  Call (302) 200-3151
                 </Button>
               </a>
               <Link href="/inventory">
@@ -453,7 +453,7 @@ export default function EvolutionPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose EVOLUTION in Luzerne County?
+                Why Choose EVOLUTION in Sussex County?
               </h2>
             </div>
 
@@ -481,7 +481,7 @@ export default function EvolutionPage() {
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Reliable Performance</h3>
                 <p className="text-gray-600">
                   Count on EVOLUTION's dependable electric systems and robust construction 
-                  for years of reliable service in Pennsylvania's varied conditions.
+                  for years of reliable service in Delaware's varied conditions.
                 </p>
               </div>
 
@@ -489,7 +489,7 @@ export default function EvolutionPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Support</h3>
                 <p className="text-gray-600">
-                  Expert EVOLUTION service and genuine parts support right here in Luzerne County 
+                  Expert EVOLUTION service and genuine parts support right here in Sussex County 
                   with factory-trained technicians and comprehensive warranties.
                 </p>
               </div>
@@ -504,14 +504,14 @@ export default function EvolutionPage() {
               Ready to Experience EVOLUTION?
             </h2>
             <p className="text-xl mb-8">
-              Contact Lackawanna County Golf Carts today to explore the complete EVOLUTION lineup 
+              Contact Rehoboth Beach Golf Carts today to explore the complete EVOLUTION lineup 
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:302-722-0999">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 302-722-0999
+                  Call (302) 200-3151
                 </Button>
               </a>
               <Link href="/contact">

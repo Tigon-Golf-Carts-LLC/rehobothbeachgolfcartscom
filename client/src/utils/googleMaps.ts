@@ -1,5 +1,5 @@
 /**
- * Utility functions for generating Google Maps embed URLs for Luzerne County locations
+ * Utility functions for generating Google Maps embed URLs for Sussex County locations
  */
 
 export function generateGoogleMapsEmbed(locationName: string, locationType?: string): string {
@@ -8,8 +8,8 @@ export function generateGoogleMapsEmbed(locationName: string, locationType?: str
   
   // Create the full location string with proper formatting for Google Maps
   const fullLocation = locationType 
-    ? `${cleanLocationName} ${locationType}, Luzerne County, PA`
-    : `${cleanLocationName}, Luzerne County, PA`;
+    ? `${cleanLocationName} ${locationType}, Sussex County, DE`
+    : `${cleanLocationName}, Sussex County, DE`;
   
   // Encode the location for the URL
   const encodedLocation = encodeURIComponent(fullLocation);
@@ -22,8 +22,8 @@ export function generateGoogleMapsEmbedLegacy(locationName: string, locationType
   // Alternative method using the older embed format (more reliable for some locations)
   const cleanLocationName = locationName.trim();
   const fullLocation = locationType 
-    ? `${cleanLocationName} ${locationType}, Luzerne County, PA`
-    : `${cleanLocationName}, Luzerne County, PA`;
+    ? `${cleanLocationName} ${locationType}, Sussex County, DE`
+    : `${cleanLocationName}, Sussex County, DE`;
   
   // Encode for legacy embed format
   const encodedLocation = encodeURIComponent(fullLocation);
@@ -36,8 +36,8 @@ export function generateSimpleGoogleMapsEmbed(locationName: string, locationType
   // Most reliable method - simple place search
   const cleanLocationName = locationName.trim();
   const searchQuery = locationType 
-    ? `${cleanLocationName} ${locationType} Luzerne County PA`
-    : `${cleanLocationName} Luzerne County PA`;
+    ? `${cleanLocationName} ${locationType} Sussex County DE`
+    : `${cleanLocationName} Sussex County DE`;
   
   const encodedQuery = encodeURIComponent(searchQuery);
   

@@ -50,9 +50,8 @@ export default function Footer() {
           {/* Mobile: Contact Info */}
           <div className="md:hidden">
             <div className="space-y-2">
-              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:302-722-0999" className="hover:text-blue-600">302-722-0999</a></p>
-              <p className="text-gray-600 text-sm">Toll Free: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
-              <p className="text-gray-600 text-sm">Email: rehobothgolfcarts@gmail.com</p>
+              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:302-200-3151" className="hover:text-blue-600">(302) 200-3151</a></p>
+              <p className="text-gray-600 text-sm">Email: rehobothbeachgolfcarts@gmail.com</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -126,9 +125,8 @@ export default function Footer() {
                 <li><Link href="/policies/staffing-report" className="text-gray-600 hover:text-gray-900 text-sm">Staffing Report</Link></li>
               </ul>
               <div className="space-y-2">
-                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:302-722-0999" className="hover:text-blue-600">302-722-0999</a></p>
-                <p className="text-gray-600 text-sm">Toll Free: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
-                <p className="text-gray-600 text-sm">Email: rehobothgolfcarts@gmail.com</p>
+                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:302-200-3151" className="hover:text-blue-600">(302) 200-3151</a></p>
+                <p className="text-gray-600 text-sm">Email: rehobothbeachgolfcarts@gmail.com</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
                   <p>Sat: 9AM-5PM</p>
@@ -139,7 +137,7 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Towns Served - Lackawanna County */}
+        {/* Towns Served - Sussex County */}
         <div className="border-t border-gray-200 pt-8 mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-6 text-center">
             Sussex County Locations We Serve
@@ -161,12 +159,12 @@ export default function Footer() {
         <div className="border-t border-gray-200 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-600 text-sm">
-              © 2025 Rehoboth Golf Carts. All rights reserved. | 
+              © 2025 Rehoboth Beach Golf Carts. All rights reserved. | 
               <Link href="/privacy-policy" className="hover:text-gray-900 ml-1">Privacy Policy</Link> | 
               <Link href="/terms-of-service" className="hover:text-gray-900 ml-1">Terms of Service</Link>
             </div>
             <div className="text-gray-600 text-sm">
-              Rehoboth Golf Carts - Serving Sussex County locations with premium golf carts and exceptional service.
+              Rehoboth Beach Golf Carts - Serving Sussex County locations with premium golf carts and exceptional service.
             </div>
           </div>
         </div>

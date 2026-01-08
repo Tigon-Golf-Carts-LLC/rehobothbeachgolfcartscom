@@ -48,29 +48,29 @@ export default function InventoryPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://rehobothgolfcarts.com" },
-    { name: "Inventory", url: "https://rehobothgolfcarts.com/inventory" }
+    { name: "Home", url: "https://rehobothbeachgolfcarts.com" },
+    { name: "Inventory", url: "https://rehobothbeachgolfcarts.com/inventory" }
   ];
 
   return (
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Golf Cart Inventory - New Electric Golf Carts | Rehoboth Golf Carts Sussex County"
-        description="Browse our extensive inventory of new electric golf carts from DENAGO and EVOLUTION. Premium quality golf carts available in Sussex County, Delaware with expert service. Call 302-722-0999."
+        title="Golf Cart Inventory - New Electric Golf Carts | Rehoboth Beach Golf Carts Sussex County"
+        description="Browse our extensive inventory of new electric golf carts from DENAGO and EVOLUTION. Premium quality golf carts available in Sussex County, Delaware with expert service. Call (302) 200-3151."
         keywords="golf cart inventory Sussex County DE, electric golf carts for sale, DENAGO golf carts, EVOLUTION golf carts, new golf carts Delaware"
-        canonicalUrl="https://rehobothgolfcarts.com/inventory"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/inventory"
       />
       <AllSchemas 
         pageType="inventory" 
         pageData={{
-          title: "Golf Cart Inventory - Rehoboth Golf Carts",
+          title: "Golf Cart Inventory - Rehoboth Beach Golf Carts",
           description: "Browse our extensive inventory of new electric golf carts from DENAGO and EVOLUTION. Premium quality golf carts available in Sussex County, Delaware with expert service.",
-          url: "https://rehobothgolfcarts.com/inventory",
+          url: "https://rehobothbeachgolfcarts.com/inventory",
           breadcrumbs: breadcrumbItems,
           collectionItems: vehicles?.map(vehicle => ({
             name: vehicle.name,
-            url: `https://rehobothgolfcarts.com/vehicle/${vehicle.id}`,
+            url: `https://rehobothbeachgolfcarts.com/vehicle/${vehicle.id}`,
             description: `${vehicle.brand} ${vehicle.name} electric golf cart`,
             image: vehicle.images[0]
           })) || [],
@@ -178,8 +178,8 @@ export default function InventoryPage() {
                 Contact Our Team
               </Button>
             </Link>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:1-844-844-6638")}>
-              Call 1-844-844-6638
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:(302) 200-3151")}>
+              Call (302) 200-3151
             </Button>
           </div>
         </div>

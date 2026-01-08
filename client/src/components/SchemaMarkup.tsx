@@ -15,33 +15,33 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Lackawanna County Golf Carts",
+  "name": "Rehoboth Beach Golf Carts",
   "alternateName": "CCGC",
-  "description": "Premier golf cart dealer in Lackawanna County, Pennsylvania specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
-  "url": "https://rehobothgolfcarts.com",
-  "logo": "https://rehobothgolfcarts.com/attached_assets/Luzerne%20County%20Golf%20Carts_1753809066045.png",
+  "description": "Premier golf cart dealer in Sussex County, Delaware specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  "url": "https://rehobothbeachgolfcarts.com",
+  "logo": "https://rehobothbeachgolfcarts.com/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
   "image": [
-    "https://rehobothgolfcarts.com/attached_assets/Luzerne%20County%20Golf%20Carts_1753809066045.png",
-    "https://rehobothgolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
+    "https://rehobothbeachgolfcarts.com/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
+    "https://rehobothbeachgolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "302-722-0999",
-  "email": "rehobothgolfcarts@gmail.com",
+  "telephone": "(302) 200-3151",
+  "email": "rehobothbeachgolfcarts@gmail.com",
   "address": {
     "@type": "PostalAddress",
-    "addressRegion": "PA",
+    "addressRegion": "DE",
     "addressCountry": "US",
-    "addressLocality": "Luzerne County"
+    "addressLocality": "Sussex County"
   },
   "areaServed": {
     "@type": "State",
-    "name": "Pennsylvania"
+    "name": "Delaware"
   },
   "serviceArea": {
     "@type": "GeoCircle",
     "geoMidpoint": {
       "@type": "GeoCoordinates",
-      "latitude": 40.8473,
-      "longitude": -75.7413
+      "latitude": 38.6800,
+      "longitude": -75.3400
     },
     "geoRadius": "50000"
   },
@@ -50,8 +50,8 @@ export const generateOrganizationSchema = () => ({
   "slogan": "Professional golf cart services delivered to your town",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/carbongolfcarts",
-    "https://www.instagram.com/carbongolfcarts"
+    "https://www.facebook.com/rehobothbeachgolfcarts",
+    "https://www.instagram.com/rehobothbeachgolfcarts"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -85,12 +85,12 @@ export const generateOrganizationSchema = () => ({
 export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://rehobothgolfcarts.com/#localbusiness",
-  "name": "Lehigh County Golf Carts",
-  "description": "Premier golf cart dealer serving all 24 Lehigh County municipalities with electric vehicle sales, service, and rentals.",
-  "url": "https://rehobothgolfcarts.com",
-  "telephone": "302-722-0999",
-  "email": "rehobothgolfcarts@gmail.com",
+  "@id": "https://rehobothbeachgolfcarts.com/#localbusiness",
+  "name": "Rehoboth Beach Golf Carts",
+  "description": "Premier golf cart dealer serving all 24 Sussex County municipalities with electric vehicle sales, service, and rentals.",
+  "url": "https://rehobothbeachgolfcarts.com",
+  "telephone": "(302) 200-3151",
+  "email": "rehobothbeachgolfcarts@gmail.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
   "paymentAccepted": "Cash, Credit Card, Financing",
@@ -100,22 +100,20 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "address": {
     "@type": "PostalAddress",
-    "addressRegion": "PA",
+    "addressRegion": "DE",
     "addressCountry": "US",
-    "addressLocality": "Lehigh County"
+    "addressLocality": "Sussex County"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 40.6023,
-    "longitude": -75.4714
+    "latitude": 38.7208,
+    "longitude": -75.0760
   },
   "areaServed": [
-    "Allentown", "Bethlehem", "Emmaus", "Macungie", "Catasauqua", "Coopersburg",
-    "Fountain Hill", "Alburtis", "Slatington", "Coplay", "Lower Macungie Township",
-    "South Whitehall Township", "Upper Macungie Township", "Whitehall Township",
-    "Salisbury Township", "North Whitehall Township", "Upper Saucon Township",
-    "Lower Milford Township", "Lynn Township", "Heidelberg Township", "Washington Township",
-    "Weisenberg Township", "Lowhill Township", "Upper Saucon Township"
+    "Rehoboth Beach", "Bethany Beach", "Lewes", "Dewey Beach", "Fenwick Island", "South Bethany",
+    "Georgetown", "Seaford", "Milford", "Milton", "Laurel", "Millsboro", "Bridgeville",
+    "Ocean View", "Frankford", "Selbyville", "Dagsboro", "Delmar", "Ellendale", "Greenwood",
+    "Henlopen Acres", "Millville", "Bethel", "Blades"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -144,21 +142,21 @@ export const generateLocalBusinessSchema = () => ({
 export const generateWebsiteSchema = () => ({
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://rehobothgolfcarts.com/#website",
-  "name": "Lehigh County Golf Carts",
-  "description": "Official website for Lehigh County Golf Carts - Pennsylvania's premier electric golf cart dealer",
-  "url": "https://rehobothgolfcarts.com",
+  "@id": "https://rehobothbeachgolfcarts.com/#website",
+  "name": "Rehoboth Beach Golf Carts",
+  "description": "Official website for Rehoboth Beach Golf Carts - Delaware's premier electric golf cart dealer",
+  "url": "https://rehobothbeachgolfcarts.com",
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://rehobothgolfcarts.com/inventory?search={search_term_string}"
+      "urlTemplate": "https://rehobothbeachgolfcarts.com/inventory?search={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Lehigh County Golf Carts"
+    "name": "Rehoboth Beach Golf Carts"
   }
 });
 
@@ -176,7 +174,7 @@ export const generateBreadcrumbSchema = (items: Array<{name: string, url: string
 export const generateProductSchema = (vehicle: any) => ({
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": `https://rehobothgolfcarts.com/vehicles/${vehicle.id}#product`,
+  "@id": `https://rehobothbeachgolfcarts.com/vehicles/${vehicle.id}#product`,
   "name": vehicle.name,
   "description": vehicle.description,
   "brand": {
@@ -184,7 +182,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "name": vehicle.brand
   },
   "category": vehicle.category,
-  "image": vehicle.images?.map((img: string) => `https://rehobothgolfcarts.com${img}`) || [],
+  "image": vehicle.images?.map((img: string) => `https://rehobothbeachgolfcarts.com${img}`) || [],
   "offers": {
     "@type": "Offer",
     "price": vehicle.price,
@@ -192,11 +190,11 @@ export const generateProductSchema = (vehicle: any) => ({
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
-      "name": "Lehigh County Golf Carts",
-      "telephone": "302-722-0999",
-      "email": "info@rehobothgolfcarts.com"
+      "name": "Rehoboth Beach Golf Carts",
+      "telephone": "(302) 200-3151",
+      "email": "info@rehobothbeachgolfcarts.com"
     },
-    "url": `https://rehobothgolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://rehobothbeachgolfcarts.com/vehicles/${vehicle.id}`
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -237,14 +235,14 @@ export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Golf Cart Services",
-  "description": "Comprehensive golf cart sales, service, repair, and rental services in Lehigh County, Pennsylvania",
+  "description": "Comprehensive golf cart sales, service, repair, and rental services in Sussex County, Delaware",
   "provider": {
     "@type": "LocalBusiness",
-    "name": "Lehigh County Golf Carts"
+    "name": "Rehoboth Beach Golf Carts"
   },
   "areaServed": {
     "@type": "State",
-    "name": "Pennsylvania"
+    "name": "Delaware"
   },
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -297,12 +295,12 @@ export const generateOfferCatalogSchema = (vehicles: any[]) => ({
       "@type": "Product",
       "name": vehicle.name,
       "brand": vehicle.brand,
-      "image": vehicle.images?.[0] ? `https://rehobothgolfcarts.com${vehicle.images[0]}` : undefined
+      "image": vehicle.images?.[0] ? `https://rehobothbeachgolfcarts.com${vehicle.images[0]}` : undefined
     },
     "price": vehicle.price,
     "priceCurrency": "USD",
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
-    "url": `https://rehobothgolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://rehobothbeachgolfcarts.com/vehicles/${vehicle.id}`
   }))
 });
 
@@ -311,21 +309,21 @@ export const generateContactPageSchema = () => ({
   "@type": "ContactPage",
   "name": "Contact Ocean County Golf Carts",
   "description": "Get in touch with Ocean County Golf Carts for sales, service, rentals, and support",
-  "url": "https://rehobothgolfcarts.com/contact",
+  "url": "https://rehobothbeachgolfcarts.com/contact",
   "mainEntity": {
     "@type": "Organization",
     "name": "Ocean County Golf Carts",
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "302-722-0999",
+        "telephone": "(302) 200-3151",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"
       },
       {
         "@type": "ContactPoint",
-        "email": "rehobothgolfcarts@gmail.com",
+        "email": "rehobothbeachgolfcarts@gmail.com",
         "contactType": "sales",
         "areaServed": "US"
       }
@@ -337,20 +335,20 @@ export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
-  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Lehigh County, Pennsylvania`,
-  "url": `https://rehobothgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
+  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Sussex County, Delaware`,
+  "url": `https://rehobothbeachgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
   "mainEntity": {
     "@type": "LocalBusiness",
-    "name": "Lehigh County Golf Carts",
+    "name": "Rehoboth Beach Golf Carts",
     "areaServed": {
       "@type": "City",
       "name": townName,
       "containedInPlace": {
         "@type": "AdministrativeArea",
-        "name": "Lehigh County",
+        "name": "Sussex County",
         "containedInPlace": {
           "@type": "State",
-          "name": "Pennsylvania"
+          "name": "Delaware"
         }
       }
     }
@@ -362,13 +360,13 @@ export const generateTownPageSchema = (townName: string) => ({
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://rehobothgolfcarts.com"
+        "item": "https://rehobothbeachgolfcarts.com"
       },
       {
         "@type": "ListItem", 
         "position": 2,
         "name": `${townName} Golf Carts`,
-        "item": `https://rehobothgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
+        "item": `https://rehobothbeachgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
       }
     ]
   }

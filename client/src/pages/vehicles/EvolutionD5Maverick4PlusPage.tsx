@@ -9,10 +9,10 @@ export default function EvolutionD5Maverick4PlusPage() {
       series="D5 MAVERICK"
       price="$9,995"
       image={evolutionD5Maverick4PlusImage}
-      seoTitle="EVOLUTION D5 MAVERICK 4 PLUS - Sport Golf Cart | Rehoboth Golf Carts"
-      seoDescription="Discover the EVOLUTION D5 MAVERICK 4 PLUS electric golf cart in Sussex County, Delaware. Sport-oriented 4-passenger vehicle with enhanced performance and agility. Call 302-722-0999."
+      seoTitle="EVOLUTION D5 MAVERICK 4 PLUS - Sport Golf Cart | Rehoboth Beach Golf Carts"
+      seoDescription="Discover the EVOLUTION D5 MAVERICK 4 PLUS electric golf cart in Sussex County, Delaware. Sport-oriented 4-passenger vehicle with enhanced performance and agility. Call (302) 200-3151."
       seoKeywords="EVOLUTION D5 MAVERICK 4 PLUS, sport golf cart, performance vehicle, Sussex County, Delaware"
-      canonicalUrl="https://rehobothgolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
+      canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
       seats="4"
       range="42 miles"
       topSpeed="25 mph"

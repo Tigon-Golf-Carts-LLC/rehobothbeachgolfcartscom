@@ -9,10 +9,10 @@ export default function DenagoEvNomadXlPage() {
       series="EV NOMAD"
       price="$8,495"
       image={denagoEvNomadXLImage}
-      seoTitle="DENAGO EV NOMAD XL - Extended Adventure Golf Cart | Rehoboth Golf Carts"
-      seoDescription="Experience the DENAGO EV NOMAD XL electric golf cart in Sussex County, Delaware. Extended range premium off-road package with enhanced cargo space. Call 302-722-0999."
+      seoTitle="DENAGO EV NOMAD XL - Extended Adventure Golf Cart | Rehoboth Beach Golf Carts"
+      seoDescription="Experience the DENAGO EV NOMAD XL electric golf cart in Sussex County, Delaware. Extended range premium off-road package with enhanced cargo space. Call (302) 200-3151."
       seoKeywords="DENAGO EV NOMAD XL, extended range golf cart, premium off-road, Sussex County, Delaware"
-      canonicalUrl="https://rehobothgolfcarts.com/vehicles/denago-ev-nomad-xl"
+      canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/denago-ev-nomad-xl"
       seats="4"
       range="55 miles"
       topSpeed="25 mph"

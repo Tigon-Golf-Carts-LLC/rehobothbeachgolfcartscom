@@ -1,4 +1,4 @@
-# Enhanced Comprehensive robots.txt for Rehoboth Golf Carts
+# Enhanced Comprehensive robots.txt for Rehoboth Beach Golf Carts
 # MAXIMUM SEARCH ENGINE VISIBILITY - ZERO RESTRICTIONS
 # Allow ALL search engines and bots with COMPLETE INDEXING PERMISSIONS
 
@@ -222,17 +222,17 @@ Allow: /
 Crawl-delay: 0
 
 # SITEMAP LOCATIONS
-Sitemap: https://rehobothgolfcarts.com/sitemap.xml
-Sitemap: https://rehobothgolfcarts.com/public/sitemap.xml
+Sitemap: https://rehobothbeachgolfcarts.com/sitemap.xml
+Sitemap: https://rehobothbeachgolfcarts.com/public/sitemap.xml
 
 # BUSINESS INFORMATION
-# Company: Rehoboth Golf Carts
+# Company: Rehoboth Beach Golf Carts
 # Industry: Electric Golf Carts & Low Speed Vehicles
 # Service Area: Sussex County, Delaware (27 municipalities)
 # Primary Brands: DENAGO, Evolution Electric Vehicles
 # Location: Delaware, serving Rehoboth Beach, Lewes, Georgetown, Seaford, Millsboro
-# Phone: 302-722-0999
-# Website: https://rehobothgolfcarts.com
+# Phone: (302) 200-3151
+# Website: https://rehobothbeachgolfcarts.com
 # Analytics: Google Analytics G-DTDH7LVGPN, Google Tag Manager GTM-NG5LKDC2
 # Geographic Coverage: All 27 Sussex County municipalities
 # Vehicle Inventory: 35+ DENAGO & Evolution models

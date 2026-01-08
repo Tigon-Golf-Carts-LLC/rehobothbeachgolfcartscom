@@ -9,13 +9,13 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Rehoboth Golf Carts",
+      "name": "Rehoboth Beach Golf Carts",
       "description": "Premier golf cart dealership in Sussex County, Delaware specializing in electric golf carts, sales, service, rentals, and financing serving Rehoboth Beach, Lewes, Bethany Beach, and all Delaware beaches.",
-      "url": "https://rehobothgolfcarts.com",
-      "logo": "https://rehobothgolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
-      "image": "https://rehobothgolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
-      "telephone": "302-722-0999",
-      "email": "rehobothgolfcarts@gmail.com",
+      "url": "https://rehobothbeachgolfcarts.com",
+      "logo": "https://rehobothbeachgolfcarts.com/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
+      "image": "https://rehobothbeachgolfcarts.com/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
+      "telephone": "(302) 200-3151",
+      "email": "rehobothbeachgolfcarts@gmail.com",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "20862 Coastal Hwy",
@@ -99,9 +99,9 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "worstRating": "1"
       },
       "sameAs": [
-        "https://www.facebook.com/montcogolfcarts",
-        "https://www.instagram.com/montcogolfcarts",
-        "https://www.linkedin.com/company/montcogolfcarts"
+        "https://www.facebook.com/rehobothbeachgolfcarts",
+        "https://www.instagram.com/rehobothbeachgolfcarts",
+        "https://www.linkedin.com/company/rehobothbeachgolfcarts"
       ]
     };
 
@@ -121,7 +121,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "302-722-0999",
+          "telephone": "(302) 200-3151",
           "contactType": "customer service",
           "availableLanguage": "English"
         }
@@ -132,7 +132,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "provider": {
           "@type": "Organization",
-          "name": "Lehigh County Golf Carts"
+          "name": "Rehoboth Beach Golf Carts"
         }
       } as any;
     }

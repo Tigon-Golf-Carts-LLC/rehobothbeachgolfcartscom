@@ -9,9 +9,9 @@ export default function ThankYouPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Thank You for Contacting Us | Rehoboth Golf Carts Sussex County Delaware"
-        description="Thank you for contacting Rehoboth Golf Carts. We'll respond to your inquiry within 24 hours. Serving all Sussex County Delaware municipalities. Call 302-722-0999."
-        keywords="thank you, contact confirmation, Rehoboth Golf Carts Sussex County, Delaware golf carts"
+        title="Thank You for Contacting Us | Rehoboth Beach Golf Carts Sussex County Delaware"
+        description="Thank you for contacting Rehoboth Beach Golf Carts. We'll respond to your inquiry within 24 hours. Serving all Sussex County Delaware municipalities. Call (302) 200-3151."
+        keywords="thank you, contact confirmation, Rehoboth Beach Golf Carts Sussex County, Delaware golf carts"
       />
       
       {/* Hero Section */}
@@ -24,7 +24,7 @@ export default function ThankYouPage() {
             Thank You!
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            We've received your message and appreciate your interest in Rehoboth Golf Carts.
+            We've received your message and appreciate your interest in Rehoboth Beach Golf Carts.
             Our team will respond to your inquiry soon.
           </p>
         </div>
@@ -61,10 +61,10 @@ export default function ThankYouPage() {
                 </p>
                 <div className="space-y-3">
                   <a 
-                    href="tel:302-722-0999" 
+                    href="tel:(302) 200-3151" 
                     className="block text-2xl font-bold text-theme-orange hover:text-orange-300 transition-colors"
                   >
-                    302-722-0999
+                    (302) 200-3151
                   </a>
                   <div className="text-sm text-gray-300">
                     <p>Monday-Friday: 9:00 AM - 5:00 PM</p>
@@ -122,19 +122,19 @@ export default function ThankYouPage() {
               </h2>
               <p className="text-lg text-gray-600 mb-6">
                 Professional golf cart sales, rentals, and service delivered to all 72 Berks County municipalities - 
-                from Reading City to the smallest townships throughout Pennsylvania Dutch Country.
+                from Reading City to the smallest townships throughout Delaware Dutch Country.
               </p>
               <div className="grid md:grid-cols-2 gap-6 text-left">
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">TIGON Golf Carts Hatfield</h3>
-                  <p className="text-gray-600 text-sm mb-1">2333 Bethlehem Pike</p>
-                  <p className="text-gray-600 text-sm mb-1">Hatfield, PA 19440</p>
+                  <p className="text-gray-600 text-sm mb-1">2333 Bethany Beach Pike</p>
+                  <p className="text-gray-600 text-sm mb-1">Hatfield, DE 19440</p>
                   <p className="text-theme-orange font-semibold">(215) 595-8736</p>
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">TIGON Golf Carts Poconos</h3>
-                  <p className="text-gray-600 text-sm mb-1">1712 Pennsylvania 940</p>
-                  <p className="text-gray-600 text-sm mb-1">Pocono Pines, PA 18350</p>
+                  <p className="text-gray-600 text-sm mb-1">1712 Delaware 940</p>
+                  <p className="text-gray-600 text-sm mb-1">Pocono Pines, DE 18350</p>
                   <p className="text-theme-orange font-semibold">(570) 643-0152</p>
                 </div>
               </div>

@@ -10,10 +10,10 @@ export default function EvolutionD6MaxGT4() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D6 MAX GT4 - Performance Golf Cart | Montgomery County Golf Carts"
+        title="EVOLUTION® D6 MAX GT4 - Performance Golf Cart | Rehoboth Beach Golf Carts"
         description="Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. High-performance electric golf cart for discerning drivers."
-        keywords="EVOLUTION D6 MAX GT4, performance golf cart, luxury electric vehicle, high performance, EVOLUTION dealer Montgomery County"
-        canonicalUrl="https://montcogolfcarts.com/vehicles/evolution-d6-max-gt4"
+        keywords="EVOLUTION D6 MAX GT4, performance golf cart, luxury electric vehicle, high performance, EVOLUTION dealer Sussex County"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/evolution-d6-max-gt4"
         ogImage="/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg"
         ogType="product"
       />
@@ -252,9 +252,9 @@ export default function EvolutionD6MaxGT4() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 1-844-844-6638
+                  Call (302) 200-3151
                 </Button>
               </a>
             </div>
@@ -271,7 +271,7 @@ export default function EvolutionD6MaxGT4() {
                   <CardTitle>Performance Sales</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">(302) 200-3151</p>
                   <p className="text-gray-600">Speak with our performance specialists</p>
                 </CardContent>
               </Card>
@@ -297,7 +297,7 @@ export default function EvolutionD6MaxGT4() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Premium delivery and pickup service available throughout Bucks County, Pennsylvania.
+                    Premium delivery and pickup service available throughout Bucks County, Delaware.
                   </p>
                 </CardContent>
               </Card>

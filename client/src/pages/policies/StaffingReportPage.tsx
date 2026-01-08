@@ -5,9 +5,9 @@ export default function StaffingReportPage() {
   return (
     <>
       <SEOHead 
-        title="Annual Staffing Report | Rehoboth Golf Carts Sussex County Delaware"
-        description="Learn about Rehoboth Golf Carts' staffing structure, employment practices, and workforce development in Sussex County, Delaware. Call 302-722-0999."
-        keywords="staffing report, employment, Rehoboth Golf Carts Sussex County, workforce Delaware"
+        title="Annual Staffing Report | Rehoboth Beach Golf Carts Sussex County Delaware"
+        description="Learn about Rehoboth Beach Golf Carts' staffing structure, employment practices, and workforce development in Sussex County, Delaware. Call (302) 200-3151."
+        keywords="staffing report, employment, Rehoboth Beach Golf Carts Sussex County, workforce Delaware"
       />
       
       {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function StaffingReportPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Executive Summary</h2>
               <p className="mb-6">
-                Rehoboth Golf Carts maintains a dedicated workforce committed to providing 
+                Rehoboth Beach Golf Carts maintains a dedicated workforce committed to providing 
                 exceptional golf cart sales, rental, and service throughout Delaware. This 
                 annual staffing report provides transparency on our employment practices, 
                 workforce composition, and professional development initiatives.
@@ -53,7 +53,7 @@ export default function StaffingReportPage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Location Distribution</h3>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Rehoboth Golf Carts Main Location:</strong> 18 employees</li>
+                <li><strong>Rehoboth Beach Golf Carts Main Location:</strong> 18 employees</li>
                 <li><strong>Sussex County Service Center:</strong> 14 employees</li>
                 <li><strong>Mobile Service Teams:</strong> 6 employees</li>
               </ul>
@@ -117,7 +117,7 @@ export default function StaffingReportPage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Compensation and Benefits</h3>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Starting Wages:</strong> Above Pennsylvania minimum wage for all positions</li>
+                <li><strong>Starting Wages:</strong> Above Delaware minimum wage for all positions</li>
                 <li><strong>Health Insurance:</strong> Available to all full-time employees</li>
                 <li><strong>Paid Time Off:</strong> 15-25 days annually based on tenure</li>
                 <li><strong>Retirement Plan:</strong> 401(k) with company matching available</li>
@@ -219,21 +219,21 @@ export default function StaffingReportPage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Community Impact</h2>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Local Hiring:</strong> 85% of employees are Lackawanna County residents</li>
+                <li><strong>Local Hiring:</strong> 85% of employees are Sussex County residents</li>
                 <li><strong>Economic Impact:</strong> $2.1 million in local payroll annually</li>
                 <li><strong>Volunteer Hours:</strong> 240 hours of community service by employees</li>
                 <li><strong>Educational Partnerships:</strong> Internship programs with 3 local schools</li>
-                <li><strong>Local Supplier Preference:</strong> Supporting Pennsylvania businesses</li>
+                <li><strong>Local Supplier Preference:</strong> Supporting Delaware businesses</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Human Resources</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Human Resources Department</strong></p>
-                <p className="mb-2">Lackawanna County Golf Carts</p>
-                <p className="mb-2">Email: info@lackawannagolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Lackawanna County, Pennsylvania</p>
-                <p className="mb-2">Website: lackawannagolfcarts.com</p>
+                <p className="mb-2">Rehoboth Beach Golf Carts</p>
+                <p className="mb-2">Email: info@rehobothbeachgolfcarts.com</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
+                <p className="mb-2">Serving Sussex County, Delaware</p>
+                <p className="mb-2">Website: rehobothbeachgolfcarts.com</p>
                 <p>Career opportunities and employment inquiries welcome</p>
               </div>
             </div>

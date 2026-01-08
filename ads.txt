@@ -1,9 +1,9 @@
 # Ads.txt - Authorized Digital Sellers
-# Lackawanna County Golf Carts - Advertising Authorization
+# Rehoboth Beach Golf Carts - Advertising Authorization
 
 ## AUTHORIZED DIGITAL SELLER INFORMATION
 # This file declares authorized digital advertising sellers
-# for rehobothgolfcarts.com
+# for rehobothbeachgolfcarts.com
 
 ## GOOGLE ADSENSE AUTHORIZATION
 # Google AdSense (if applicable in the future)
@@ -14,22 +14,22 @@
 # google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
 
 ## CURRENTLY NO AUTHORIZED SELLERS
-# Rehoboth Golf Carts currently does not utilize
+# Rehoboth Beach Golf Carts currently does not utilize
 # programmatic advertising or third-party ad networks
 
 ## DIRECT ADVERTISING ONLY
 # All advertising is handled directly through:
-# Contact: info@rehobothgolfcarts.com  
-# Phone: 1-844-844-6638
-# Website: https://rehobothgolfcarts.com
+# Contact: rehobothbeachgolfcarts@gmail.com  
+# Phone: (302) 200-3151
+# Website: https://rehobothbeachgolfcarts.com
 
 ## FUTURE ADVERTISING PARTNERSHIPS
 # Any future authorized digital advertising partners
 # will be listed in this file with proper verification
 
 ## PUBLISHER ACCOUNT VERIFICATION
-# Domain: rehobothgolfcarts.com
-# Business: Rehoboth Golf Carts
+# Domain: rehobothbeachgolfcarts.com
+# Business: Rehoboth Beach Golf Carts
 # Location: Sussex County, Delaware
 # Industry: Golf Cart Sales and Service
 
@@ -44,8 +44,8 @@
 # All advertising revenue handled directly by business
 
 ## CONTACT FOR ADVERTISING PARTNERSHIPS
-Primary Contact: info@rehobothgolfcarts.com
-Business Phone: 1-844-844-6638
+Primary Contact: rehobothbeachgolfcarts@gmail.com
+Business Phone: (302) 200-3151
 Advertising Inquiries: Direct partnership discussions welcome
 Partnership Terms: Negotiated directly with business owners
 

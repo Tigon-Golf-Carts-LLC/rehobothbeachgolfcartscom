@@ -46,10 +46,10 @@ export default function NewInventoryPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Inventory - New & Used | Rehoboth Golf Carts"
-        description="Browse our extensive inventory of new and used golf carts from top brands like DENAGO and EVOLUTION. Find the perfect electric vehicle for your needs in Sussex County, Delaware. Call 302-722-0999."
+        title="Golf Cart Inventory - New & Used | Rehoboth Beach Golf Carts"
+        description="Browse our extensive inventory of new and used golf carts from top brands like DENAGO and EVOLUTION. Find the perfect electric vehicle for your needs in Sussex County, Delaware. Call (302) 200-3151."
         keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Sussex County golf carts, Delaware golf carts"
-        canonicalUrl="https://rehobothgolfcarts.com/inventory"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/inventory"
         ogImage="/attached_assets/a-photograph-of-a-bright-modern-golf-car_iofSws5mRiCxoMwQwuXw4A_Yv-NWBaTQQ6ofRhClJiiIw_1753454023367.png"
         ogType="website"
       />
@@ -246,9 +246,9 @@ export default function NewInventoryPage() {
                   Contact Our Team
                 </Button>
               </Link>
-              <a href="tel:302-722-0999">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
-                  Call 302-722-0999
+                  Call (302) 200-3151
                 </Button>
               </a>
             </div>
@@ -265,7 +265,7 @@ export default function NewInventoryPage() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">302-722-0999</p>
+                  <p className="text-2xl font-bold text-blue-600 mb-2">(302) 200-3151</p>
                   <p className="text-gray-600">Speak with our golf cart specialists</p>
                 </CardContent>
               </Card>

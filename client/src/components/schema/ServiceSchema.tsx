@@ -18,8 +18,8 @@ export default function ServiceSchema({
   serviceName,
   description,
   serviceType = "Golf Cart Service",
-  provider = "Lackawanna County Golf Carts",
-  areaServed = "Luzerne County, PA",
+  provider = "Rehoboth Beach Golf Carts",
+  areaServed = "Sussex County, DE",
   availableChannel = ["https://schema.org/OnlineChannel", "https://schema.org/InStoreChannel"],
   offers = []
 }: ServiceSchemaProps) {
@@ -33,17 +33,17 @@ export default function ServiceSchema({
       "provider": {
         "@type": "LocalBusiness",
         "name": provider,
-        "telephone": "1-844-844-6638",
-        "email": "info@lackawannagolfcarts.com",
+        "telephone": "(302) 200-3151",
+        "email": "info@rehobothbeachgolfcarts.com",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Jim Thorpe",
+          "addressLocality": "Lewes",
           "addressRegion": "PA",
           "addressCountry": "US"
         },
         "logo": {
           "@type": "ImageObject",
-          "url": "https://lackawannagolfcarts.com/logo.png"
+          "url": "https://rehobothbeachgolfcarts.com/logo.png"
         }
       },
       "areaServed": {
@@ -52,8 +52,8 @@ export default function ServiceSchema({
       },
       "availableChannel": availableChannel.map(channel => ({
         "@type": "ServiceChannel",
-        "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://lackawannagolfcarts.com" : undefined,
-        "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "1-844-844-6638" : undefined
+        "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://rehobothbeachgolfcarts.com" : undefined,
+        "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "(302) 200-3151" : undefined
       })),
       ...(offers.length > 0 && {
         "offers": offers.map(offer => ({

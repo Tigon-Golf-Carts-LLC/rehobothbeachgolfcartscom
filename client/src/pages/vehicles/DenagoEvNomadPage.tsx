@@ -9,10 +9,10 @@ export default function DenagoEvNomadPage() {
       series="EV NOMAD"
       price="$8,495"
       image={denagoEvNomadImage}
-      seoTitle="DENAGO EV NOMAD - Adventure Electric Golf Cart | Rehoboth Golf Carts"
-      seoDescription="Explore with the DENAGO EV NOMAD electric golf cart in Sussex County, Delaware. Adventure-ready vehicles built for exploration and off-road adventures. Call 302-722-0999."
+      seoTitle="DENAGO EV NOMAD - Adventure Electric Golf Cart | Rehoboth Beach Golf Carts"
+      seoDescription="Explore with the DENAGO EV NOMAD electric golf cart in Sussex County, Delaware. Adventure-ready vehicles built for exploration and off-road adventures. Call (302) 200-3151."
       seoKeywords="DENAGO EV NOMAD, adventure golf cart, off-road electric vehicle, Sussex County, Delaware, all-terrain"
-      canonicalUrl="https://rehobothgolfcarts.com/vehicles/denago-ev-nomad"
+      canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/denago-ev-nomad"
       seats="4"
       range="45 miles"
       topSpeed="25 mph"

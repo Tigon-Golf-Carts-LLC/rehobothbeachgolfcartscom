@@ -1,12 +1,12 @@
-# Humans.txt - Rehoboth Golf Carts
+# Humans.txt - Rehoboth Beach Golf Carts
 # The humans responsible for building this website
 
 /* TEAM */
 
 Business Owner & Operations Director
-Name: Rehoboth Golf Carts Management Team
+Name: Rehoboth Beach Golf Carts Management Team
 Location: Sussex County, Delaware, USA
-Contact: 1-844-844-6638
+Contact: (302) 200-3151
 
 Web Development & Digital Strategy
 AI-Powered Development: Advanced AI systems
@@ -37,7 +37,7 @@ IDE: Replit collaborative development environment
 
 /* BUSINESS INFORMATION */
 
-Company: Rehoboth Golf Carts
+Company: Rehoboth Beach Golf Carts
 Industry: Electric Golf Cart & Low Speed Vehicle Dealership
 Experience: 15+ years in automotive industry
 Service Area: Sussex County, Delaware (All 27 municipalities)
@@ -117,11 +117,11 @@ Delaware.
 
 /* CONTACT INFORMATION */
 
-Primary Contact: 302-722-0999
+Primary Contact: (302) 200-3151
 Partner Showroom: TIGON Golf Carts Dover, DE
 Address: 5158 N Dupont Hwy, Dover, DE 19901
 Phone: 302-546-0010
-Website: https://rehobothgolfcarts.com
+Website: https://rehobothbeachgolfcarts.com
 Service Area: Sussex County, Delaware
 Coverage: All 27 municipalities
 

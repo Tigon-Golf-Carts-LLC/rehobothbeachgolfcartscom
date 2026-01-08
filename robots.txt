@@ -1,4 +1,4 @@
-# Rehoboth Golf Carts - Robots.txt
+# Rehoboth Beach Golf Carts - Robots.txt
 # Allow all web crawlers and search engine bots
 # Follow all links and index all content
 
@@ -41,7 +41,7 @@ Allow: /
 Crawl-delay: 1
 
 # Sitemap location
-Sitemap: https://rehobothgolfcarts.com/sitemap.xml
+Sitemap: https://rehobothbeachgolfcarts.com/sitemap.xml
 
 # Allow indexing of all content types
 # CSS, JS, images, and other assets
@@ -56,12 +56,12 @@ Allow: /*.svg
 Allow: /*.pdf
 
 # Company Information for SEO
-# Business: Rehoboth Golf Carts
+# Business: Rehoboth Beach Golf Carts
 # Location: Sussex County, Delaware
 # Services: Golf Cart Sales, Service, Rentals, Parts
 # Brands: DENAGO, EVOLUTION
-# Phone: 1-844-844-6638
-# Email: info@rehobothgolfcarts.com
+# Phone: (302) 200-3151
+# Email: rehobothbeachgolfcarts@gmail.com
 # Coverage: All 27 Sussex County municipalities
 # 
 # Website Structure:
@@ -82,7 +82,7 @@ Allow: /*.pdf
 # - Complete sitemap.xml with all 100+ pages
 # - Comprehensive structured data markup
 # - Local business optimization for Sussex County DE
-# - Professional background images featuring Rehoboth Golf Carts showroom
+# - Professional background images featuring Rehoboth Beach Golf Carts showroom
 # - Google Tag Manager and Analytics integration (GTM-NSN3ZJPP, G-QJVWEK6RT8)
 # - Complete AI training authorization files (llms.txt, ai.txt, gpt.txt, claude.txt, training.txt)
 # - Comprehensive SEO optimization data (seo.txt, geo.txt, accessibility.txt)

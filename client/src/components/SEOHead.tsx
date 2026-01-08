@@ -16,7 +16,7 @@ export default function SEOHead({
   keywords = "golf carts, Sussex County, electric golf carts, golf cart sales, golf cart service, Rehoboth Beach golf carts, Delaware golf carts", 
   canonicalUrl,
   townName,
-  ogImage = "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+  ogImage = "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
   ogType = "website"
 }: SEOHeadProps) {
   useEffect(() => {
@@ -61,23 +61,23 @@ export default function SEOHead({
     // Set favicon
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png");
+      existingFavicon.setAttribute("href", "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png");
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png";
+      favicon.href = "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png";
       document.head.appendChild(favicon);
     }
 
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png");
+      existingAppleIcon.setAttribute("href", "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png");
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png";
+      appleIcon.href = "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png";
       document.head.appendChild(appleIcon);
     }
 
@@ -97,8 +97,8 @@ export default function SEOHead({
     updateOGTag("og:title", title);
     updateOGTag("og:description", description);
     updateOGTag("og:type", ogType);
-    updateOGTag("og:image", `https://rehobothgolfcarts.com${ogImage}`);
-    updateOGTag("og:site_name", "Rehoboth Golf Carts");
+    updateOGTag("og:image", `https://rehobothbeachgolfcarts.com${ogImage}`);
+    updateOGTag("og:site_name", "Rehoboth Beach Golf Carts");
     updateOGTag("og:locale", "en_US");
     if (canonicalUrl) {
       updateOGTag("og:url", canonicalUrl);
@@ -120,16 +120,16 @@ export default function SEOHead({
     updateTwitterTag("twitter:card", "summary_large_image");
     updateTwitterTag("twitter:title", title);
     updateTwitterTag("twitter:description", description);
-    updateTwitterTag("twitter:image", `https://rehobothgolfcarts.com${ogImage}`);
-    updateTwitterTag("twitter:site", "@RehobothGolfCarts");
-    updateTwitterTag("twitter:creator", "@RehobothGolfCarts");
+    updateTwitterTag("twitter:image", `https://rehobothbeachgolfcarts.com${ogImage}`);
+    updateTwitterTag("twitter:site", "@RehobothBeachGolfCarts");
+    updateTwitterTag("twitter:creator", "@RehobothBeachGolfCarts");
 
     // Structured Data (JSON-LD)
     if (townName) {
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": `Rehoboth Golf Carts - ${townName}`,
+        "name": `Rehoboth Beach Golf Carts - ${townName}`,
         "description": description,
         "address": {
           "@type": "PostalAddress",
@@ -137,11 +137,11 @@ export default function SEOHead({
           "addressRegion": "DE",
           "addressCountry": "US"
         },
-        "telephone": "302-722-0999",
-        "email": "rehobothgolfcarts@gmail.com",
+        "telephone": "(302) 200-3151",
+        "email": "rehobothbeachgolfcarts@gmail.com",
         "url": canonicalUrl,
-        "logo": "https://rehobothgolfcarts.com/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
-        "image": `https://rehobothgolfcarts.com${ogImage}`,
+        "logo": "https://rehobothbeachgolfcarts.com/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
+        "image": `https://rehobothbeachgolfcarts.com${ogImage}`,
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {

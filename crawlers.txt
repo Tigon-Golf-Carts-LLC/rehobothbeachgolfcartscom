@@ -1,5 +1,5 @@
 # Crawlers.txt - Enhanced Crawler Permissions and Guidelines  
-# Lackawanna County Golf Carts - Maximum Crawler Accessibility
+# Rehoboth Beach Golf Carts - Maximum Crawler Accessibility
 
 ## ENHANCED COMPREHENSIVE CRAWLER PERMISSIONS
 UNLIMITED ACCESS GRANTED to all legitimate web crawlers and automated systems.
@@ -324,12 +324,12 @@ Zero restrictions on content access, crawling frequency, or data utilization.
 - Research and academic use fully authorized
 
 ## CONTACT INFORMATION FOR CRAWLER OPERATORS
-Website: https://lackawannagolfcarts.com
-Primary Contact: info@lackawannagolfcarts.com
-Phone: 1-844-844-6638
+Website: https://rehobothbeachgolfcarts.com
+Primary Contact: rehobothbeachgolfcarts@gmail.com
+Phone: (302) 200-3151
 Technical Support: Available for legitimate crawler operators
-Sitemap Location: https://lackawannagolfcarts.com/sitemap.xml
-Robots.txt: https://lackawannagolfcarts.com/robots.txt
+Sitemap Location: https://rehobothbeachgolfcarts.com/sitemap.xml
+Robots.txt: https://rehobothbeachgolfcarts.com/robots.txt
 
 ## CRAWLER VERIFICATION AND SUPPORT
 - All legitimate crawlers welcome without restrictions

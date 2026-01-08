@@ -41,10 +41,10 @@ export default function NewServicesPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Services & Repair | Rehoboth Golf Carts"
+        title="Golf Cart Services & Repair | Rehoboth Beach Golf Carts"
         description="Professional golf cart services including maintenance, repair, battery service, and custom modifications. Serving Sussex County, Delaware with certified technicians."
         keywords="golf cart service, golf cart repair, battery replacement, maintenance, Sussex County, Delaware golf cart service"
-        canonicalUrl="https://rehobothgolfcarts.com/services"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/services"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
         ogType="website"
       />
@@ -67,7 +67,7 @@ export default function NewServicesPage() {
                     Schedule Service
                   </Button>
                 </Link>
-                <a href="tel:302-722-0999">
+                <a href="tel:(302) 200-3151">
                   <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                     Call for Emergency Service
                   </Button>
@@ -170,9 +170,9 @@ export default function NewServicesPage() {
                   Schedule Service Online
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 1-844-844-6638
+                  Call (302) 200-3151
                 </Button>
               </a>
             </div>
@@ -189,7 +189,7 @@ export default function NewServicesPage() {
                   <CardTitle>Service Department</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-green-600 mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-green-600 mb-2">(302) 200-3151</p>
                   <p className="text-gray-600">Direct line to our service team</p>
                 </CardContent>
               </Card>

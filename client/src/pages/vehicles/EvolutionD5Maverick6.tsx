@@ -10,8 +10,8 @@ export default function EvolutionD5Maverick6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION D5 Maverick 6 - Family Golf Cart | Rehoboth Golf Carts"
-        description="Discover the EVOLUTION D5 Maverick 6 perfect for family outings. Reliable 6-passenger golf cart for group transportation with proven performance. Call 302-722-0999."
+        title="EVOLUTION D5 Maverick 6 - Family Golf Cart | Rehoboth Beach Golf Carts"
+        description="Discover the EVOLUTION D5 Maverick 6 perfect for family outings. Reliable 6-passenger golf cart for group transportation with proven performance. Call (302) 200-3151."
         keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer Sussex County Delaware"
       />
       
@@ -216,7 +216,7 @@ export default function EvolutionD5Maverick6() {
               Perfect for Family Adventures
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact Rehoboth Golf Carts today for your EVOLUTION D5 Maverick 6.
+              Contact Rehoboth Beach Golf Carts today for your EVOLUTION D5 Maverick 6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

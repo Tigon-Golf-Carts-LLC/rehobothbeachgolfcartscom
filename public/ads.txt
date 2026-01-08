@@ -1,15 +1,15 @@
-# ads.txt - Rehoboth Golf Carts
+# ads.txt - Rehoboth Beach Golf Carts
 # Authorized Digital Sellers Declaration
 
 # ADVERTISING TRANSPARENCY DECLARATION
-# This file identifies authorized digital advertising sellers for rehobothgolfcarts.com
+# This file identifies authorized digital advertising sellers for rehobothbeachgolfcarts.com
 # in compliance with IAB Tech Lab ads.txt standard
 
 # BUSINESS ADVERTISING AUTHORIZATION
-# Company: Rehoboth Golf Carts
+# Company: Rehoboth Beach Golf Carts
 # Industry: Electric Golf Cart & Low Speed Vehicle Dealership
-# Website: https://rehobothgolfcarts.com
-# Contact: 1-844-844-6638
+# Website: https://rehobothbeachgolfcarts.com
+# Contact: (302) 200-3151
 
 # GOOGLE ADVERTISING PLATFORMS (AUTHORIZED)
 google.com, pub-EXAMPLE123456789, DIRECT, f08c47fec0942fa0
@@ -47,7 +47,7 @@ bing.com, EXAMPLE123456789, DIRECT, 5d62403b78aa5b02
 # Service Categories: Sales, Service, Rentals, Parts, Financing
 
 # ADVERTISING POLICY STATEMENT
-# Rehoboth Golf Carts maintains strict advertising standards:
+# Rehoboth Beach Golf Carts maintains strict advertising standards:
 # - Honest and accurate product representation
 # - Transparent pricing without hidden fees
 # - Compliance with automotive advertising regulations
@@ -82,16 +82,16 @@ bing.com, EXAMPLE123456789, DIRECT, 5d62403b78aa5b02
 # - Truth in advertising principle adherence
 
 # CONTACT FOR ADVERTISING INQUIRIES
-# Business Development: 1-844-844-6638
-# Email: info@rehobothgolfcarts.com
-# Website: https://rehobothgolfcarts.com
+# Business Development: (302) 200-3151
+# Email: rehobothbeachgolfcarts@gmail.com
+# Website: https://rehobothbeachgolfcarts.com
 # Service Area: Sussex County, Delaware
 
 # ADVERTISING ATTRIBUTION
 # All advertisements must clearly identify:
-# - Rehoboth Golf Carts as advertiser
+# - Rehoboth Beach Golf Carts as advertiser
 # - Delaware business location
-# - Contact information (1-844-844-6638)
+# - Contact information ((302) 200-3151)
 # - Accurate service area representation
 # - Authorized dealer status for DENAGO and Evolution
 
@@ -125,7 +125,7 @@ bing.com, EXAMPLE123456789, DIRECT, 5d62403b78aa5b02
 # BRAND ADVERTISING GUIDELINES
 # DENAGO: Authorized dealer advertising permissions
 # Evolution: Authorized dealer advertising permissions
-# Rehoboth Golf Carts: Primary brand identity
+# Rehoboth Beach Golf Carts: Primary brand identity
 # Delaware Focus: Geographic market emphasis
 # Electric Vehicle: Environmental benefit messaging
 
@@ -143,8 +143,8 @@ bing.com, EXAMPLE123456789, DIRECT, 5d62403b78aa5b02
 
 # CONTACT FOR ADS.TXT UPDATES
 # Technical Contact: Development team via Replit platform
-# Business Contact: 1-844-844-6638
-# Email Updates: info@rehobothgolfcarts.com
+# Business Contact: (302) 200-3151
+# Email Updates: rehobothbeachgolfcarts@gmail.com
 # Authorization: Management approval required for all changes
 
 # LAST UPDATED: January 21, 2025

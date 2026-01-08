@@ -12,7 +12,7 @@ export default function EvolutionD6MaxXt4Page() {
       seoTitle="EVOLUTION D6 MAX XT4 - High-Performance Golf Cart | Atlantic County Golf Carts"
       seoDescription="Experience the EVOLUTION D6 MAX XT4 electric golf cart in Atlantic County, NJ. High-performance 4-passenger vehicle with advanced technology and premium features."
       seoKeywords="EVOLUTION D6 MAX XT4, high-performance golf cart, advanced technology, Atlantic County, New Jersey"
-      canonicalUrl="https://lackawannagolfcarts.com/vehicles/evolution-d6-max-xt4"
+      canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/evolution-d6-max-xt4"
       seats="4"
       range="50 miles"
       topSpeed="25 mph"

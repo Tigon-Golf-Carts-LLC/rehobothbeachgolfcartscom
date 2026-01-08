@@ -89,26 +89,26 @@ export default function VehicleDetailPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://rehobothgolfcarts.com" },
-    { name: "Inventory", url: "https://rehobothgolfcarts.com/inventory" },
-    { name: vehicle.name, url: `https://rehobothgolfcarts.com/vehicle/${vehicle.id}` }
+    { name: "Home", url: "https://rehobothbeachgolfcarts.com" },
+    { name: "Inventory", url: "https://rehobothbeachgolfcarts.com/inventory" },
+    { name: vehicle.name, url: `https://rehobothbeachgolfcarts.com/vehicle/${vehicle.id}` }
   ];
 
   return (
     <>
       {/* Dynamic SEO Head */}
       <Helmet>
-        <title>{vehicle.name} - ${vehicle.price.toLocaleString()} | Rehoboth Golf Carts</title>
-        <meta name="description" content={`${vehicle.name} for sale at Rehoboth Golf Carts in Sussex County, Delaware. ${vehicle.description} Price: $${vehicle.price.toLocaleString()}. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart available now. Call 302-722-0999.`} />
-        <meta name="keywords" content={`${vehicle.name}, ${vehicle.brand} golf cart, ${vehicle.category} golf cart, Sussex County Delaware golf carts, Rehoboth Golf Carts, electric golf cart ${vehicle.specifications.seatingCapacity} seater`} />
-        <link rel="canonical" href={`https://rehobothgolfcarts.com/vehicle/${vehicle.id}`} />
+        <title>{vehicle.name} - ${vehicle.price.toLocaleString()} | Rehoboth Beach Golf Carts</title>
+        <meta name="description" content={`${vehicle.name} for sale at Rehoboth Beach Golf Carts in Sussex County, Delaware. ${vehicle.description} Price: $${vehicle.price.toLocaleString()}. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart available now. Call (302) 200-3151.`} />
+        <meta name="keywords" content={`${vehicle.name}, ${vehicle.brand} golf cart, ${vehicle.category} golf cart, Sussex County Delaware golf carts, Rehoboth Beach Golf Carts, electric golf cart ${vehicle.specifications.seatingCapacity} seater`} />
+        <link rel="canonical" href={`https://rehobothbeachgolfcarts.com/vehicle/${vehicle.id}`} />
         
         {/* Open Graph */}
-        <meta property="og:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()} | Rehoboth Golf Carts`} />
-        <meta property="og:description" content={`${vehicle.description} Available now at Rehoboth Golf Carts in Sussex County, Delaware. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart with ${vehicle.specifications.range} range.`} />
-        <meta property="og:url" content={`https://rehobothgolfcarts.com/vehicle/${vehicle.id}`} />
+        <meta property="og:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()} | Rehoboth Beach Golf Carts`} />
+        <meta property="og:description" content={`${vehicle.description} Available now at Rehoboth Beach Golf Carts in Sussex County, Delaware. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart with ${vehicle.specifications.range} range.`} />
+        <meta property="og:url" content={`https://rehobothbeachgolfcarts.com/vehicle/${vehicle.id}`} />
         <meta property="og:type" content="product" />
-        <meta property="og:image" content={`https://rehobothgolfcarts.com${vehicle.images[0]}`} />
+        <meta property="og:image" content={`https://rehobothbeachgolfcarts.com${vehicle.images[0]}`} />
         <meta property="product:price:amount" content={vehicle.price.toString()} />
         <meta property="product:price:currency" content="USD" />
         <meta property="product:availability" content={vehicle.inStock ? "in stock" : "out of stock"} />
@@ -118,7 +118,7 @@ export default function VehicleDetailPage() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()}`} />
         <meta name="twitter:description" content={vehicle.description} />
-        <meta name="twitter:image" content={`https://rehobothgolfcarts.com${vehicle.images[0]}`} />
+        <meta name="twitter:image" content={`https://rehobothbeachgolfcarts.com${vehicle.images[0]}`} />
       </Helmet>
 
       {/* Schema Markup */}
@@ -179,7 +179,7 @@ export default function VehicleDetailPage() {
 
           {/* Action Buttons */}
           <div className="space-y-4">
-            <a href="tel:1-844-844-6638">
+            <a href="tel:(302) 200-3151">
               <Button size="lg" className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Schedule Test Drive
@@ -250,7 +250,7 @@ export default function VehicleDetailPage() {
             Contact our sales team to schedule a test drive, discuss financing options, or get more information about this {vehicle.name}.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
-            <a href="tel:1-844-844-6638">
+            <a href="tel:(302) 200-3151">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Contact Sales Team

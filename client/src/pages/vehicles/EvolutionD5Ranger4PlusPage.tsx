@@ -9,10 +9,10 @@ export default function EvolutionD5Ranger4PlusPage() {
       series="D5 RANGER"
       price="$9,595"
       image={evolutionD5Ranger4PlusImage}
-      seoTitle="EVOLUTION D5 RANGER 4 PLUS - Premium 4-Seat Golf Cart | Rehoboth Golf Carts"
-      seoDescription="Discover the EVOLUTION D5 RANGER 4 PLUS electric golf cart in Sussex County, Delaware. Premium 4-passenger vehicle with enhanced comfort and performance features. Call 302-722-0999."
+      seoTitle="EVOLUTION D5 RANGER 4 PLUS - Premium 4-Seat Golf Cart | Rehoboth Beach Golf Carts"
+      seoDescription="Discover the EVOLUTION D5 RANGER 4 PLUS electric golf cart in Sussex County, Delaware. Premium 4-passenger vehicle with enhanced comfort and performance features. Call (302) 200-3151."
       seoKeywords="EVOLUTION D5 RANGER 4 PLUS, 4-seat golf cart, premium electric vehicle, Sussex County, Delaware"
-      canonicalUrl="https://rehobothgolfcarts.com/vehicles/evolution-d5-ranger-4-plus"
+      canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/evolution-d5-ranger-4-plus"
       seats="4"
       range="45 miles"
       topSpeed="25 mph"

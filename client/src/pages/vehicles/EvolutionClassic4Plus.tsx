@@ -250,9 +250,9 @@ export default function EvolutionClassic4Plus() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 1-844-844-6638
+                  Call (302) 200-3151
                 </Button>
               </a>
             </div>
@@ -269,7 +269,7 @@ export default function EvolutionClassic4Plus() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">(302) 200-3151</p>
                   <p className="text-gray-600">Speak with our EVOLUTION specialists</p>
                 </CardContent>
               </Card>
@@ -295,7 +295,7 @@ export default function EvolutionClassic4Plus() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Bucks County, Pennsylvania and surrounding areas.
+                    Delivery and pickup available throughout Bucks County, Delaware and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

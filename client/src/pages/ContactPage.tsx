@@ -74,31 +74,31 @@ export default function ContactPage() {
   const contactInfo = [
     {
       icon: MapPin,
-      label: "Rehoboth Golf Carts - Main Location",
+      label: "Rehoboth Beach Golf Carts - Main Location",
       value: "20862 Coastal Hwy, Rehoboth Beach, DE 19971",
-      phone: "302-722-0999",
+      phone: "(302) 200-3151",
     },
     {
       icon: MapPin,
       label: "Sussex County Service Area",
       value: "Serving all Sussex County municipalities",
-      phone: "302-722-0999",
+      phone: "(302) 200-3151",
     },
     {
       icon: Phone,
       label: "Delaware Main Line",
-      value: "302-722-0999",
+      value: "(302) 200-3151",
     },
     {
       icon: Mail,
       label: "Email",
-      value: "rehobothgolfcarts@gmail.com",
+      value: "rehobothbeachgolfcarts@gmail.com",
     },
     {
       icon: Globe,
       label: "Website",
-      value: "rehobothgolfcarts.com",
-      link: "https://rehobothgolfcarts.com",
+      value: "rehobothbeachgolfcarts.com",
+      link: "https://rehobothbeachgolfcarts.com",
     },
   ];
 
@@ -111,10 +111,10 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact Rehoboth Golf Carts - Sales & Service"
-        description="Contact Rehoboth Golf Carts for sales, service, and support throughout Sussex County, Delaware. Main: 302-722-0999. Serving Rehoboth Beach, Lewes, Bethany Beach, and all Delaware beaches."
+        title="Contact Rehoboth Beach Golf Carts - Sales & Service"
+        description="Contact Rehoboth Beach Golf Carts for sales, service, and support throughout Sussex County, Delaware. Main: (302) 200-3151. Serving Rehoboth Beach, Lewes, Bethany Beach, and all Delaware beaches."
         keywords="contact Rehoboth golf carts, golf cart sales Delaware, Sussex County golf cart service DE, Rehoboth Beach showroom"
-        canonicalUrl="https://rehobothgolfcarts.com/contact"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />
@@ -124,20 +124,20 @@ export default function ContactPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("contact")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
-              Contact Rehoboth Golf Carts
+              Contact Rehoboth Beach Golf Carts
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
               Get in touch with our team for sales, service, and support throughout Sussex County, Delaware. 
               Serving from Rehoboth Beach to Seaford. Call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:302-722-0999">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 302-722-0999
+                  Call (302) 200-3151
                 </Button>
               </a>
-              <a href="mailto:rehobothgolfcarts@gmail.com">
+              <a href="mailto:rehobothbeachgolfcarts@gmail.com">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   <Mail className="w-5 h-5 mr-2" />
                   Email Us

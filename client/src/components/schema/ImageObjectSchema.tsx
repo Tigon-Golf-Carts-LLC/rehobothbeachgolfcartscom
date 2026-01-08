@@ -39,13 +39,13 @@ export default function ImageObjectSchema({
     const structuredData = {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "url": url.startsWith('http') ? url : `https://lackawannagolfcarts.com${url}`,
+      "url": url.startsWith('http') ? url : `https://rehobothbeachgolfcarts.com${url}`,
       ...(name && { "name": name }),
       ...(description && { "description": description }),
       ...(width && { "width": width }),
       ...(height && { "height": height }),
       "encodingFormat": encodingFormat,
-      "contentUrl": contentUrl || (url.startsWith('http') ? url : `https://lackawannagolfcarts.com${url}`),
+      "contentUrl": contentUrl || (url.startsWith('http') ? url : `https://rehobothbeachgolfcarts.com${url}`),
       ...(thumbnailUrl && { "thumbnailUrl": thumbnailUrl }),
       ...(caption && { "caption": caption }),
       "copyrightHolder": {

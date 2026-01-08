@@ -1,251 +1,159 @@
 # Geo.txt - Geographic SEO Information
-# Lackawanna County Golf Carts - Complete Geographic Coverage
+# Rehoboth Beach Golf Carts - Complete Geographic Coverage
 
 ## COMPLETE GEOGRAPHIC SEO INFORMATION
-Business: Lackawanna County Golf Carts
-Primary Service Area: Lackawanna County, Pennsylvania, USA
-Website: https://lackawannagolfcarts.com
-Geographic Focus: All 19 Lackawanna County municipalities
+Business: Rehoboth Beach Golf Carts
+Primary Service Area: Sussex County, Delaware, USA
+Website: https://rehobothbeachgolfcarts.com
+Geographic Focus: All Sussex County municipalities
+Phone: (302) 200-3151
+Email: rehobothbeachgolfcarts@gmail.com
 
 ## PRIMARY BUSINESS LOCATION
-Address: Lackawanna County, Pennsylvania
-County Seat: Scranton, Pennsylvania
-State: Pennsylvania (PA)
+Address: Sussex County, Delaware
+County Seat: Georgetown, Delaware
+State: Delaware (DE)
 Country: United States of America
-Region: Northeastern Pennsylvania (NEPA)
-Zip Code Coverage: 18401-18519 (Lackawanna County range)
+Region: Coastal Delaware
+Zip Code Coverage: 19930-19980 (Sussex County range)
 
-## LACKAWANNA COUNTY GEOGRAPHIC COORDINATES
+## SUSSEX COUNTY GEOGRAPHIC COORDINATES
 ### County Center Coordinates
-Latitude: 41.4993° N
-Longitude: -75.6649° W
-Elevation: 1,200 feet above sea level
+Latitude: 38.6800° N
+Longitude: -75.3400° W
+Elevation: 30 feet above sea level
 Time Zone: Eastern Standard Time (EST) / Eastern Daylight Time (EDT)
 UTC Offset: -5:00 (EST) / -4:00 (EDT)
 
 ### County Boundaries and Coverage
-Total Area: 459 square miles (1,189 km²)
-Land Area: 458 square miles (1,186 km²)
-Water Area: 1 square mile (2.6 km²)
-Population: 215,896 (2020 Census)
-Population Density: 471 people per square mile
+Total Area: 938 square miles (2,429 km²)
+Land Area: 936 square miles (2,424 km²)
+Water Area: 2 square miles (5 km²)
+Population: 237,378 (2020 Census)
+Population Density: 254 people per square mile
 
-## COMPLETE MUNICIPALITY COVERAGE (19 LOCATIONS)
+## COMPLETE MUNICIPALITY COVERAGE - SUSSEX COUNTY DELAWARE
 
-### CITY (1)
-**Scranton** (County Seat)
-- Coordinates: 41.4090° N, 75.6624° W
-- Population: 76,328 (2020 Census)
-- Zip Codes: 18503, 18504, 18505, 18508, 18509, 18510, 18515, 18519
-- Major Areas: Downtown, North Scranton, West Side, South Side, East Mountain
+### COASTAL COMMUNITIES
+**Rehoboth Beach**
+- Coordinates: 38.7208° N, 75.0760° W
+- Population: 1,588
+- Zip Code: 19971
 - Golf Cart Services: Sales, rentals, service, parts, street-legal conversions
 
-### BOROUGHS (11)
-**Archbald**
-- Coordinates: 41.4981° N, 75.5355° W
-- Population: 7,179
-- Zip Code: 18403
-- Golf Cart Services: Sales, service, residential rentals
+**Bethany Beach**
+- Coordinates: 38.5393° N, 75.0549° W
+- Population: 1,068
+- Zip Code: 19930
+- Golf Cart Services: Sales, rentals, beach community support
 
-**Carbondale**  
-- Coordinates: 41.5742° N, 75.5024° W
-- Population: 8,828
-- Zip Code: 18407
+**Lewes**
+- Coordinates: 38.7743° N, 75.1394° W
+- Population: 3,266
+- Zip Code: 19958
 - Golf Cart Services: Sales, rentals, maintenance, parts
 
-**Clarks Summit**
-- Coordinates: 41.4887° N, 75.7188° W  
-- Population: 5,116
-- Zip Code: 18411
-- Golf Cart Services: Premium sales, rentals, custom modifications
+**Dewey Beach**
+- Coordinates: 38.6887° N, 75.0771° W
+- Population: 341
+- Zip Code: 19971
+- Golf Cart Services: Beach rentals, seasonal service
 
-**Dalton**
-- Coordinates: 41.5334° N, 75.7285° W
-- Population: 1,234
-- Zip Code: 18414
-- Golf Cart Services: Rural sales, utility carts, service
+**Fenwick Island**
+- Coordinates: 38.4660° N, 75.0516° W
+- Population: 379
+- Zip Code: 19944
+- Golf Cart Services: Resort rentals, seasonal sales
 
-**Jermyn**
-- Coordinates: 41.5298° N, 75.5471° W
-- Population: 2,169  
-- Zip Code: 18433
-- Golf Cart Services: Residential sales, rentals, maintenance
+**South Bethany**
+- Coordinates: 38.5284° N, 75.0566° W
+- Population: 453
+- Zip Code: 19930
+- Golf Cart Services: Residential sales, rentals
 
-**Jessup**
-- Coordinates: 41.4681° N, 75.5635° W
-- Population: 4,532
-- Zip Code: 18434
-- Golf Cart Services: Commercial sales, fleet rentals, service
+### INLAND TOWNS
+**Georgetown** (County Seat)
+- Coordinates: 38.6893° N, 75.3857° W
+- Population: 7,436
+- Zip Code: 19947
+- Golf Cart Services: Premium sales, commercial rentals, full service
 
-**Moosic**
-- Coordinates: 41.3595° N, 75.7374° W
-- Population: 5,719
-- Zip Code: 18507
-- Golf Cart Services: Sales, rentals, entertainment venue support
+**Seaford**
+- Coordinates: 38.6410° N, 75.6108° W
+- Population: 8,369
+- Zip Code: 19973
+- Golf Cart Services: Sales, service, parts, commercial fleets
 
-**Moscow**
-- Coordinates: 41.3370° N, 75.5196° W
-- Population: 1,981
-- Zip Code: 18444
-- Golf Cart Services: Rural sales, off-road models, service
+**Milford**
+- Coordinates: 38.9126° N, 75.4277° W
+- Population: 11,732
+- Zip Code: 19963
+- Golf Cart Services: Sales, rentals, service
 
-**Old Forge**
-- Coordinates: 41.3648° N, 75.7377° W
-- Population: 8,313
-- Zip Code: 18518
-- Golf Cart Services: Sales, rentals, street-legal conversions
+**Milton**
+- Coordinates: 38.7776° N, 75.3099° W
+- Population: 3,050
+- Zip Code: 19968
+- Golf Cart Services: Residential sales, service, rentals
 
-**Olyphant**
-- Coordinates: 41.4659° N, 75.6021° W
-- Population: 5,151
-- Zip Code: 18447
-- Golf Cart Services: Residential sales, service, parts
+**Laurel**
+- Coordinates: 38.5565° N, 75.5713° W
+- Population: 4,311
+- Zip Code: 19956
+- Golf Cart Services: Sales, commercial rentals
 
-**Taylor**
-- Coordinates: 41.3987° N, 75.7099° W
-- Population: 6,263
-- Zip Code: 18517
-- Golf Cart Services: Sales, commercial rentals, maintenance
+**Millsboro**
+- Coordinates: 38.5918° N, 75.2913° W
+- Population: 4,448
+- Zip Code: 19966
+- Golf Cart Services: Sales, service, parts
 
-### TOWNSHIPS (7)
-**Chinchilla Township**
-- Coordinates: 41.5500° N, 75.6500° W
-- Population: 3,200
-- Zip Code: 18410
-- Coverage: Rural residential, recreational golf cart sales
+**Bridgeville**
+- Coordinates: 38.7426° N, 75.6044° W
+- Population: 2,582
+- Zip Code: 19933
+- Golf Cart Services: Rural sales, utility carts
 
-**Elmhurst Township**
-- Coordinates: 41.4667° N, 75.5167° W
-- Population: 4,100
-- Zip Code: 18416
-- Coverage: Suburban sales, family golf carts, service
+### ADDITIONAL COMMUNITIES
+**Ocean View** - Zip: 19970
+**Frankford** - Zip: 19945
+**Selbyville** - Zip: 19975
+**Dagsboro** - Zip: 19939
+**Delmar** - Zip: 19940
+**Ellendale** - Zip: 19941
+**Greenwood** - Zip: 19950
+**Henlopen Acres** - Zip: 19971
+**Millville** - Zip: 19967
+**Bethel** - Zip: 19931
+**Blades** - Zip: 19973
 
-**Fleetville Township** 
-- Coordinates: 41.6000° N, 75.5000° W
-- Population: 2,800
-- Zip Code: 18420
-- Coverage: Rural sales, utility vehicles, off-road models
+## REGIONAL CONTEXT
+Sussex County is located in southern Delaware, bordered by the Atlantic Ocean to the east and Maryland to the west and south. The county features diverse terrain from coastal beaches to agricultural inland areas.
 
-**La Plume Township**
-- Coordinates: 41.5167° N, 75.6833° W
-- Population: 4,200
-- Zip Code: 18440
-- Coverage: University area, residential sales, rentals
+### Neighboring Counties
+- Kent County, Delaware (North)
+- Worcester County, Maryland (South)
+- Wicomico County, Maryland (West)
+- Atlantic Ocean (East)
 
-**Peckville Township**
-- Coordinates: 41.4833° N, 75.5833° W
-- Population: 2,500
-- Zip Code: 18452
-- Coverage: Residential sales, local service, parts
+## LOCAL SEO TARGETING
+### Primary Geographic Keywords
+- golf carts Sussex County Delaware
+- Rehoboth Beach golf cart sales
+- Lewes golf cart rentals
+- Georgetown golf cart service
+- Delaware beach golf carts
+- coastal Delaware golf carts
 
-**Ransom Township**
-- Coordinates: 41.4167° N, 75.5000° W
-- Population: 1,900
-- Zip Code: 18456
-- Coverage: Rural coverage, utility carts, maintenance
+### Service Area Description
+Rehoboth Beach Golf Carts proudly serves all of Sussex County, Delaware, from the beautiful beaches of Rehoboth, Bethany, and Fenwick Island to the historic inland communities of Georgetown, Seaford, and Milton. Our comprehensive service area covers the entire county, providing convenient access to quality DENAGO and EVOLUTION electric golf carts for all Delaware residents and visitors.
 
-**Waverly Township**
-- Coordinates: 41.5833° N, 75.6167° W
-- Population: 1,700
-- Zip Code: 18471
-- Coverage: Northern coverage, recreational sales, service
+## BUSINESS HOURS (LOCAL TIME)
+Monday - Friday: 9:00 AM - 5:00 PM EST
+Saturday: 9:00 AM - 5:00 PM EST
+Sunday: Closed
 
-## REGIONAL CONTEXT AND MARKET AREA
-
-### Northeastern Pennsylvania (NEPA) Region
-- Regional Population: ~560,000
-- Major Cities: Scranton, Wilkes-Barre, Hazleton
-- Economic Focus: Healthcare, education, manufacturing, tourism
-- Terrain: Mountainous, wooded, mixed urban/suburban/rural
-
-### Surrounding Counties
-- North: Susquehanna County
-- East: Pike County, Wayne County  
-- South: Monroe County
-- Southwest: Carbon County, Luzerne County
-- West: Wyoming County
-
-### Major Transportation Routes
-- Interstate 81: North-South major highway
-- Interstate 380: Connection to Interstate 80
-- US Route 6: East-West corridor
-- PA Route 435: Local connector
-- Northeast Extension (I-476): Toll highway access
-
-## LOCAL MARKET INTELLIGENCE
-
-### Terrain and Geography
-- Appalachian Mountains foothills
-- Mixed elevation: valleys to mountain ridges
-- Seasonal weather: four distinct seasons
-- Golf cart terrain: varied from flat residential to hilly rural
-- Street-legal opportunities: numerous local roads under 35 mph
-
-### Economic Demographics  
-- Median Household Income: $52,000 (county average)
-- Age Demographics: Mixed, aging population in rural areas
-- Housing: Mix of urban, suburban, and rural properties
-- Recreation: High outdoor activity participation
-
-### Golf Cart Market Factors
-- Seasonal usage patterns (high spring/summer demand)
-- Mountain terrain requires powerful models
-- Street-legal demand for local transportation
-- Commercial applications: campgrounds, resorts, municipalities
-- Retirement communities with golf cart transportation
-
-## KEYWORD TARGETING BY GEOGRAPHIC AREA
-
-### County-Level Keywords
-- "golf carts Lackawanna County"
-- "Lackawanna County golf cart dealer" 
-- "NEPA golf carts"
-- "Northeastern Pennsylvania golf carts"
-
-### City-Specific Keywords
-- "golf carts Scranton PA"
-- "Scranton golf cart sales"
-- "Carbondale golf cart rentals"
-- "Clarks Summit golf cart service"
-
-### Regional Keywords
-- "Pennsylvania golf carts"
-- "PA golf cart dealer"
-- "Pocono region golf carts"
-- "mountain golf carts Pennsylvania"
-
-## SERVICE AREA BOUNDARIES
-
-### Primary Service Zone (Full Service)
-- All 19 Lackawanna County municipalities
-- Complete sales, rental, service, parts coverage
-- Emergency service and roadside assistance
-- Delivery and pickup services
-
-### Secondary Service Zone (Limited Service)
-- Adjacent counties for delivery and major sales
-- Service appointments by arrangement
-- Special event rentals and support
-
-### Geographic Expansion Opportunities
-- Wayne County (east)
-- Carbon County (south) 
-- Wyoming County (west)
-- Susquehanna County (north)
-
-## LOCAL BUSINESS OPTIMIZATION
-
-### Google My Business Optimization
-- Primary Location: Lackawanna County focus
-- Service Area: All 19 municipalities listed
-- Categories: Golf Cart Dealer, Electric Vehicle Dealer
-- Local SEO: Municipality-specific landing pages
-
-### Local Directory Listings
-- Scranton Chamber of Commerce
-- Lackawanna County business directories
-- NEPA business associations
-- Pennsylvania golf cart dealer listings
-
-Last Updated: January 31, 2025
-Geographic Coverage: Complete Lackawanna County, Pennsylvania
+## CONTACT INFORMATION
+Phone: (302) 200-3151
+Email: rehobothbeachgolfcarts@gmail.com
+Website: https://rehobothbeachgolfcarts.com

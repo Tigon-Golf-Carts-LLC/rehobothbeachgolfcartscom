@@ -57,7 +57,7 @@ export default function ProductSchema({
       "description": description,
       "image": {
         "@type": "ImageObject",
-        "url": `https://lackawannagolfcarts.com/attached_assets/${image}`,
+        "url": `https://rehobothbeachgolfcarts.com/attached_assets/${image}`,
         "width": 800,
         "height": 600
       },
@@ -79,12 +79,12 @@ export default function ProductSchema({
         ...(priceValidUntil && { "priceValidUntil": priceValidUntil }),
         "seller": {
           "@type": "Organization",
-          "name": "Lackawanna County Golf Carts",
-          "telephone": "1-844-844-6638",
-          "email": "info@lackawannagolfcarts.com",
+          "name": "Rehoboth Beach Golf Carts",
+          "telephone": "(302) 200-3151",
+          "email": "info@rehobothbeachgolfcarts.com",
           "address": {
             "@type": "PostalAddress",
-            "addressLocality": "Lackawanna County",
+            "addressLocality": "Sussex County",
             "addressRegion": "PA",
             "addressCountry": "US"
           }

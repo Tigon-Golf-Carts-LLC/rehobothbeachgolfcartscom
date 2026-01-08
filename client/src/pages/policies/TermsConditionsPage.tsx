@@ -5,9 +5,9 @@ export default function TermsConditionsPage() {
   return (
     <>
       <SEOHead 
-        title="Terms & Conditions | Rehoboth Golf Carts"
-        description="Read the complete terms and conditions for Rehoboth Golf Carts. Understand your rights and responsibilities when purchasing, renting, or servicing golf carts in Sussex County, Delaware. Call 302-722-0999."
-        keywords="terms conditions, Rehoboth Golf Carts, Sussex County Delaware golf cart terms, legal agreement"
+        title="Terms & Conditions | Rehoboth Beach Golf Carts"
+        description="Read the complete terms and conditions for Rehoboth Beach Golf Carts. Understand your rights and responsibilities when purchasing, renting, or servicing golf carts in Sussex County, Delaware. Call (302) 200-3151."
+        keywords="terms conditions, Rehoboth Beach Golf Carts, Sussex County Delaware golf cart terms, legal agreement"
       />
       
       {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function TermsConditionsPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Agreement Overview</h2>
               <p className="mb-6">
-                These Terms & Conditions ("Terms") govern your use of services provided by Rehoboth Golf Carts, 
+                These Terms & Conditions ("Terms") govern your use of services provided by Rehoboth Beach Golf Carts, 
                 including golf cart sales, rentals, service, and related products. By engaging with our services, 
                 you agree to be bound by these Terms.
               </p>
@@ -45,7 +45,7 @@ export default function TermsConditionsPage() {
                 <li>Prices are subject to change without notice until purchase is finalized</li>
                 <li>Payment terms must be agreed upon prior to delivery</li>
                 <li>Title transfer occurs upon full payment completion</li>
-                <li>Pennsylvania sales tax applies to all purchases</li>
+                <li>Delaware sales tax applies to all purchases</li>
               </ul>
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Warranties and Returns</h3>
@@ -86,24 +86,24 @@ export default function TermsConditionsPage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Limitation of Liability</h2>
               <p className="mb-6">
-                To the maximum extent permitted by Pennsylvania law, Lackawanna County Golf Carts shall not be 
+                To the maximum extent permitted by Delaware law, Rehoboth Beach Golf Carts shall not be 
                 liable for any indirect, incidental, special, or consequential damages. Our total liability 
                 shall not exceed the amount paid for the specific product or service in question.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Governing Law</h2>
               <p className="mb-6">
-                These Terms are governed by Pennsylvania state law. Any disputes shall be resolved in 
-                the courts of Lackawanna County, Pennsylvania.
+                These Terms are governed by Delaware state law. Any disputes shall be resolved in 
+                the courts of Sussex County, Delaware.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>Lackawanna County Golf Carts</strong></p>
-                <p className="mb-2">Email: info@lackawannagolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Lackawanna County, Pennsylvania</p>
-                <p>Website: lackawannagolfcarts.com</p>
+                <p className="mb-2"><strong>Rehoboth Beach Golf Carts</strong></p>
+                <p className="mb-2">Email: info@rehobothbeachgolfcarts.com</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
+                <p className="mb-2">Serving Sussex County, Delaware</p>
+                <p>Website: rehobothbeachgolfcarts.com</p>
               </div>
             </div>
           </div>

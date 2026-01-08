@@ -4,9 +4,9 @@ export function PrivacyPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Privacy Policy | Rehoboth Golf Carts"
-        description="Privacy Policy for Rehoboth Golf Carts. Learn how we collect, use, and protect your personal information when you visit our website or purchase golf carts. Call 302-722-0999."
-        keywords="privacy policy, data protection, personal information, Rehoboth Golf Carts, Sussex County Delaware"
+        title="Privacy Policy | Rehoboth Beach Golf Carts"
+        description="Privacy Policy for Rehoboth Beach Golf Carts. Learn how we collect, use, and protect your personal information when you visit our website or purchase golf carts. Call (302) 200-3151."
+        keywords="privacy policy, data protection, personal information, Rehoboth Beach Golf Carts, Sussex County Delaware"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export function PrivacyPolicyPage() {
               </p>
               
               <p className="mb-6">
-                At Rehoboth Golf Carts, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website rehobothgolfcarts.com or engage with our services.
+                At Rehoboth Beach Golf Carts, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website rehobothbeachgolfcarts.com or engage with our services.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Information We Collect</h2>
@@ -115,11 +115,11 @@ export function PrivacyPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <p className="mb-4">If you have any questions about this Privacy Policy or our privacy practices, please contact us:</p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>Rehoboth Golf Carts</strong></p>
-                <p className="mb-2">Email: rehobothgolfcarts@gmail.com</p>
-                <p className="mb-2">Phone: 302-722-0999</p>
+                <p className="mb-2"><strong>Rehoboth Beach Golf Carts</strong></p>
+                <p className="mb-2">Email: rehobothbeachgolfcarts@gmail.com</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
                 <p className="mb-2">Serving Sussex County, Delaware</p>
-                <p>Website: rehobothgolfcarts.com</p>
+                <p>Website: rehobothbeachgolfcarts.com</p>
               </div>
 
               <p className="mt-8 text-sm text-gray-600">

@@ -24,22 +24,22 @@ interface LocalBusinessSchemaProps {
 }
 
 export default function LocalBusinessSchema({
-  name = "Lackawanna County Golf Carts",
-  description = "Premier golf cart dealership in Lackawanna County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
+  name = "Rehoboth Beach Golf Carts",
+  description = "Premier golf cart dealership in Sussex County, Delaware specializing in electric golf carts, sales, service, rentals, and financing.",
   address = {
-    streetAddress: "123 Golf Cart Lane",
-    addressLocality: "Scranton",
-    addressRegion: "PA",
-    postalCode: "18229",
+    streetAddress: "20862 Coastal Hwy",
+    addressLocality: "Rehoboth Beach",
+    addressRegion: "DE",
+    postalCode: "19971",
     addressCountry: "US"
   },
   geo = {
-    latitude: "41.4084",
-    longitude: "-75.6624"
+    latitude: "38.7215",
+    longitude: "-75.0760"
   },
-  telephone = "1-844-844-6638",
-  email = "info@lackawannagolfcarts.com",
-  url = "https://lackawannagolfcarts.com",
+  telephone = "(302) 200-3151",
+  email = "rehobothbeachgolfcarts@gmail.com",
+  url = "https://rehobothbeachgolfcarts.com",
   openingHours = [
     "Mo-Fr 09:00-18:00",
     "Sa 09:00-17:00",
@@ -47,7 +47,7 @@ export default function LocalBusinessSchema({
   ],
   paymentAccepted = ["Cash", "Credit Card", "Debit Card", "Check", "Financing"],
   businessType = "Golf Cart Dealership",
-  areaServed = "Lackawanna County, PA"
+  areaServed = "Sussex County, DE"
 }: LocalBusinessSchemaProps) {
   useEffect(() => {
     const structuredData = {
@@ -57,13 +57,13 @@ export default function LocalBusinessSchema({
       "description": description,
       "image": {
         "@type": "ImageObject",
-        "url": "https://lackawannagolfcarts.com/logo.png",
+        "url": "https://rehobothbeachgolfcarts.com/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
         "width": 400,
         "height": 400
       },
       "logo": {
         "@type": "ImageObject",
-        "url": "https://lackawannagolfcarts.com/logo.png",
+        "url": "https://rehobothbeachgolfcarts.com/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
         "width": 400,
         "height": 400
       },
@@ -106,9 +106,9 @@ export default function LocalBusinessSchema({
         "name": areaServed
       },
       "sameAs": [
-        "https://www.facebook.com/lehighgolfcarts",
-        "https://twitter.com/lehighgolfcarts",
-        "https://www.instagram.com/lehighgolfcarts"
+        "https://www.facebook.com/rehobothbeachgolfcarts",
+        "https://twitter.com/rehobothbeachgolfcarts",
+        "https://www.instagram.com/rehobothbeachgolfcarts"
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",

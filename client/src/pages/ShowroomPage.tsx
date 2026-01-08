@@ -25,7 +25,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Golf Carts Delaware",
       address: "Delaware",
-      phone: "1-844-844-6638",
+      phone: "(302) 200-3151",
       coordinates: "39.145324,-75.386594",
       googleMapsUrl: "https://www.google.com/maps?cid=11044789483047204293",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsDelaware",
@@ -39,10 +39,10 @@ export default function ShowroomPage() {
   return (
     <>
       <SEOHead 
-        title="Rehoboth Golf Carts Showroom | Premier Delaware Golf Cart Dealer"
-        description="Visit Rehoboth Golf Carts, Delaware's premier golf cart showroom. Complete DENAGO and EVOLUTION lineup serving all Sussex County municipalities from Rehoboth Beach to Seaford."
+        title="Rehoboth Beach Golf Carts Showroom | Premier Delaware Golf Cart Dealer"
+        description="Visit Rehoboth Beach Golf Carts, Delaware's premier golf cart showroom. Complete DENAGO and EVOLUTION lineup serving all Sussex County municipalities from Rehoboth Beach to Seaford."
         keywords="Rehoboth golf carts showroom, golf cart dealership Delaware, DENAGO EVOLUTION Sussex County, Delaware golf cart sales, Rehoboth Beach"
-        canonicalUrl="https://rehobothgolfcarts.com/showroom"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/showroom"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
         ogType="website"
       />
@@ -51,7 +51,7 @@ export default function ShowroomPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("showroom")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            Rehoboth Golf Carts Delaware Showroom
+            Rehoboth Beach Golf Carts Delaware Showroom
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
             Visit our premier Delaware showroom featuring the complete lineup of DENAGO and EVOLUTION electric vehicles. 
@@ -281,7 +281,7 @@ export default function ShowroomPage() {
                 Schedule Visit
               </Button>
             </Link>
-            <a href="tel:1-844-844-6638">
+            <a href="tel:(302) 200-3151">
               <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Today

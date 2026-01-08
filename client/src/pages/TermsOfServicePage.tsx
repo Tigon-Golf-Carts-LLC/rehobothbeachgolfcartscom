@@ -4,9 +4,9 @@ export function TermsOfServicePage() {
   return (
     <>
       <SEOHead 
-        title="Terms of Service | Rehoboth Golf Carts"
-        description="Terms of Service for Rehoboth Golf Carts. Review our terms and conditions for purchasing golf carts, rental services, and using our website. Call 302-722-0999."
-        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Rehoboth Golf Carts, Sussex County Delaware"
+        title="Terms of Service | Rehoboth Beach Golf Carts"
+        description="Terms of Service for Rehoboth Beach Golf Carts. Review our terms and conditions for purchasing golf carts, rental services, and using our website. Call (302) 200-3151."
+        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Rehoboth Beach Golf Carts, Sussex County Delaware"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export function TermsOfServicePage() {
               </p>
               
               <p className="mb-6">
-                Welcome to Rehoboth Golf Carts. These Terms of Service ("Terms") govern your use of our website rehobothgolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of golf carts. By accessing our website or engaging our services, you agree to be bound by these Terms.
+                Welcome to Rehoboth Beach Golf Carts. These Terms of Service ("Terms") govern your use of our website rehobothbeachgolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of golf carts. By accessing our website or engaging our services, you agree to be bound by these Terms.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Acceptance of Terms</h2>
@@ -28,7 +28,7 @@ export function TermsOfServicePage() {
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">About Our Services</h2>
-              <p className="mb-4">Rehoboth Golf Carts provides:</p>
+              <p className="mb-4">Rehoboth Beach Golf Carts provides:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>New and used golf cart sales</li>
                 <li>Golf cart rentals for various durations</li>
@@ -114,12 +114,12 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Limitation of Liability</h2>
               <p className="mb-6">
-                To the fullest extent permitted by law, Montgomery County Golf Carts shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
+                To the fullest extent permitted by law, Rehoboth Beach Golf Carts shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Indemnification</h2>
               <p className="mb-6">
-                You agree to indemnify and hold harmless Montgomery County Golf Carts from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
+                You agree to indemnify and hold harmless Rehoboth Beach Golf Carts from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Privacy Policy</h2>
@@ -145,11 +145,11 @@ export function TermsOfServicePage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <p className="mb-4">If you have questions about these Terms of Service, please contact us:</p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>Rehoboth Golf Carts</strong></p>
-                <p className="mb-2">Email: info@rehobothgolfcarts.com</p>
-                <p className="mb-2">Phone: 302-722-0999</p>
+                <p className="mb-2"><strong>Rehoboth Beach Golf Carts</strong></p>
+                <p className="mb-2">Email: info@rehobothbeachgolfcarts.com</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
                 <p className="mb-2">Serving Sussex County, Delaware - All 27 municipalities</p>
-                <p>Website: rehobothgolfcarts.com</p>
+                <p>Website: rehobothbeachgolfcarts.com</p>
               </div>
 
               <p className="mt-8 text-sm text-gray-600">

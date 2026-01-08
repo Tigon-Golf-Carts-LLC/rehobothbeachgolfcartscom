@@ -67,21 +67,21 @@ export default function EcoImpactPage() {
     <>
       {/* SEO Head */}
       <Helmet>
-        <title>Eco-Impact Calculator - Environmental Benefits | Rehoboth Golf Carts Sussex County</title>
+        <title>Eco-Impact Calculator - Environmental Benefits | Rehoboth Beach Golf Carts Sussex County</title>
         <meta 
           name="description" 
-          content="Calculate your environmental impact and savings with electric golf carts. See CO₂ reduction, fuel savings, and carbon offset benefits. Free eco-impact calculator for Sussex County Delaware. Call 302-722-0999." 
+          content="Calculate your environmental impact and savings with electric golf carts. See CO₂ reduction, fuel savings, and carbon offset benefits. Free eco-impact calculator for Sussex County Delaware. Call (302) 200-3151." 
         />
         <meta 
           name="keywords" 
-          content="eco impact calculator, electric golf cart environmental benefits, carbon footprint reduction, CO2 savings, sustainable transportation Luzerne County, green golf carts Pennsylvania" 
+          content="eco impact calculator, electric golf cart environmental benefits, carbon footprint reduction, CO2 savings, sustainable transportation Sussex County, green golf carts Delaware" 
         />
-        <link rel="canonical" href="https://lackawannagolfcarts.com/eco-impact" />
+        <link rel="canonical" href="https://rehobothbeachgolfcarts.com/eco-impact" />
         
         {/* Open Graph */}
         <meta property="og:title" content="Eco-Impact Calculator - Calculate Your Environmental Savings" />
         <meta property="og:description" content="See how much CO₂, fuel, and money you save by choosing electric golf carts. Interactive calculator with real environmental data." />
-        <meta property="og:url" content="https://lackawannagolfcarts.com/eco-impact" />
+        <meta property="og:url" content="https://rehobothbeachgolfcarts.com/eco-impact" />
         <meta property="og:type" content="website" />
         
         {/* Twitter Card */}

@@ -35,14 +35,14 @@ export default function Navigation() {
           <div className="flex items-center space-x-3">
             <div className="rounded-lg">
               <img 
-                src="/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png" 
-                alt="Rehoboth Golf Carts Logo" 
+                src="/attached_assets/rehoboth_beach_golf_carts_1767888623214.png" 
+                alt="Rehoboth Beach Golf Carts Logo" 
                 className="h-20 w-20 object-contain"
               />
             </div>
             <Link href="/">
               <div className="cursor-pointer">
-                <div className="text-lg font-bold text-theme-primary">REHOBOTH</div>
+                <div className="text-lg font-bold text-theme-primary">REHOBOTH BEACH</div>
                 <div className="text-lg font-bold text-theme-primary -mt-1">GOLF CARTS</div>
               </div>
             </Link>
@@ -87,9 +87,9 @@ export default function Navigation() {
             </div>
 
             <div className="flex items-center space-x-4">
-              <a href="tel:302-722-0999">
+              <a href="tel:302-200-3151">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2 text-sm font-medium">
-                  Call Now 302-722-0999
+                  Call Now (302) 200-3151
                 </Button>
               </a>
             </div>
@@ -143,9 +143,9 @@ export default function Navigation() {
                   </div>
                   
                   <div className="border-t pt-4 mt-4">
-                    <a href="tel:302-722-0999">
+                    <a href="tel:302-200-3151">
                       <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full">
-                        Call Now 302-722-0999
+                        Call Now (302) 200-3151
                       </Button>
                     </a>
                   </div>

@@ -12,10 +12,10 @@ export default function DenagoEvCity() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV CITY - Urban Electric Vehicle | Rehoboth Golf Carts Sussex County"
-        description="Discover the DENAGO EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use in Sussex County, Delaware. Call 302-722-0999."
+        title="DENAGO® EV CITY - Urban Electric Vehicle | Rehoboth Beach Golf Carts Sussex County"
+        description="Discover the DENAGO EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use in Sussex County, Delaware. Call (302) 200-3151."
         keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer Sussex County DE"
-        canonicalUrl="https://rehobothgolfcarts.com/vehicle/denago-ev-city"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/vehicle/denago-ev-city"
         ogImage="/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg"
         ogType="product"
       />
@@ -24,7 +24,7 @@ export default function DenagoEvCity() {
         brand="DENAGO"
         image="DENAGONEVCITY_1751893047472_1753135231313.jpg"
         description="Discover the EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use."
-        url="https://rehobothgolfcarts.com/vehicle/denago-ev-city"
+        url="https://rehobothbeachgolfcarts.com/vehicle/denago-ev-city"
         features={["Street Legal NEV Certified", "40-50 mile range", "25 mph top speed", "4 passenger seating", "Urban mobility design"]}
       />
       
@@ -259,7 +259,7 @@ export default function DenagoEvCity() {
               Ready to Experience the DENAGO® EV CITY?
             </h2>
             <p className="text-xl mb-8">
-              Contact Lehigh County Golf Carts today for pricing, availability, and to schedule a test drive.
+              Contact Rehoboth Beach Golf Carts today for pricing, availability, and to schedule a test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -267,9 +267,9 @@ export default function DenagoEvCity() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 1-844-844-6638
+                  Call (302) 200-3151
                 </Button>
               </a>
             </div>
@@ -286,7 +286,7 @@ export default function DenagoEvCity() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">(302) 200-3151</p>
                   <p className="text-gray-600">Speak with our DENAGO specialists</p>
                 </CardContent>
               </Card>
@@ -308,11 +308,11 @@ export default function DenagoEvCity() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-purple-500 mx-auto mb-4" />
-                  <CardTitle>Lehigh County Service</CardTitle>
+                  <CardTitle>Sussex County Service</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Lehigh County, Pennsylvania and surrounding areas.
+                    Delivery and pickup available throughout Sussex County, Delaware and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

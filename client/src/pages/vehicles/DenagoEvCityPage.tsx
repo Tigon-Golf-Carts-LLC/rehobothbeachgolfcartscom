@@ -9,10 +9,10 @@ export default function DenagoEvCityPage() {
       series="EV CITY"
       price="$15,000"
       image={denagoEvCityImage}
-      seoTitle="DENAGO EV CITY - Urban Electric Golf Cart | Rehoboth Golf Carts"
-      seoDescription="Discover the DENAGO EV CITY electric golf cart in Sussex County, Delaware. Street legal ready urban mobility with sleek design and efficient performance. Call 302-722-0999."
+      seoTitle="DENAGO EV CITY - Urban Electric Golf Cart | Rehoboth Beach Golf Carts"
+      seoDescription="Discover the DENAGO EV CITY electric golf cart in Sussex County, Delaware. Street legal ready urban mobility with sleek design and efficient performance. Call (302) 200-3151."
       seoKeywords="DENAGO EV CITY, urban electric golf cart, street legal golf cart, Sussex County, Delaware, electric vehicle"
-      canonicalUrl="https://rehobothgolfcarts.com/vehicles/denago-ev-city"
+      canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/denago-ev-city"
       seats="2"
       range="40 miles"
       topSpeed="25 mph"

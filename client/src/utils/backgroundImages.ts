@@ -1,4 +1,4 @@
-// Rehoboth Golf Carts - Professional Dealership Background Images
+// Rehoboth Beach Golf Carts - Professional Dealership Background Images
 // 6 new professional golf cart dealership images for dynamic backgrounds
 
 import image1 from "@assets/a-photograph-of-a-modern-golf-cart-deale_ZIJgnM0qSLqCnmqzAiha0w_Tcds7ckvRe6FNLFDKo_aDg_1755541056710.jpeg";

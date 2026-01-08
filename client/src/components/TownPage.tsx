@@ -58,8 +58,8 @@ const getGoogleMapsEmbedUrl = (townName: string, townType: string): string => {
     'tuckerton_borough': 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12400.3!2d-74.3387!3d39.6043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c186z9z9z9z9z9%3A0xz9z9z9z9z9z9z9z9!2sTuckerton%2C%20NJ!5e0!3m2!1sen!2sus!4v1753141300032!5m2!1sen!2sus',
   };
   
-  // Return specific map or fallback to generic Luzerne County embed for smaller towns
-  return townMaps[townKey] || `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-76.1273!3d41.2451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5c8b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2s${encodeURIComponent(townName + ' ' + townType)}%2C%20Luzerne%20County%2C%20PA!5e0!3m2!1sen!2sus!4v1753817670000!5m2!1sen!2sus`;
+  // Return specific map or fallback to generic Sussex County embed for smaller towns
+  return townMaps[townKey] || `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-76.1273!3d41.2451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5c8b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2s${encodeURIComponent(townName + ' ' + townType)}%2C%20Sussex%20County%2C%20DE!5e0!3m2!1sen!2sus!4v1753817670000!5m2!1sen!2sus`;
 };
 
 export default function TownPage({ townName, townType }: TownPageProps) {
@@ -71,13 +71,13 @@ export default function TownPage({ townName, townType }: TownPageProps) {
   const fullTownName = `${townName} ${townType}`;
   
   // SEO optimization
-  const pageTitle = `${townName} Golf Carts - Luzerne County's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullTownName}. Lackawanna County Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
-  const pageKeywords = `${townName} golf carts, ${fullTownName} golf cart sales, Luzerne County golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}`;
-  const canonicalUrl = `https://lackawannagolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-${townType.toLowerCase()}-golf-carts`;
+  const pageTitle = `${townName} Golf Carts - Sussex County's Premier Dealership | Sales, Service & Rentals`;
+  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullTownName}. Rehoboth Beach Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
+  const pageKeywords = `${townName} golf carts, ${fullTownName} golf cart sales, Sussex County golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}`;
+  const canonicalUrl = `https://rehobothbeachgolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-${townType.toLowerCase()}-golf-carts`;
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://lackawannagolfcarts.com" },
+    { name: "Home", url: "https://rehobothbeachgolfcarts.com" },
     { name: `${townName} Golf Carts`, url: canonicalUrl }
   ];
 
@@ -100,7 +100,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                {townName} Golf Carts - Luzerne County's Premier Dealership
+                {townName} Golf Carts - Sussex County's Premier Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
                 Professional golf cart sales, service, and rentals in {fullTownName}. 
@@ -135,7 +135,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
             Golf Cart Services in {fullTownName}
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
-            Lackawanna County Golf Carts proudly serves {townName} residents with comprehensive 
+            Rehoboth Beach Golf Carts proudly serves {townName} residents with comprehensive 
             golf cart solutions including sales, maintenance, repairs, and rentals.
           </p>
           
@@ -187,7 +187,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Lackawanna County Golf Carts - Top Golf Cart and LSV Brands
+            Rehoboth Beach Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             We carry the most trusted names in Golf Carts and Low Speed Vehicles
@@ -304,7 +304,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-gray-900">
-              Contact Lackawanna County Golf Carts from {fullTownName}
+              Contact Rehoboth Beach Golf Carts from {fullTownName}
             </h2>
             <p className="text-xl text-gray-600">
               Easy access to professional golf cart services for {townName} residents
@@ -320,7 +320,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">302-722-0999</p>
+                  <p className="text-2xl font-bold text-blue-600 mb-2">(302) 200-3151</p>
                   <p className="text-gray-600">Speak with our {townName} golf cart specialists</p>
                 </CardContent>
               </Card>
@@ -346,7 +346,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout {fullTownName} and surrounding Luzerne County areas.
+                    Delivery and pickup available throughout {fullTownName} and surrounding Sussex County areas.
                   </p>
                 </CardContent>
               </Card>
@@ -374,10 +374,10 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">
-                Why {townName} Chooses Lackawanna County Golf Carts
+                Why {townName} Chooses Rehoboth Beach Golf Carts
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Residents of {fullTownName} trust Lackawanna County Golf Carts for reliable, 
+                Residents of {fullTownName} trust Rehoboth Beach Golf Carts for reliable, 
                 high-quality golf cart solutions. Our local expertise and commitment to customer 
                 service make us the preferred choice for {townName} golf cart needs.
               </p>
@@ -438,7 +438,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-              Call 302-722-0999
+              Call (302) 200-3151
             </Button>
             <Button size="lg" variant="outline" className="text-blue-600 bg-white border-white hover:bg-gray-100 hover:text-blue-600">
               Request Quote for {townName}

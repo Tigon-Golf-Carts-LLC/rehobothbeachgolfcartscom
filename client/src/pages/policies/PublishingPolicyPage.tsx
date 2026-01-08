@@ -5,9 +5,9 @@ export default function PublishingPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Content Publishing Policy | Rehoboth Golf Carts Sussex County Delaware"
-        description="Learn about Rehoboth Golf Carts' content publishing standards, guidelines for user-generated content, and editorial policies for our Delaware website. Call 302-722-0999."
-        keywords="publishing policy, content policy, Rehoboth Golf Carts Sussex County, editorial guidelines"
+        title="Content Publishing Policy | Rehoboth Beach Golf Carts Sussex County Delaware"
+        description="Learn about Rehoboth Beach Golf Carts' content publishing standards, guidelines for user-generated content, and editorial policies for our Delaware website. Call (302) 200-3151."
+        keywords="publishing policy, content policy, Rehoboth Beach Golf Carts Sussex County, editorial guidelines"
       />
       
       {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function PublishingPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Content Publishing Standards</h2>
               <p className="mb-6">
-                Rehoboth Golf Carts maintains high standards for all content published on our website, 
+                Rehoboth Beach Golf Carts maintains high standards for all content published on our website, 
                 social media channels, and marketing materials. This policy ensures accuracy, professionalism, 
                 and compliance with Delaware business regulations.
               </p>
@@ -100,7 +100,7 @@ export default function PublishingPolicyPage() {
               <ul className="list-disc pl-6 mb-6">
                 <li>All claims substantiated with supporting evidence</li>
                 <li>Federal Trade Commission guidelines followed</li>
-                <li>Pennsylvania consumer protection laws observed</li>
+                <li>Delaware consumer protection laws observed</li>
                 <li>Clear disclosure of any paid partnerships</li>
                 <li>Honest representation of products and services</li>
               </ul>
@@ -173,11 +173,11 @@ export default function PublishingPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Content Team</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Content and Marketing Department</strong></p>
-                <p className="mb-2">Lackawanna County Golf Carts</p>
-                <p className="mb-2">Email: info@lackawannagolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
+                <p className="mb-2">Rehoboth Beach Golf Carts</p>
+                <p className="mb-2">Email: info@rehobothbeachgolfcarts.com</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
                 <p className="mb-2">For content corrections or suggestions</p>
-                <p className="mb-2">Website: lackawannagolfcarts.com</p>
+                <p className="mb-2">Website: rehobothbeachgolfcarts.com</p>
                 <p>Response time: 24-48 hours for content inquiries</p>
               </div>
             </div>

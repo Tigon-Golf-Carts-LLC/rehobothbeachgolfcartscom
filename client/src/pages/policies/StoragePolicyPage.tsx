@@ -5,8 +5,8 @@ export default function StoragePolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Storage Services | Rehoboth Golf Carts Sussex County Delaware"
-        description="Learn about golf cart storage services and policies at Rehoboth Golf Carts. Seasonal storage, maintenance, and security information for Sussex County Delaware customers. Call 302-722-0999."
+        title="Golf Cart Storage Services | Rehoboth Beach Golf Carts Sussex County Delaware"
+        description="Learn about golf cart storage services and policies at Rehoboth Beach Golf Carts. Seasonal storage, maintenance, and security information for Sussex County Delaware customers. Call (302) 200-3151."
         keywords="golf cart storage, storage policy, Sussex County Delaware storage, Delaware golf cart storage"
       />
       
@@ -33,7 +33,7 @@ export default function StoragePolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Storage Services Overview</h2>
               <p className="mb-6">
-                Rehoboth Golf Carts provides secure, climate-controlled storage services for golf carts 
+                Rehoboth Beach Golf Carts provides secure, climate-controlled storage services for golf carts 
                 at our Delaware facilities. Our storage policy ensures the protection and maintenance 
                 of your investment during storage periods.
               </p>
@@ -193,11 +193,11 @@ export default function StoragePolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Storage Department</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Storage Services</strong></p>
-                <p className="mb-2">Lackawanna County Golf Carts</p>
-                <p className="mb-2">Email: info@lackawannagolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Lackawanna County, Pennsylvania</p>
-                <p>Website: lackawannagolfcarts.com</p>
+                <p className="mb-2">Rehoboth Beach Golf Carts</p>
+                <p className="mb-2">Email: info@rehobothbeachgolfcarts.com</p>
+                <p className="mb-2">Phone: (302) 200-3151</p>
+                <p className="mb-2">Serving Sussex County, Delaware</p>
+                <p>Website: rehobothbeachgolfcarts.com</p>
               </div>
             </div>
           </div>

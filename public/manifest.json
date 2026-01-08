@@ -1,6 +1,6 @@
 {
-  "name": "Rehoboth Golf Carts",
-  "short_name": "Rehoboth Golf Carts",
+  "name": "Rehoboth Beach Golf Carts",
+  "short_name": "Rehoboth Beach Golf Carts",
   "description": "Delaware's premier electric golf cart dealership. DENAGO & Evolution vehicles, sales, service, rentals in Sussex County.",
   "start_url": "/",
   "display": "standalone",
@@ -13,34 +13,34 @@
   
   "icons": [
     {
-      "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+      "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+      "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+      "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+      "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+      "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+      "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
       "sizes": "48x48",
       "type": "image/png"
     }
@@ -54,7 +54,7 @@
       "url": "/inventory",
       "icons": [
         {
-          "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+          "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
           "sizes": "96x96"
         }
       ]
@@ -66,7 +66,7 @@
       "url": "/showroom",
       "icons": [
         {
-          "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+          "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
           "sizes": "96x96"
         }
       ]
@@ -78,7 +78,7 @@
       "url": "/rentals",
       "icons": [
         {
-          "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+          "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
           "sizes": "96x96"
         }
       ]
@@ -86,11 +86,11 @@
     {
       "name": "Contact Us",
       "short_name": "Contact",
-      "description": "Call 1-844-844-6638 or contact us for sales and service",
+      "description": "Call (302) 200-3151 or contact us for sales and service",
       "url": "/contact",
       "icons": [
         {
-          "src": "/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png",
+          "src": "/attached_assets/rehoboth_beach_golf_carts_1767888623214.png",
           "sizes": "96x96"
         }
       ]
@@ -118,8 +118,8 @@
   },
   
   "scope_extensions": [
-    {"origin": "https://www.rehobothgolfcarts.com"},
-    {"origin": "https://rehobothgolfcarts.com"}
+    {"origin": "https://www.rehobothbeachgolfcarts.com"},
+    {"origin": "https://rehobothbeachgolfcarts.com"}
   ],
   
   "protocol_handlers": [
@@ -145,7 +145,7 @@
       "sizes": "1920x1080",
       "type": "image/jpeg",
       "form_factor": "wide",
-      "label": "Rehoboth Golf Carts Delaware Showroom"
+      "label": "Rehoboth Beach Golf Carts Delaware Showroom"
     },
     {
       "src": "/attached_assets/a-photograph-of-a-modern-golf-cart-deale_BmkjJPKgRKmt_qykvK10yQ_qUKFPYosR52Nhi9vhPGJ5A_1755541056711.jpeg",

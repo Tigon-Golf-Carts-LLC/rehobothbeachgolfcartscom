@@ -4,55 +4,55 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://rehobothgolfcarts.com/</loc>
+    <loc>https://rehobothbeachgolfcarts.com/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/Rehoboth Golf Carts transparent_1755544314824.png</image:loc>
-      <image:title>Rehoboth Golf Carts Logo</image:title>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/Rehoboth Beach Golf Carts transparent_1755544314824.png</image:loc>
+      <image:title>Rehoboth Beach Golf Carts Logo</image:title>
       <image:caption>Delaware's premier electric golf cart dealership</image:caption>
     </image:image>
   </url>
 
   <!-- Main Pages -->
   <url>
-    <loc>https://rehobothgolfcarts.com/inventory</loc>
+    <loc>https://rehobothbeachgolfcarts.com/inventory</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/showroom</loc>
+    <loc>https://rehobothbeachgolfcarts.com/showroom</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/services</loc>
+    <loc>https://rehobothbeachgolfcarts.com/services</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/about</loc>
+    <loc>https://rehobothbeachgolfcarts.com/about</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/contact</loc>
+    <loc>https://rehobothbeachgolfcarts.com/contact</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/rentals</loc>
+    <loc>https://rehobothbeachgolfcarts.com/rentals</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -60,97 +60,97 @@
 
   <!-- Brand Pages -->
   <url>
-    <loc>https://rehobothgolfcarts.com/denago</loc>
+    <loc>https://rehobothbeachgolfcarts.com/denago</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV City Golf Cart</image:title>
-      <image:caption>DENAGO electric golf cart models at Rehoboth Golf Carts</image:caption>
+      <image:caption>DENAGO electric golf cart models at Rehoboth Beach Golf Carts</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/evolution</loc>
+    <loc>https://rehobothbeachgolfcarts.com/evolution</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135350621.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135350621.jpg</image:loc>
       <image:title>Evolution D5 Maverick 4 Plus Golf Cart</image:title>
-      <image:caption>Evolution electric golf cart models at Rehoboth Golf Carts</image:caption>
+      <image:caption>Evolution electric golf cart models at Rehoboth Beach Golf Carts</image:caption>
     </image:image>
   </url>
 
   <!-- DENAGO Vehicle Models -->
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/denago-ev-city</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/denago-ev-city</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV City Golf Cart</image:title>
       <image:caption>Urban mobility solution with street-legal capabilities</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/denago-ev-nomad</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/denago-ev-nomad</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV Nomad Golf Cart</image:title>
       <image:caption>Adventure-ready electric golf cart for all terrains</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/denago-ev-nomad-xl</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/denago-ev-nomad-xl</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV Nomad XL Golf Cart</image:title>
       <image:caption>Extended adventure golf cart with enhanced capacity</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/denago-ev-rover-xl</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/denago-ev-rover-xl</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV Rover XL Golf Cart</image:title>
       <image:caption>Premium extended range golf cart</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/denago-ev-rover-xl6</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/denago-ev-rover-xl6</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/DENAGONEVROVERXL6_1751893047473_1753135231313.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/DENAGONEVROVERXL6_1751893047473_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV Rover XL6 Golf Cart</image:title>
       <image:caption>6-passenger premium golf cart</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/denago-ev-rover-xxl</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/denago-ev-rover-xxl</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV Rover XXL Golf Cart</image:title>
       <image:caption>Maximum capacity extended range golf cart</image:caption>
     </image:image>
@@ -158,132 +158,132 @@
 
   <!-- Evolution Vehicle Models -->
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-carrier-6-plus</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-carrier-6-plus</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg</image:loc>
       <image:title>Evolution Carrier 6 Plus Golf Cart</image:title>
       <image:caption>6-passenger utility golf cart with cargo capacity</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-carrier-8-plus</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-carrier-8-plus</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIONCARRIER8PLUS_1751893115779_1753135231314.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIONCARRIER8PLUS_1751893115779_1753135231314.jpg</image:loc>
       <image:title>Evolution Carrier 8 Plus Golf Cart</image:title>
       <image:caption>8-passenger utility golf cart with maximum cargo capacity</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-classic-2-plus</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-classic-2-plus</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg</image:loc>
       <image:title>Evolution Classic 2 Plus Golf Cart</image:title>
       <image:caption>2-passenger classic design golf cart</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-classic-2-pro</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-classic-2-pro</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PRO_1751893115779_1753135231314.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PRO_1751893115779_1753135231314.jpg</image:loc>
       <image:title>Evolution Classic 2 Pro Golf Cart</image:title>
       <image:caption>Professional 2-passenger golf cart with premium features</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-classic-4-plus</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-classic-4-plus</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg</image:loc>
       <image:title>Evolution Classic 4 Plus Golf Cart</image:title>
       <image:caption>4-passenger classic design golf cart</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-classic-4-pro</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-classic-4-pro</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIONCLASSIC4PRO_1751893115780_1753135231314.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIONCLASSIC4PRO_1751893115780_1753135231314.jpg</image:loc>
       <image:title>Evolution Classic 4 Pro Golf Cart</image:title>
       <image:caption>Professional 4-passenger golf cart with premium features</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-d5-maverick-4-plus</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-d5-maverick-4-plus</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135350621.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135350621.jpg</image:loc>
       <image:title>Evolution D5 Maverick 4 Plus Golf Cart</image:title>
       <image:caption>Premium 4-passenger golf cart with advanced features</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-d5-maverick-6-plus</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-d5-maverick-6-plus</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK6PLUS_1751893115781_1753135350622.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK6PLUS_1751893115781_1753135350622.jpg</image:loc>
       <image:title>Evolution D5 Maverick 6 Plus Golf Cart</image:title>
       <image:caption>Premium 6-passenger golf cart with advanced features</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-d5-ranger-6-plus</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-d5-ranger-6-plus</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIOND5RANGER6PLUS_1751893159004_1753135350619.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIOND5RANGER6PLUS_1751893159004_1753135350619.jpg</image:loc>
       <image:title>Evolution D5 Ranger 6 Plus Golf Cart</image:title>
       <image:caption>6-passenger utility golf cart with rugged design</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-d6-max-xt4</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-d6-max-xt4</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg</image:loc>
       <image:title>Evolution D6 Max XT4 Golf Cart</image:title>
       <image:caption>High-performance 4-passenger golf cart</image:caption>
     </image:image>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/vehicle/evolution-d6-max-xt6</loc>
+    <loc>https://rehobothbeachgolfcarts.com/vehicle/evolution-d6-max-xt6</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://rehobothgolfcarts.com/attached_assets/EVOLUTIOND6MAXXT6_1751893159005_1753135437836.jpg</image:loc>
+      <image:loc>https://rehobothbeachgolfcarts.com/attached_assets/EVOLUTIOND6MAXXT6_1751893159005_1753135437836.jpg</image:loc>
       <image:title>Evolution D6 Max XT6 Golf Cart</image:title>
       <image:caption>High-performance 6-passenger golf cart</image:caption>
     </image:image>
@@ -291,175 +291,175 @@
 
   <!-- Sussex County Municipality Pages -->
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/bethany-beach</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/bethany-beach</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/bethel</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/bethel</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/blades</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/blades</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/bridgeville</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/bridgeville</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/dagsboro</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/dagsboro</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/delmar</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/delmar</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/dewey-beach</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/dewey-beach</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/ellendale</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/ellendale</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/fenwick-island</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/fenwick-island</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/frankford</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/frankford</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/georgetown</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/georgetown</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/greenwood</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/greenwood</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/gumboro</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/gumboro</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/harbeson</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/harbeson</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/henlopen-acres</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/henlopen-acres</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/laurel</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/laurel</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/lewes</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/lewes</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/millsboro</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/millsboro</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/millville</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/millville</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/milton</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/milton</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/ocean-view</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/ocean-view</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/rehoboth-beach</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/rehoboth-beach</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/seaford</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/seaford</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/selbyville</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/selbyville</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/locations/south-bethany</loc>
+    <loc>https://rehobothbeachgolfcarts.com/locations/south-bethany</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -467,14 +467,14 @@
 
   <!-- Policy Pages -->
   <url>
-    <loc>https://rehobothgolfcarts.com/privacy-policy</loc>
+    <loc>https://rehobothbeachgolfcarts.com/privacy-policy</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://rehobothgolfcarts.com/terms-of-service</loc>
+    <loc>https://rehobothbeachgolfcarts.com/terms-of-service</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

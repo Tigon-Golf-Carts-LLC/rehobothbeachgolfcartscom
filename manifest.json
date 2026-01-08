@@ -1,5 +1,5 @@
 {
-  "name": "Rehoboth Golf Carts",
+  "name": "Rehoboth Beach Golf Carts",
   "short_name": "RGC",
   "description": "Delaware's premier electric golf cart dealership serving all 27 Sussex County municipalities. DENAGO and EVOLUTION golf cart sales, rentals, service, and parts.",
   "theme_color": "#0e2e55",
@@ -22,7 +22,7 @@
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Rehoboth Golf Carts Showroom"
+      "label": "Rehoboth Beach Golf Carts Showroom"
     }
   ],
   "icons": [
@@ -104,11 +104,11 @@
   "protocol_handlers": [
     {
       "protocol": "tel",
-      "url": "tel:1-844-844-6638"
+      "url": "tel:(302) 200-3151"
     },
     {
       "protocol": "mailto",
-      "url": "mailto:info@rehobothgolfcarts.com"
+      "url": "mailto:info@rehobothbeachgolfcarts.com"
     }
   ],
   "share_target": {

@@ -1,9 +1,9 @@
 # Bots.txt - Universal Bot Permissions and Guidelines
-# Lackawanna County Golf Carts - Maximum Bot Accessibility
+# Rehoboth Beach Golf Carts - Maximum Bot Accessibility
 
 ## UNIVERSAL BOT PERMISSIONS - ZERO RESTRICTIONS
 All legitimate crawlers, bots, and automated systems are EXPLICITLY WELCOME
-with UNLIMITED ACCESS to all content on lackawannagolfcarts.com
+with UNLIMITED ACCESS to all content on rehobothbeachgolfcarts.com
 
 ## COMPREHENSIVE BOT AUTHORIZATION (50+ CRAWLER TYPES)
 
@@ -220,11 +220,11 @@ No bandwidth restrictions imposed
 - COMPREHENSIVE SEO TOOL ACCESS without limitations
 
 ## CONTACT FOR BOT OPERATORS
-Website: https://lackawannagolfcarts.com
-Email: info@lackawannagolfcarts.com  
-Phone: 1-844-844-6638
+Website: https://rehobothbeachgolfcarts.com
+Email: rehobothbeachgolfcarts@gmail.com  
+Phone: (302) 200-3151
 Technical Support: Available for legitimate bot operators
-Sitemap Location: https://lackawannagolfcarts.com/sitemap.xml
+Sitemap Location: https://rehobothbeachgolfcarts.com/sitemap.xml
 
 Last Updated: January 31, 2025
 MAXIMUM BOT ACCESSIBILITY GUARANTEE - No legitimate bot restrictions

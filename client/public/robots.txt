@@ -31,7 +31,7 @@ User-agent: LinkedInBot
 Allow: /
 
 # Sitemap
-Sitemap: https://carbongolfcarts.com/sitemap.xml
+Sitemap: https://rehobothbeachgolfcarts.com/sitemap.xml
 
 # Allow common file types
 Allow: /*.css
@@ -45,30 +45,30 @@ Allow: /*.svg
 Allow: /*.pdf
 
 # Company Information for SEO
-# Business: Carbon County Golf Carts
-# Location: Carbon County, Pennsylvania
+# Business: Rehoboth Beach Golf Carts
+# Location: Sussex County, Delaware
 # Services: Golf Cart Sales, Service, Rentals, Parts
 # Brands: DENAGO, EVOLUTION
-# Phone: 1-844-844-6638
-# Email: info@carbongolfcarts.com
-# Coverage: All 23 Carbon County municipalities
+# Phone: (302) 200-3151
+# Email: rehobothbeachgolfcarts@gmail.com
+# Coverage: All Sussex County municipalities
 # 
 # Website Structure:
 # - 8 Main Pages (Home, Inventory, Services, About, Rentals, Showroom, Contact, Financing)
 # - 2 Brand Pages (DENAGO, EVOLUTION)
 # - 37 Individual Vehicle Detail Pages
-# - 23 Carbon County Municipality Location Pages
-# - 23 Carbon County Municipality Rental Pages
+# - Sussex County Municipality Location Pages
+# - Sussex County Municipality Rental Pages
 # - 12 Comprehensive Policy Pages
 # 
-# Carbon County Municipalities Served:
-# Boroughs (9): Beaver Meadows, East Side, Jim Thorpe, Lansford, Lehighton, 
-#               Parryville, Summit Hill, Weatherly, Weissport
-# Townships (14): East Penn, Franklin, Kidder, Kline, Lausanne, Lehigh,
-#                 Lower Towamensing, Mahoning, Packer, Penn Forest, Towamensing,
-#                 Banks, Nesquehoning, Palmerton
+# Sussex County Delaware Communities Served:
+# Bethany Beach, Bethel, Blades, Bridgeville, Dagsboro, Delmar,
+# Dewey Beach, Ellendale, Fenwick Island, Frankford, Georgetown,
+# Greenwood, Gumboro, Harbeson, Henlopen Acres, Laurel, Lewes,
+# Millsboro, Millville, Milton, Ocean View, Rehoboth Beach,
+# Seaford, Selbyville, South Bethany
 #
 # Professional SEO Implementation:
 # - Complete sitemap.xml with all 100+ pages
 # - Comprehensive structured data markup
-# - Local business optimization for Carbon County PA
+# - Local business optimization for Sussex County Delaware

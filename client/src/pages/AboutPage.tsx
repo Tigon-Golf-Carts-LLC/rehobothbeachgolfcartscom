@@ -30,7 +30,7 @@ export default function AboutPage() {
   ];
 
   const milestones = [
-    { year: "2008", event: "Rehoboth Golf Carts founded in Sussex County, Delaware" },
+    { year: "2008", event: "Rehoboth Beach Golf Carts founded in Sussex County, Delaware" },
     { year: "2010", event: "Became authorized EVOLUTION dealer" },
     { year: "2013", event: "Expanded to serve all Sussex County municipalities" },
     { year: "2016", event: "Added DENAGO to our brand portfolio" },
@@ -42,39 +42,39 @@ export default function AboutPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="About Rehoboth Golf Carts - Premier Golf Cart Dealership | Sussex County Delaware"
-        description="Learn about Rehoboth Golf Carts, Sussex County Delaware's premier golf cart dealership. Expert team, authorized DENAGO and EVOLUTION dealer with comprehensive service. Call 302-722-0999."
-        keywords="about Rehoboth Golf Carts, golf cart dealership Delaware, Sussex County, DENAGO EVOLUTION dealer, golf cart service team"
-        canonicalUrl="https://rehobothgolfcarts.com/about"
+        title="About Rehoboth Beach Golf Carts - Premier Golf Cart Dealership | Sussex County Delaware"
+        description="Learn about Rehoboth Beach Golf Carts, Sussex County Delaware's premier golf cart dealership. Expert team, authorized DENAGO and EVOLUTION dealer with comprehensive service. Call (302) 200-3151."
+        keywords="about Rehoboth Beach Golf Carts, golf cart dealership Delaware, Sussex County, DENAGO EVOLUTION dealer, golf cart service team"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/about"
       />
       <AllSchemas 
         pageType="about" 
         pageData={{
-          title: "About Rehoboth Golf Carts",
-          description: "Learn about Rehoboth Golf Carts, Sussex County Delaware's premier golf cart dealership. Expert team, authorized DENAGO and EVOLUTION dealer with comprehensive service.",
-          url: "https://rehobothgolfcarts.com/about",
+          title: "About Rehoboth Beach Golf Carts",
+          description: "Learn about Rehoboth Beach Golf Carts, Sussex County Delaware's premier golf cart dealership. Expert team, authorized DENAGO and EVOLUTION dealer with comprehensive service.",
+          url: "https://rehobothbeachgolfcarts.com/about",
           breadcrumbs: [
-            { name: "Home", url: "https://rehobothgolfcarts.com/" },
-            { name: "About", url: "https://rehobothgolfcarts.com/about" }
+            { name: "Home", url: "https://rehobothbeachgolfcarts.com/" },
+            { name: "About", url: "https://rehobothbeachgolfcarts.com/about" }
           ],
           people: [
             {
               name: "Mike Johnson",
               jobTitle: "General Manager",
               description: "Leading our team with passion for customer service and golf cart expertise with 15+ years experience",
-              image: "/attached_assets/Lackawanna County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Rehoboth Beach Golf Carts_1753806477719.png"
             },
             {
               name: "Sarah Davis",
               jobTitle: "Service Manager", 
               description: "Certified technician ensuring quality service and customer satisfaction with 12+ years experience",
-              image: "/attached_assets/Lackawanna County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Rehoboth Beach Golf Carts_1753806477719.png"
             },
             {
               name: "Tom Wilson",
               jobTitle: "Sales Director",
               description: "Helping customers find the perfect golf cart for their needs with 10+ years experience",
-              image: "/attached_assets/Lackawanna County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Rehoboth Beach Golf Carts_1753806477719.png"
             }
           ]
         }}
@@ -84,7 +84,7 @@ export default function AboutPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("about")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            About Rehoboth Golf Carts
+            About Rehoboth Beach Golf Carts
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
             Since 2008, we've been Sussex County Delaware's premier destination for premium golf carts, 
@@ -109,7 +109,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2008 in Sussex County, Delaware, Rehoboth Golf Carts began with a simple mission: 
+                Founded in 2008 in Sussex County, Delaware, Rehoboth Beach Golf Carts began with a simple mission: 
                 to provide high-quality golf carts and exceptional service to customers throughout Sussex County, Delaware.
               </p>
               <p className="text-lg text-gray-600 mb-6">
@@ -123,8 +123,8 @@ export default function AboutPage() {
                 combine cutting-edge technology with personalized customer care.
               </p>
               <p className="text-lg text-gray-600 mb-8">
-                Today, we're proud to serve the diverse communities across Lackawanna County's 39 municipalities, from Scranton 
-                to Carbondale, from Dunmore to Archbald, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
+                Today, we're proud to serve the diverse communities across Sussex County's 39 municipalities, from Rehoboth Beach 
+                to Lewes, from Milford to Bethany Beach, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
               </p>
               <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full sm:w-auto">
                 Learn More About Our Services
@@ -256,24 +256,24 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             <div>
-              <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Luzerne County</h2>
+              <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Sussex County</h2>
               <p className="text-lg text-gray-600 mb-6">
-                From our locations serving Luzerne County and beyond, we proudly serve customers throughout 
+                From our locations serving Sussex County and beyond, we proudly serve customers throughout 
                 the Pocono Mountains region. Our commitment to quality service extends across our 
                 entire service area with multiple convenient locations.
               </p>
               <div className="space-y-4 mb-6">
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Lackawanna County Golf Carts - Jim Thorpe</span>
+                  <span className="text-gray-700 font-medium">Rehoboth Beach Golf Carts - Lewes</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Lackawanna County Golf Carts - Lehighton</span>
+                  <span className="text-gray-700 font-medium">Rehoboth Beach Golf Carts - Georgetown</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Lackawanna County Golf Carts - Palmerton</span>
+                  <span className="text-gray-700 font-medium">Rehoboth Beach Golf Carts - Palmerton</span>
                 </div>
               </div>
               <div className="flex items-center gap-4 mb-6">
@@ -288,24 +288,24 @@ export default function AboutPage() {
             {/* Google Maps Embed - Mobile Responsive */}
             <div className="bg-gray-100 rounded-lg overflow-hidden shadow-lg">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-76.1273!3d41.2451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5c8b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2sLuzerne%20County%2C%20PA%2C%20USA!5e0!3m2!1sen!2sus!4v1753817570000!5m2!1sen!2sus" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-76.1273!3d41.2451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5c8b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2sSussex%20County%2C%20DE%2C%20USA!5e0!3m2!1sen!2sus!4v1753817570000!5m2!1sen!2sus" 
                 className="w-full h-64 sm:h-80 md:h-96"
                 style={{border:0}}
                 allowFullScreen 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Luzerne County, PA Map"
+                title="Sussex County, DE Map"
               />
             </div>
           </div>
 
           {/* Towns List Below Map */}
           <div className="mt-12 bg-blue-50 p-8 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4 text-center">Luzerne County Municipalities We Serve</h3>
+            <h3 className="text-xl font-semibold mb-4 text-center">Sussex County Municipalities We Serve</h3>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 text-sm text-gray-700">
               {[
-                "Banks Township", "Beaver Meadows", "Bowmanstown", "East Side", "Hauto", "Jim Thorpe",
-                "Lansford", "Lehighton", "Nesquehoning", "New Ringgold", "Palmerton", "Parryville",
+                "Banks Township", "Beaver Meadows", "Bowmanstown", "East Side", "Hauto", "Lewes",
+                "Milton", "Georgetown", "Nesquehoning", "New Ringgold", "Palmerton", "Parryville",
                 "Penn Forest Township", "Summit Hill", "Tresckow", "Weatherly", "Weissport", "Andreas",
                 "Ashfield", "Christmans", "Hickory Run", "Lake Harmony", "Penn Lake Park", "White Haven"
               ].map((town, index) => (
@@ -325,15 +325,15 @@ export default function AboutPage() {
             Ready to Join Our Family?
           </h2>
           <p className="text-xl mb-8">
-            Experience the Lackawanna County Golf Carts difference in the Pocono Mountains
+            Experience the Rehoboth Beach Golf Carts difference in the Pocono Mountains
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               Visit Our Showroom
             </Button>
-            <a href="tel:1-844-844-6638">
+            <a href="tel:(302) 200-3151">
               <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-blue-600">
-                Call 1-844-844-6638
+                Call (302) 200-3151
               </Button>
             </a>
           </div>

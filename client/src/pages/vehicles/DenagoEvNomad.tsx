@@ -11,10 +11,10 @@ export default function DenagoEvNomad() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV NOMAD - Adventure Electric Vehicle | Rehoboth Golf Carts Sussex County"
+        title="DENAGO® EV NOMAD - Adventure Electric Vehicle | Rehoboth Beach Golf Carts Sussex County"
         description="Discover the DENAGO® EV NOMAD designed for outdoor adventures and off-road capability. Perfect for camping, hunting, and recreational activities."
         keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Sussex County Delaware"
-        canonicalUrl="https://rehobothgolfcarts.com/vehicles/denago-ev-nomad"
+        canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/denago-ev-nomad"
         ogImage="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
         ogType="product"
       />
@@ -258,9 +258,9 @@ export default function DenagoEvNomad() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 1-844-844-6638
+                  Call (302) 200-3151
                 </Button>
               </a>
             </div>
@@ -277,7 +277,7 @@ export default function DenagoEvNomad() {
                   <CardTitle>Adventure Sales</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">(302) 200-3151</p>
                   <p className="text-gray-600">Speak with our adventure vehicle specialists</p>
                 </CardContent>
               </Card>
@@ -303,7 +303,7 @@ export default function DenagoEvNomad() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Adventure-ready delivery and pickup service throughout Bucks County, Pennsylvania.
+                    Adventure-ready delivery and pickup service throughout Bucks County, Delaware.
                   </p>
                 </CardContent>
               </Card>

@@ -15,11 +15,11 @@ interface PersonSchemaProps {
 export default function PersonSchema({
   name,
   jobTitle = "Golf Cart Specialist",
-  description = "Professional golf cart expert at Lackawanna County Golf Carts",
+  description = "Professional golf cart expert at Rehoboth Beach Golf Carts",
   email,
   telephone,
   image,
-  worksFor = "Lackawanna County Golf Carts",
+  worksFor = "Rehoboth Beach Golf Carts",
   url,
   sameAs = []
 }: PersonSchemaProps) {
@@ -44,7 +44,7 @@ export default function PersonSchema({
       "worksFor": {
         "@type": "Organization",
         "name": worksFor,
-        "url": "https://lackawannagolfcarts.com"
+        "url": "https://rehobothbeachgolfcarts.com"
       },
       ...(sameAs.length > 0 && { "sameAs": sameAs })
     };

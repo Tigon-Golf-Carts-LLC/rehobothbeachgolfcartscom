@@ -9,10 +9,10 @@ export default function EvolutionCarrier6PlusPage() {
       series="CARRIER"
       price="$9,595"
       image={evolutionCarrier6PlusImage}
-      seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Rehoboth Golf Carts"
-      seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Sussex County, Delaware. 6-passenger utility vehicle with enhanced cargo capacity and work features. Call 302-722-0999."
+      seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Rehoboth Beach Golf Carts"
+      seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Sussex County, Delaware. 6-passenger utility vehicle with enhanced cargo capacity and work features. Call (302) 200-3151."
       seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Sussex County, Delaware"
-      canonicalUrl="https://rehobothgolfcarts.com/vehicles/evolution-carrier-6-plus"
+      canonicalUrl="https://rehobothbeachgolfcarts.com/vehicles/evolution-carrier-6-plus"
       seats="6"
       range="38 miles"
       topSpeed="25 mph"

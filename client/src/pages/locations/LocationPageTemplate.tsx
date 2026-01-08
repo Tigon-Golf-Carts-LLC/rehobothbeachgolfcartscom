@@ -49,7 +49,7 @@ export default function LocationPageTemplate({ municipality }: LocationPageProps
         title={`${name} Golf Carts | DENAGO & EVOLUTION Sales & Rentals Delaware`}
         description={`Professional golf cart sales, rentals, and service in ${name}, Delaware. DENAGO and EVOLUTION electric vehicles with expert service throughout Sussex County.`}
         keywords={`${name} golf carts, ${slug} golf cart sales, Delaware golf cart rentals, DENAGO ${name}, EVOLUTION ${name}, Sussex County golf carts`}
-        canonicalUrl={`https://rehobothgolfcarts.com${municipality.url}`}
+        canonicalUrl={`https://rehobothbeachgolfcarts.com${municipality.url}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_ZIJgnM0qSLqCnmqzAiha0w_Tcds7ckvRe6FNLFDKo_aDg_1755541056710.jpeg"
         ogType="website"
       />
@@ -72,10 +72,10 @@ export default function LocationPageTemplate({ municipality }: LocationPageProps
               in {name}, Delaware. Your trusted Sussex County golf cart specialists.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:1-844-844-6638">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 1-844-844-6638
+                  Call (302) 200-3151
                 </Button>
               </a>
               <Link href="/inventory">
@@ -145,14 +145,14 @@ export default function LocationPageTemplate({ municipality }: LocationPageProps
                       <Phone className="w-5 h-5 text-theme-orange mr-3" />
                       <div>
                         <p className="font-semibold">Phone</p>
-                        <p className="text-gray-600">1-844-844-6638</p>
+                        <p className="text-gray-600">(302) 200-3151</p>
                       </div>
                     </div>
                     <div className="flex items-center">
                       <Mail className="w-5 h-5 text-theme-orange mr-3" />
                       <div>
                         <p className="font-semibold">Email</p>
-                        <p className="text-gray-600">info@rehobothgolfcarts.com</p>
+                        <p className="text-gray-600">info@rehobothbeachgolfcarts.com</p>
                       </div>
                     </div>
                     <div className="flex items-center">
@@ -245,14 +245,14 @@ export default function LocationPageTemplate({ municipality }: LocationPageProps
               Ready to Get Started in {name}?
             </h2>
             <p className="text-xl mb-8">
-              Contact Rehoboth Golf Carts today for expert golf cart sales, rentals, and service 
+              Contact Rehoboth Beach Golf Carts today for expert golf cart sales, rentals, and service 
               throughout {name} and Sussex County, Delaware.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:1-844-844-6638">
+              <a href="tel:(302) 200-3151">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call Now: 1-844-844-6638
+                  Call Now: (302) 200-3151
                 </Button>
               </a>
               <Link href="/contact">

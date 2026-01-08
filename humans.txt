@@ -1,11 +1,11 @@
 # Humans.txt - Website Team and Technology Information
-# Rehoboth Golf Carts - Website Development Credits
+# Rehoboth Beach Golf Carts - Website Development Credits
 
 ## WEBSITE TEAM TRANSPARENCY
 
 ### Business Information
-Company: Rehoboth Golf Carts
-Website: https://rehobothgolfcarts.com
+Company: Rehoboth Beach Golf Carts
+Website: https://rehobothbeachgolfcarts.com
 Industry: Electric Golf Cart Sales and Service
 Location: Sussex County, Delaware, USA
 Established: Serving the community with excellence
@@ -17,8 +17,8 @@ Service Area: All 27 Sussex County municipalities
 Customer Commitment: Professional service and customer satisfaction
 
 ### Contact Information
-Primary Email: info@rehobothgolfcarts.com
-Business Phone: 1-844-844-6638
+Primary Email: rehobothbeachgolfcarts@gmail.com
+Business Phone: (302) 200-3151
 Service Area: Sussex County, Delaware
 Coverage: Rehoboth Beach, Lewes, Georgetown, Seaford, and all local municipalities
 
@@ -93,7 +93,7 @@ Content Strategy: Educational and service-focused content
 Focus: Educational content about electric golf carts
 Approach: Customer-first information and guidance
 Expertise: Technical knowledge sharing and support
-Local Focus: Lackawanna County specific information
+Local Focus: Sussex County specific information
 
 ### SEO Strategy
 Keywords: Comprehensive golf cart and location-based targeting
@@ -103,7 +103,7 @@ Content Marketing: Valuable information for customers
 
 ### Photography and Visual Content
 Style: Professional showroom and product photography
-Source: Original Lackawanna County Golf Carts imagery
+Source: Original Rehoboth Beach Golf Carts imagery
 Optimization: Properly sized and formatted for web delivery
 Accessibility: Comprehensive alt text and descriptions
 
@@ -116,7 +116,7 @@ Design: Professional branding and responsive layout
 SEO: Comprehensive search engine optimization setup
 
 ### Current Phase (January 2025)
-Branding: Complete Lackawanna County Golf Carts transformation
+Branding: Complete Rehoboth Beach Golf Carts transformation
 Analytics: Google Tag Manager and Analytics implementation
 SEO Files: Comprehensive AI and search optimization files
 Content: Municipality-specific pages and local optimization
@@ -152,11 +152,11 @@ Feedback: Customer input integration and satisfaction optimization
 ### Customer Service Excellence
 Commitment: Exceptional customer service and support
 Knowledge: Expert advice on golf cart selection and maintenance
-Local Focus: Deep understanding of Lackawanna County needs
+Local Focus: Deep understanding of Sussex County needs
 Quality: Premium products and professional service delivery
 
 ### Community Engagement
-Local Business: Proudly serving Lackawanna County communities
+Local Business: Proudly serving Sussex County communities
 Economic Impact: Supporting local economy and employment
 Environmental: Promoting clean electric transportation options
 Education: Sharing knowledge about electric vehicle benefits
@@ -170,14 +170,14 @@ Reliability: Consistent and dependable service delivery
 ## CONTACT AND COLLABORATION
 
 ### Website Support
-For website issues or suggestions: info@lackawannagolfcarts.com
+For website issues or suggestions: rehobothbeachgolfcarts@gmail.com
 Response time: 24-48 hours for technical inquiries
 Support: Comprehensive assistance for all web-related needs
 
 ### Business Inquiries  
-Sales and Service: 1-844-844-6638
-Email: info@lackawannagolfcarts.com
-Coverage: All Lackawanna County municipalities
+Sales and Service: (302) 200-3151
+Email: rehobothbeachgolfcarts@gmail.com
+Coverage: All Sussex County municipalities
 Hours: Contact for current business hours and availability
 
 ## ACKNOWLEDGMENTS
@@ -191,7 +191,7 @@ Community: Web development community knowledge and support
 ### Business Partners
 Manufacturers: DENAGO and EVOLUTION golf cart brands
 Suppliers: Parts and accessories partners
-Community: Lackawanna County business community
+Community: Sussex County business community
 Customers: Loyal customers and community support
 
 ## WEBSITE GOALS AND OBJECTIVES
@@ -199,7 +199,7 @@ Customers: Loyal customers and community support
 ### Primary Objectives
 Information: Comprehensive golf cart information and education
 Service: Easy access to sales, rental, and service information
-Local Focus: Lackawanna County specific content and relevance
+Local Focus: Sussex County specific content and relevance
 User Experience: Fast, accessible, and intuitive website interaction
 
 ### Success Metrics
@@ -211,4 +211,4 @@ User Satisfaction: Positive customer feedback and engagement
 Last Updated: January 31, 2025
 Website Version: Current production release
 Development Status: Active development and maintenance
-Contact: info@lackawannagolfcarts.com for any website-related inquiries
+Contact: rehobothbeachgolfcarts@gmail.com for any website-related inquiries

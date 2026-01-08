@@ -18,9 +18,9 @@ export default function MunicipalityRentalPage({
   slug 
 }: MunicipalityRentalPageProps) {
   const fullLocationName = `${municipalityName} ${municipalityType}`;
-  const pageTitle = `Golf Cart Rentals in ${fullLocationName}, PA | Montgomery County Golf Carts`;
-  const pageDescription = `Rent premium golf carts in ${fullLocationName}, Montgomery County, PA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${fullLocationName}.`;
-  const keywords = `golf cart rental ${municipalityName}, ${fullLocationName} golf cart rental, Montgomery County golf cart rental, Pennsylvania golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${fullLocationName}, DE | Rehoboth Beach Golf Carts`;
+  const pageDescription = `Rent premium golf carts in ${fullLocationName}, Sussex County, DE. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${fullLocationName}.`;
+  const keywords = `golf cart rental ${municipalityName}, ${fullLocationName} golf cart rental, Sussex County golf cart rental, Delaware golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -190,17 +190,17 @@ export default function MunicipalityRentalPage({
           <p>{plan.renewal}</p>
           <p>{plan.delivery}</p>
         </div>
-        <a href="tel:1-844-844-6638">
+        <a href="tel:(302) 200-3151">
           <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
             <Phone className="w-4 h-4 mr-2" />
-            Call 1-844-844-6638
+            Call (302) 200-3151
           </Button>
         </a>
       </CardContent>
     </Card>
   );
 
-  const businessPhone = "1-844-844-6638";
+  const businessPhone = "(302) 200-3151";
 
   return (
     <>
@@ -208,7 +208,7 @@ export default function MunicipalityRentalPage({
         title={pageTitle}
         description={pageDescription}
         keywords={keywords}
-        canonicalUrl={`https://montcogolfcarts.com/${slug}`}
+        canonicalUrl={`https://rehobothbeachgolfcarts.com/${slug}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />
@@ -254,7 +254,7 @@ export default function MunicipalityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {fullLocationName} 
-                and throughout Berks County, Pennsylvania.
+                and throughout Berks County, Delaware.
               </p>
             </div>
 

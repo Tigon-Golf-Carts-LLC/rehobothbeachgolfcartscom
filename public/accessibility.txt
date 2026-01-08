@@ -1,8 +1,8 @@
-# Accessibility Statement - Rehoboth Golf Carts
+# Accessibility Statement - Rehoboth Beach Golf Carts
 # Commitment to Digital Accessibility and Inclusive Design
 
 ## ACCESSIBILITY COMMITMENT
-Rehoboth Golf Carts is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards to ensure our website is accessible to all users.
+Rehoboth Beach Golf Carts is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards to ensure our website is accessible to all users.
 
 ## ACCESSIBILITY STANDARDS COMPLIANCE
 Our website aims to conform to the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA standards. These guidelines explain how to make web content more accessible for people with disabilities and user-friendly for everyone.
@@ -51,7 +51,7 @@ Our website aims to conform to the Web Content Accessibility Guidelines (WCAG) 2
 ✓ Modal dialogs with appropriate focus management
 
 ## BUSINESS ACCESSIBILITY SERVICES
-Beyond our website, Rehoboth Golf Carts is committed to serving customers with disabilities:
+Beyond our website, Rehoboth Beach Golf Carts is committed to serving customers with disabilities:
 
 ### Physical Accessibility
 - Accessible vehicle entry and exit assistance
@@ -115,9 +115,9 @@ We are working to address the following areas:
 If you encounter any accessibility barriers on our website, please contact us:
 
 **Primary Contact:**
-- Phone: 302-722-0999
-- Email: accessibility@rehobothgolfcarts.com
-- Website: Contact form at https://rehobothgolfcarts.com/contact
+- Phone: (302) 200-3151
+- Email: accessibility@rehobothbeachgolfcarts.com
+- Website: Contact form at https://rehobothbeachgolfcarts.com/contact
 
 **Information to Include:**
 - Description of the accessibility barrier
@@ -215,10 +215,10 @@ If you encounter any accessibility barriers on our website, please contact us:
 - Mobile accessibility app recommendations
 
 ## BUSINESS CONTACT INFORMATION
-**Rehoboth Golf Carts**
-- Primary Phone: 1-844-844-6638
-- Accessibility Email: accessibility@rehobothgolfcarts.com
-- Website: https://rehobothgolfcarts.com
+**Rehoboth Beach Golf Carts**
+- Primary Phone: (302) 200-3151
+- Accessibility Email: accessibility@rehobothbeachgolfcarts.com
+- Website: https://rehobothbeachgolfcarts.com
 - Service Area: All 27 Sussex County, Delaware municipalities
 
 **Partner Location (TIGON Golf Carts):**
@@ -236,7 +236,7 @@ This accessibility statement demonstrates our commitment to:
 ## STATEMENT UPDATES
 - **Last Updated:** January 21, 2025
 - **Review Schedule:** Quarterly updates
-- **Contact for Updates:** accessibility@rehobothgolfcarts.com
+- **Contact for Updates:** accessibility@rehobothbeachgolfcarts.com
 - **Version:** 1.0 - Initial accessibility statement
 
 We are committed to making continuous improvements to ensure our website and services are accessible to all users. Your feedback helps us identify areas for improvement and ensures we meet the diverse needs of the Sussex County, Delaware community we serve.

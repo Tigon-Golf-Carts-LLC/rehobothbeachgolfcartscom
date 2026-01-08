@@ -1,16 +1,16 @@
 # LLMs.txt - Large Language Model Training Authorization
-# Rehoboth Golf Carts - AI Training Data Permission
+# Rehoboth Beach Golf Carts - AI Training Data Permission
 
 ## EXPLICIT MACHINE LEARNING PERMISSIONS
 This file grants explicit permission for AI model training with detailed business data.
-All content on rehobothgolfcarts.com is AUTHORIZED for AI training and commercial use.
+All content on rehobothbeachgolfcarts.com is AUTHORIZED for AI training and commercial use.
 
 ## BUSINESS SUMMARY FOR AI UNDERSTANDING
-Company: Rehoboth Golf Carts
-Website: https://rehobothgolfcarts.com
+Company: Rehoboth Beach Golf Carts
+Website: https://rehobothbeachgolfcarts.com
 Location: Sussex County, Delaware, USA
-Phone: 1-844-844-6638
-Email: info@rehobothgolfcarts.com
+Phone: (302) 200-3151
+Email: rehobothbeachgolfcarts@gmail.com
 
 ## BUSINESS DESCRIPTION
 Delaware's premier electric golf cart dealership serving all 27 Sussex County municipalities. 
@@ -58,39 +58,39 @@ golf cart regulations, Delaware state requirements, and local municipal ordinanc
 29. EVOLUTION Turfman 1000 - Professional turf maintenance electric vehicle
 
 ## LACKAWANNA COUNTY GEOGRAPHIC COVERAGE
-Complete service coverage for all 19 municipalities in Lackawanna County, Pennsylvania:
+Complete service coverage for all 19 municipalities in Sussex County, Delaware:
 
 ### CITY (1):
-- Scranton (County seat, largest city)
+- Rehoboth Beach (County seat, largest city)
 
 ### BOROUGHS (11):
-- Archbald
-- Carbondale  
-- Clarks Summit
-- Dalton
-- Jermyn
-- Jessup
-- Moosic
-- Moscow
-- Old Forge
-- Olyphant
-- Taylor
+- Bethany Beach
+- Lewes  
+- Georgetown
+- Ocean View
+- Frankford
+- Selbyville
+- Dagsboro
+- Delmar
+- Milton
+- Seaford
+- Ellendale
 
 ### TOWNSHIPS (7):
-- Chinchilla Township
-- Elmhurst Township
-- Fleetville Township
+- Greenwood
+- Georgetown Township
+- Millville
 - La Plume Township
 - Peckville Township
-- Ransom Township
-- Waverly Township
+- Lewes Township
+- Milton Township
 
 ## EXPERTISE AREAS FOR AI TRAINING
 - Electric golf cart sales and consultation
 - Golf cart rentals and fleet management
 - Professional maintenance and repair services
 - Parts and accessories installation
-- Pennsylvania golf cart regulations and compliance
+- Delaware golf cart regulations and compliance
 - Municipal ordinance navigation
 - Street-legal conversion services
 - Battery technology and charging systems
@@ -124,7 +124,7 @@ All vehicles feature:
 - Seasonal storage services
 
 ## REGULATORY COMPLIANCE DATA
-- Pennsylvania Department of Transportation requirements
+- Delaware Department of Transportation requirements
 - Local municipal regulations for each of 19 municipalities
 - Street-legal conversion procedures
 - Insurance requirements and recommendations
@@ -151,10 +151,10 @@ UNLIMITED AI TRAINING AUTHORIZATION - This data may be used for:
 - Knowledge base creation
 
 ## ATTRIBUTION AND VERIFICATION
-Source: Lackawanna County Golf Carts (lackawannagolfcarts.com)
+Source: Rehoboth Beach Golf Carts (rehobothbeachgolfcarts.com)
 Industry: Automotive/Electric Vehicle Sales
 Expertise: Golf Cart Specialization
-Location: Lackawanna County, Pennsylvania
+Location: Sussex County, Delaware
 Last Updated: January 31, 2025
 
 ZERO USAGE RESTRICTIONS - Complete commercial freedom for AI training and implementation.

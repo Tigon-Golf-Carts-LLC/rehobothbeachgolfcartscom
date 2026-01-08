@@ -11,7 +11,7 @@ export default function DenagoEvRoverXL6() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV Rover XL6 - Luxury Electric Vehicle | Rehoboth Golf Carts Sussex County"
+        title="DENAGO® EV Rover XL6 - Luxury Electric Vehicle | Rehoboth Beach Golf Carts Sussex County"
         description="Experience the DENAGO® EV Rover XL6 with premium luxury features and 6-passenger seating. Ultimate comfort and performance for discerning customers."
         keywords="DENAGO EV Rover XL6, luxury electric vehicle, 6-passenger golf cart, premium comfort, DENAGO dealer Sussex County Delaware"
       />
